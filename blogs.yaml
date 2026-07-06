@@ -1,0 +1,186 @@
+# tech-blog-watcher ブログ登録簿
+# 追加方法: name / url / feed(または adapter)の1エントリを追記するだけ。
+#   - feed:    RSS/Atom フィードURL
+#   - adapter: adapters/<name>.py を使う特殊サイト(feed と併用可)
+
+- name: azukiazusa.dev
+  url: https://azukiazusa.dev/blog/
+  feed: https://azukiazusa.dev/rss.xml
+
+- name: kakakakakku blog
+  url: https://kakakakakku.hatenablog.com/
+  feed: https://kakakakakku.hatenablog.com/feed
+
+- name: Future Tech Blog
+  url: https://future-architect.github.io/
+  feed: https://future-architect.github.io/atom.xml
+
+- name: LayerX
+  url: https://tech.layerx.co.jp/
+  feed: https://tech.layerx.co.jp/feed
+
+- name: Hatena Developer Blog
+  url: https://developer.hatenastaff.com/
+  feed: https://developer.hatenastaff.com/feed
+
+- name: MonotaRO
+  url: https://tech-blog.monotaro.com/
+  feed: https://tech-blog.monotaro.com/feed
+
+- name: konifar-zatsu
+  url: https://konifar-zatsu.hatenadiary.jp/
+  feed: https://konifar-zatsu.hatenadiary.jp/feed
+
+- name: MIXI
+  url: https://zenn.dev/p/mixi
+  feed: https://zenn.dev/p/mixi/feed
+
+- name: asken
+  url: https://tech.asken.inc/
+  feed: https://tech.asken.inc/feed
+
+- name: DRESS CODE
+  url: https://zenn.dev/p/dress_code
+  feed: https://zenn.dev/p/dress_code/feed
+
+- name: CyberAgent
+  url: https://developers.cyberagent.co.jp/blog/
+  feed: https://developers.cyberagent.co.jp/blog/feed/
+
+- name: コドモン
+  url: https://tech.codmon.com/
+  feed: https://tech.codmon.com/feed
+
+- name: Wantedly stories
+  url: https://www.wantedly.com/companies/wantedly/stories
+  adapter: wantedly
+
+- name: タイミー
+  url: https://tech.timee.co.jp/
+  feed: https://tech.timee.co.jp/feed
+
+- name: LINEヤフー
+  url: https://techblog.lycorp.co.jp/ja
+  feed: https://techblog.lycorp.co.jp/ja/feed/index.xml
+
+- name: SMARTCAMP
+  url: https://zenn.dev/p/smartcamp
+  feed: https://zenn.dev/p/smartcamp/feed
+
+- name: hacomono
+  url: https://techblog.hacomono.jp/
+  feed: https://techblog.hacomono.jp/feed
+
+- name: エムスリーキャリア
+  url: https://m3career-eng.hatenablog.com/
+  feed: https://m3career-eng.hatenablog.com/feed
+
+- name: songmu.jp
+  url: https://songmu.jp/riji/
+  feed: https://songmu.jp/riji/atom.xml
+
+- name: そーだいなるらくがき帳
+  url: https://soudai.hatenablog.com/
+  feed: https://soudai.hatenablog.com/feed
+
+- name: シナプス
+  url: https://tech.synapse.jp/
+  feed: https://tech.synapse.jp/feed
+
+- name: YOUTRUST
+  url: https://tech.youtrust.co.jp/
+  feed: https://tech.youtrust.co.jp/feed
+
+- name: ZOZO
+  url: https://techblog.zozo.com/
+  feed: https://techblog.zozo.com/feed
+
+- name: freee
+  url: https://developers.freee.co.jp/
+  feed: https://developers.freee.co.jp/feed
+
+- name: Findy
+  url: https://tech.findy.co.jp/
+  feed: https://tech.findy.co.jp/feed
+
+- name: 虎の穴ラボ
+  url: https://toranoana-lab.hatenablog.com/
+  feed: https://toranoana-lab.hatenablog.com/feed
+
+- name: Uzabase
+  url: https://tech.uzabase.com/archive/category/blog
+  feed: https://tech.uzabase.com/feed/category/Blog
+
+- name: Henry
+  url: https://dev.henry.jp/
+  feed: https://dev.henry.jp/feed
+
+- name: syu-m-5151
+  url: https://syu-m-5151.hatenablog.com/
+  feed: https://syu-m-5151.hatenablog.com/feed
+
+- name: bootjp.me
+  url: https://bootjp.me/
+  feed: https://bootjp.me/feed
+
+- name: blog.inorinrinrin.com
+  url: https://blog.inorinrinrin.com/
+  feed: https://blog.inorinrinrin.com/feed
+
+- name: BASE
+  url: https://devblog.thebase.in/
+  feed: https://devblog.thebase.in/feed
+
+- name: DeNA
+  url: https://engineering.dena.com/blog/
+  feed: https://engineering.dena.com/blog/index.xml
+
+- name: Google Developers Blog (ja)
+  url: https://developers.googleblog.com/ja/
+  feed: https://developers.googleblog.com/feeds/posts/default/?alt=rss
+  adapter: google_ja
+
+- name: Netflix TechBlog
+  url: https://netflixtechblog.com/
+  feed: https://netflixtechblog.com/feed
+
+- name: AWS Japan Blog
+  url: https://aws.amazon.com/jp/blogs/news/
+  feed: https://aws.amazon.com/jp/blogs/news/feed/
+
+- name: Mercari Engineering
+  url: https://engineering.mercari.com/blog/
+  feed: https://engineering.mercari.com/blog/feed.xml
+
+- name: コミューン
+  url: https://tech.commune.co.jp/
+  feed: https://tech.commune.co.jp/feed
+
+- name: Discord Blog
+  url: https://discord.com/blog/
+  feed: https://discord.com/blog/rss.xml
+
+- name: DMM inside
+  url: https://inside.dmm.com/
+  adapter: dmm
+
+- name: CARTA HOLDINGS
+  url: https://techblog.cartaholdings.co.jp/
+  feed: https://techblog.cartaholdings.co.jp/feed
+
+- name: Nulab
+  url: https://nulab.com/ja/blog/
+  feed: https://nulab.com/ja/blog/feed/
+
+- name: DevelopersIO
+  url: https://dev.classmethod.jp/
+  feed: https://dev.classmethod.jp/feed/
+
+# engineering カテゴリ限定フィードがないため全体フィードで代用(§2参照)
+- name: Stripe Engineering
+  url: https://stripe.com/blog/engineering
+  feed: https://stripe.com/blog/feed.rss
+
+- name: STORES Product Blog
+  url: https://product.st.inc/
+  feed: https://product.st.inc/feed

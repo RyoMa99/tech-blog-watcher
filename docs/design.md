@@ -26,7 +26,7 @@
 
 1. **Wantedly stories** — フィードなし。ただしページHTMLに `"published_at":"2026-06-16T11:00:24+09:00"` 形式のJSONが埋め込まれており、確実に抽出できる。なお `<link rel="alternate">` に見える `projects.xml` は求人フィードであり誤り
 2. **inside.dmm.com** — フィードなし。Next.js サイトで `__NEXT_DATA__` のJSONから記事一覧を取得する。`sitemap.xml` は存在するが `lastmod` が全URL共通のビルド時刻で新着判定に使えないことを確認済み
-3. **Google Developers Blog (/ja)** — 日本語版のフィードが存在しない。英語版フィード(`/feeds/posts/default?alt=rss`)は有効だが、**記事アイテムに日付が入っていない**(title / link / description / guid のみ)。→ 日付ではなく既読URL差分で新着判定する。日本語版URLは英語版と同一スラッグ(`/ja/<slug>/`)のためリンク書き換えで対応
+3. **Google Developers Blog (/ja)** — 日本語版のフィードが存在しない。英語版フィード(`/feeds/posts/default?alt=rss`)は有効だが、**記事アイテムに日付が入っていない**(title / link / description / guid のみ)。→ 日付ではなく既読URL差分で新着判定する。日本語版URLは英語版と同一スラッグ(`/ja/<slug>/`)だが、**翻訳の公開は数週間以上遅れる**(2026-07-07 実装時確認: ENフィード上位10件すべてJA版404)。そのため既読判定キーは常に英語版URLとし、表示リンクはJA版が実在すればJA・なければENにフォールバックする(実装: `adapters/google_ja.py`)
 4. **Stripe (engineering)** — engineering カテゴリ限定のフィードがなく、ブログ全体フィード(`/blog/feed.rss`)のみ。engineering ページのHTMLには `datetime` 属性があるためスクレイプも可能だが、engineering 記事は年数本と超低頻度のため、当面は全体フィードで代用しタイトル/URLで目視判別できるレベルのノイズを許容する
 
 ### 入力リストの正規化
