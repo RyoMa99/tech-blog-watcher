@@ -4359,6 +4359,126 @@
   "blog": "STORES Product Blog",
   "first_seen": "2026-07-07"
  },
+ "https://seangoedecke.com/ai-gpus-live-longer-than-three-years/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/ai-inference-is-obviously-profitable/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/anti-ai-nostalgia/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/big-tech-needs-big-egos/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/build-agents-not-pipelines/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/doing-nothing-at-work/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/how-i-use-llms-in-2026/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/interaction-models/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/luddites-and-ai-datacenters/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/many-anti-ai-arguments-are-conservative/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/notes-on-incidents/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/programming-with-ai-agents-as-theory-building/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/prompts-are-technical-debt-too/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/saying-the-obvious-thing/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/simple-work-gets-rewarded/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/staff-engineer-archetypes/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/steering-vectors/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/text-ai-watermarks/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/the-left-wing-case-for-ai/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/weird-projects-i-shipped-with-ai/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/will-my-job-still-exist/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/working-on-products-people-hate/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/working-with-product-managers/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
  "https://songmu.jp/riji/entry/2013-08-01-riji.html": {
   "blog": "songmu.jp",
   "first_seen": "2026-07-07"
@@ -8041,6 +8161,86 @@
  },
  "https://zenn.dev/dress_code/articles/postgres-distinct-on-nested-loop": {
   "blog": "DRESS CODE",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/14a874a9f423bb": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/1a5afc1592bec7": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/1b5c7b70a2837c": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/225fe56eb613ad": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/22eac0ba8cada3": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/2cfbefa6926f40": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/5a50d06fce072d": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/67370650799bc6": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/7210292cbe6838": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/7ce72924c0050f": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/7d5fed819d2f8e": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/7dddae04a7d828": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/91ea622c6526e4": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/9b21b1868f588b": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/b01609ba4f8d96": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/cb14d18ac43801": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/ce6791fc665363": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/ec0e7bdc0e69ed": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/ed82fcd1856aaa": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/f46d45e5221e4e": {
+  "blog": "Knowledge Sense",
   "first_seen": "2026-07-07"
  },
  "https://zenn.dev/mixi/articles/0bdedc681f5ede": {

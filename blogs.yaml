@@ -180,3 +180,11 @@
 - name: STORES Product Blog
   url: https://product.st.inc/
   feed: https://product.st.inc/feed
+
+- name: seangoedecke.com
+  url: https://www.seangoedecke.com/
+  feed: https://www.seangoedecke.com/rss.xml
+
+- name: Knowledge Sense
+  url: https://zenn.dev/p/knowledgesense
+  feed: https://zenn.dev/p/knowledgesense/feed

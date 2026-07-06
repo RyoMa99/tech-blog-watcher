@@ -138,10 +138,15 @@ def main() -> int:
                 failures.append((blog, f"{type(exc).__name__}: {exc}"))
                 traceback.print_exc(file=sys.stderr)
 
+    # 既読が1件もないブログは今回追加されたもの。過去記事の洪水を防ぐため
+    # 既読登録だけして通知しない(初回実行と同じ扱い)
+    known_blogs = {meta.get("blog") for meta in seen.values()}
+
     new_by_blog = []  # blogs.yaml の順
     current_urls = set()
     new_count = 0
     for blog, entries in results:
+        added_blog = not first_run and blog["name"] not in known_blogs
         new_entries = []
         for e in entries:
             # 既読判定キー。通常はURLそのもの。表示URLが不安定なサイト
@@ -151,7 +156,9 @@ def main() -> int:
             if key not in seen:
                 seen[key] = {"first_seen": date_str, "blog": blog["name"]}
                 new_entries.append(e)
-        if new_entries:
+        if added_blog:
+            print(f"新規ブログ登録: {blog['name']} ({len(new_entries)}件を既読登録、通知なし)")
+        elif new_entries:
             new_by_blog.append((blog["name"], new_entries))
             new_count += len(new_entries)
 
