@@ -25,7 +25,7 @@
 ### 特殊ケース(4件)
 
 1. **Wantedly stories** — フィードなし。ただしページHTMLに `"published_at":"2026-06-16T11:00:24+09:00"` 形式のJSONが埋め込まれており、確実に抽出できる。なお `<link rel="alternate">` に見える `projects.xml` は求人フィードであり誤り
-2. **inside.dmm.com** — フィードなし。Next.js サイトで `__NEXT_DATA__` のJSONから記事一覧を取得する。`sitemap.xml` は存在するが `lastmod` が全URL共通のビルド時刻で新着判定に使えないことを確認済み
+2. **inside.dmm.com** — フィードなし。Next.js サイトで `__NEXT_DATA__` のJSONから記事一覧を取得する。`sitemap.xml` は存在するが `lastmod` が全URL共通のビルド時刻で新着判定に使えないことを確認済み。**→ 2026-07-07 に監視対象から除外**(実装時にメンテナンス中で検証できず、ユーザー判断で削除)
 3. **Google Developers Blog (/ja)** — 日本語版のフィードが存在しない。英語版フィード(`/feeds/posts/default?alt=rss`)は有効だが、**記事アイテムに日付が入っていない**(title / link / description / guid のみ)。→ 日付ではなく既読URL差分で新着判定する。日本語版URLは英語版と同一スラッグ(`/ja/<slug>/`)だが、**翻訳の公開は数週間以上遅れる**(2026-07-07 実装時確認: ENフィード上位10件すべてJA版404)。そのため既読判定キーは常に英語版URLとし、表示リンクはJA版が実在すればJA・なければENにフォールバックする(実装: `adapters/google_ja.py`)
 4. **Stripe (engineering)** — engineering カテゴリ限定のフィードがなく、ブログ全体フィード(`/blog/feed.rss`)のみ。engineering ページのHTMLには `datetime` 属性があるためスクレイプも可能だが、engineering 記事は年数本と超低頻度のため、当面は全体フィードで代用しタイトル/URLで目視判別できるレベルのノイズを許容する
 
@@ -34,7 +34,7 @@
 - `developer.hatenastaff.com` が重複していたため1件に統合
 - Henry は記事URL(`https://dev.henry.jp/entry/auto-approval`)だったためブログトップ(`https://dev.henry.jp/`)に正規化
 
-→ 実質 **45サイト** を対象とする。
+→ 実質 **45サイト** を対象とする(その後 DMM inside を除外し **44サイト**、上記参照)。
 
 ## 3. アーキテクチャ
 
@@ -44,8 +44,7 @@ GitHubリポジトリ: tech-blog-watcher/
 ├── check.py            # チェッカー本体(決定的スクリプト、依存は feedparser 程度)
 ├── adapters/           # フィードがない/特殊なサイト用の個別アダプタ
 │   ├── wantedly.py     #   埋め込みJSONから published_at を抽出
-│   ├── dmm.py          #   __NEXT_DATA__ から記事一覧を抽出
-│   └── google_ja.py    #   ENフィード + 既読差分 + /ja/ リンク書き換え
+│   └── google_ja.py    #   ENフィード + 既読差分 + JAリンクフォールバック
 ├── state/seen.json     # 既読記事URL(実行のたびに commit して永続化)
 ├── reports/            # 日次ダイジェスト(Markdown、日付ファイル名)
 └── docs/design.md      # 本書
@@ -195,7 +194,7 @@ GitHubリポジトリ: tech-blog-watcher/
 | 37 | [Mercari Engineering](https://engineering.mercari.com/blog/) | `https://engineering.mercari.com/blog/feed.xml` |
 | 38 | [コミューン](https://tech.commune.co.jp/) | `https://tech.commune.co.jp/feed` |
 | 39 | [Discord Blog](https://discord.com/blog/) | `https://discord.com/blog/rss.xml` |
-| 40 | [DMM inside](https://inside.dmm.com/) | **adapter: dmm**(`__NEXT_DATA__`) |
+| 40 | ~~[DMM inside](https://inside.dmm.com/)~~ | 2026-07-07 除外(§2参照) |
 | 41 | [CARTA HOLDINGS](https://techblog.cartaholdings.co.jp/) | `https://techblog.cartaholdings.co.jp/feed` |
 | 42 | [Nulab](https://nulab.com/ja/blog/) | `https://nulab.com/ja/blog/feed/` |
 | 43 | [DevelopersIO](https://dev.classmethod.jp/) | `https://dev.classmethod.jp/feed/` |

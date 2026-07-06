@@ -160,10 +160,6 @@
   url: https://discord.com/blog/
   feed: https://discord.com/blog/rss.xml
 
-- name: DMM inside
-  url: https://inside.dmm.com/
-  adapter: dmm
-
 - name: CARTA HOLDINGS
   url: https://techblog.cartaholdings.co.jp/
   feed: https://techblog.cartaholdings.co.jp/feed

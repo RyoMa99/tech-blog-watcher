@@ -173,7 +173,12 @@ def main() -> int:
         if not args.dry_run:
             REPORTS_DIR.mkdir(parents=True, exist_ok=True)
             report_path = REPORTS_DIR / f"{date_str}.md"
-            report_path.write_text(report, encoding="utf-8")
+            if report_path.exists():
+                # 同日の再実行では既存レポートを消さず追記する
+                existing = report_path.read_text(encoding="utf-8").rstrip()
+                report_path.write_text(f"{existing}\n\n---\n\n{report}", encoding="utf-8")
+            else:
+                report_path.write_text(report, encoding="utf-8")
             print(f"レポート: {report_path.relative_to(ROOT)}")
         print(report)
 
