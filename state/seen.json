@@ -3,6 +3,18 @@
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-07"
  },
+ "https://aws.amazon.com/jp/blogs/news/ai-powered-performance-recommendations-for-amazon-redshift/": {
+  "blog": "AWS Japan Blog",
+  "first_seen": "2026-07-07"
+ },
+ "https://aws.amazon.com/jp/blogs/news/amazon-redshift-delivers-faster-performance-for-bi-dashboards-and-real-time-analytics/": {
+  "blog": "AWS Japan Blog",
+  "first_seen": "2026-07-07"
+ },
+ "https://aws.amazon.com/jp/blogs/news/amazon-redshift-rg-faster-and-lower-cost-graviton-powered/": {
+  "blog": "AWS Japan Blog",
+  "first_seen": "2026-07-07"
+ },
  "https://aws.amazon.com/jp/blogs/news/announcing-amazon-eks-rollback-for-safe-and-reliable-management-of-cluster-upgrades/": {
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-07"
@@ -19,11 +31,19 @@
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-07"
  },
+ "https://aws.amazon.com/jp/blogs/news/optimize-your-tableau-integration-with-amazon-redshift-serverless/": {
+  "blog": "AWS Japan Blog",
+  "first_seen": "2026-07-07"
+ },
  "https://aws.amazon.com/jp/blogs/news/rakus-ai-agent-development-and-evaluations/": {
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-07"
  },
  "https://aws.amazon.com/jp/blogs/news/safely-releasing-frontier-models-to-customers/": {
+  "blog": "AWS Japan Blog",
+  "first_seen": "2026-07-07"
+ },
+ "https://aws.amazon.com/jp/blogs/news/scale-analytics-with-amazon-redshift-multi-warehouse-enhancements/": {
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-07"
  },
@@ -2083,6 +2103,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
+ "https://dev.classmethod.jp/articles/202607-nakoaoki-joined-classmethod/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
  "https://dev.classmethod.jp/articles/202607-suzukikaito-joined-classmethod-operations/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
@@ -2096,6 +2120,10 @@
   "first_seen": "2026-07-07"
  },
  "https://dev.classmethod.jp/articles/20260706_claude_pre_setting/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/20260707-cc-updates-v2-1-202/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
@@ -2115,11 +2143,23 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
+ "https://dev.classmethod.jp/articles/amazon-inspector-organizations-policy-form-configuration/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/aurora-dsql-prisma-cli-tools/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
  "https://dev.classmethod.jp/articles/aws-appconfig-experimentation/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
  "https://dev.classmethod.jp/articles/aws-dj-agent/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/bedrock-agentcore-harness-cost-analysis/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
@@ -2132,6 +2172,18 @@
   "first_seen": "2026-07-07"
  },
  "https://dev.classmethod.jp/articles/bedrock-mantle-lambda-layer-4-routes/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/bigquery-autonomous-embedding-generation/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/cloudwatch-service-events/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/devrev-plug-chat-customize/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
@@ -2183,7 +2235,15 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
+ "https://dev.classmethod.jp/articles/strands-agents-plugin-goal-loop/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
  "https://dev.classmethod.jp/articles/tsnote-cloudfront-origin-group-not-available/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/tsnote-marketplace-inquiry-support-contact/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
@@ -2579,6 +2639,14 @@
   "blog": "CyberAgent",
   "first_seen": "2026-07-07"
  },
+ "https://developers.cyberagent.co.jp/blog/archives/64490/": {
+  "blog": "CyberAgent",
+  "first_seen": "2026-07-07"
+ },
+ "https://developers.cyberagent.co.jp/blog/archives/64493/": {
+  "blog": "CyberAgent",
+  "first_seen": "2026-07-07"
+ },
  "https://developers.freee.co.jp/entry/2026/06/15/170000": {
   "blog": "freee",
   "first_seen": "2026-07-07"
@@ -2772,6 +2840,10 @@
   "first_seen": "2026-07-07"
  },
  "https://developers.googleblog.com/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/": {
+  "blog": "Google Developers Blog (ja)",
+  "first_seen": "2026-07-07"
+ },
+ "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/": {
   "blog": "Google Developers Blog (ja)",
   "first_seen": "2026-07-07"
  },
@@ -3799,6 +3871,10 @@
   "blog": "Future Tech Blog",
   "first_seen": "2026-07-07"
  },
+ "https://future-architect.github.io/articles/20260707a/": {
+  "blog": "Future Tech Blog",
+  "first_seen": "2026-07-07"
+ },
  "https://kakakakakku.hatenablog.com/entry/2026/04/17/144001": {
   "blog": "kakakakakku blog",
   "first_seen": "2026-07-07"
@@ -3916,6 +3992,10 @@
   "first_seen": "2026-07-07"
  },
  "https://kakakakakku.hatenablog.com/entry/2026/07/06/173152": {
+  "blog": "kakakakakku blog",
+  "first_seen": "2026-07-07"
+ },
+ "https://kakakakakku.hatenablog.com/entry/2026/07/07/091735": {
   "blog": "kakakakakku blog",
   "first_seen": "2026-07-07"
  },
@@ -8180,6 +8260,10 @@
   "first_seen": "2026-07-07"
  },
  "https://zenn.dev/knowledgesense/articles/22eac0ba8cada3": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/283244af941a2d": {
   "blog": "Knowledge Sense",
   "first_seen": "2026-07-07"
  },
