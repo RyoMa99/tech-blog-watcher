@@ -31,6 +31,10 @@
   url: https://konifar-zatsu.hatenadiary.jp/
   feed: https://konifar-zatsu.hatenadiary.jp/feed
 
+- name: piyolog
+  url: https://piyolog.hatenadiary.jp/
+  feed: https://piyolog.hatenadiary.jp/feed
+
 - name: MIXI
   url: https://zenn.dev/p/mixi
   feed: https://zenn.dev/p/mixi/feed

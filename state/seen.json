@@ -35,6 +35,10 @@
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-07"
  },
+ "https://aws.amazon.com/jp/blogs/news/prototyping-program-with-central-government-agencies-for-diet-response-operations/": {
+  "blog": "AWS Japan Blog",
+  "first_seen": "2026-07-07"
+ },
  "https://aws.amazon.com/jp/blogs/news/rakus-ai-agent-development-and-evaluations/": {
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-07"
@@ -2135,11 +2139,23 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
+ "https://dev.classmethod.jp/articles/ai-1on1-design/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
  "https://dev.classmethod.jp/articles/ai-study-method-for-qualification/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
  "https://dev.classmethod.jp/articles/amazon-connect-softphone-network-disconnect-recording/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/amazon-evs-vcf-9-1-support/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/amazon-guardduty-investigation-event/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
@@ -2156,6 +2172,18 @@
   "first_seen": "2026-07-07"
  },
  "https://dev.classmethod.jp/articles/aws-dj-agent/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/aws-summit-2026-padel-strike/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/aws-summit-japan-2026-ant308/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/aws-summit-japan-2026-ant407/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
@@ -2191,6 +2219,14 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
+ "https://dev.classmethod.jp/articles/ecs-express-mode-high-resolution-autoscaling/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/emacs-org-table-bar-mode/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
  "https://dev.classmethod.jp/articles/esp32-first-steps-led-mirrorball-soil-sensor/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
@@ -2199,7 +2235,19 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
+ "https://dev.classmethod.jp/articles/iam-accesskey-rotation-howto/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
  "https://dev.classmethod.jp/articles/ingenst-data-salesforce2snowflake-with-incremental-amazon-appflow/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/intelligent-terminal-claude-code/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/jinji-20260707/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
@@ -2215,6 +2263,14 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
+ "https://dev.classmethod.jp/articles/maintainable-serverless-rust-with-claude/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/microsoft-presidio-pii-anonymization/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
  "https://dev.classmethod.jp/articles/nissan-ai-defined-vehicle-sdv-dev-platform-aws-summit-2026/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
@@ -2227,11 +2283,23 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
+ "https://dev.classmethod.jp/articles/pixelstreaming_vs_gamelift_streams/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
  "https://dev.classmethod.jp/articles/postgresql-xmin-xmax-insert-update-delete/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
+ "https://dev.classmethod.jp/articles/sales-beginner-claude-mtg-experience/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
  "https://dev.classmethod.jp/articles/shoma-amazon-bedrock-knowledge-bases-opensearch-serverless-build-environment-ask-ai-about-stored-documents/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/shuntaka-claude-code-usage-dashboard-cloudwatch/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
@@ -2696,6 +2764,10 @@
   "first_seen": "2026-07-07"
  },
  "https://developers.freee.co.jp/entry/coding-agent-era-engineers": {
+  "blog": "freee",
+  "first_seen": "2026-07-07"
+ },
+ "https://developers.freee.co.jp/entry/elevate-perspective": {
   "blog": "freee",
   "first_seen": "2026-07-07"
  },
@@ -4319,6 +4391,126 @@
   "blog": "Nulab",
   "first_seen": "2026-07-07"
  },
+ "https://piyolog.hatenadiary.jp/entry/2024/08/09/031340": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2024/08/19/074417": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2024/09/21/002152": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2024/10/31/165527": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2024/11/01/161840": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2024/11/06/011739": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2024/11/09/041408": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2024/11/18/040039": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2024/12/03/011032": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2024/12/11/015330": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2024/12/13/191443": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2024/12/25/180139": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2024/12/30/154109": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2025/01/31/235432": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2025/02/28/050112": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2025/03/06/013924": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2025/03/13/021327": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2025/03/14/022046": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2025/03/27/022634": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2025/04/12/164427": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2025/05/31/010131": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2025/08/14/000155": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2025/09/12/160227": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2025/10/04/023247": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2025/11/28/170613": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2025/12/07/004905": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2025/12/08/113316": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2026/01/16/155626": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2026/02/20/150715": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2026/07/07/012552": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-07"
+ },
  "https://product.st.inc/entry/2025/12/24/110535": {
   "blog": "STORES Product Blog",
   "first_seen": "2026-07-07"
@@ -4456,6 +4648,10 @@
   "first_seen": "2026-07-07"
  },
  "https://seangoedecke.com/big-tech-needs-big-egos/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/blog-about-things-you-dont-understand-yet/": {
   "blog": "seangoedecke.com",
   "first_seen": "2026-07-07"
  },
@@ -6223,6 +6419,10 @@
   "blog": "syu-m-5151",
   "first_seen": "2026-07-07"
  },
+ "https://syu-m-5151.hatenablog.com/entry/2026/07/07/130730": {
+  "blog": "syu-m-5151",
+  "first_seen": "2026-07-07"
+ },
  "https://tech-blog.monotaro.com/entry/2025/02/04/090000?utm_source=feed": {
   "blog": "MonotaRO",
   "first_seen": "2026-07-07"
@@ -7823,6 +8023,10 @@
   "blog": "LINEヤフー",
   "first_seen": "2026-07-07"
  },
+ "https://techblog.lycorp.co.jp/ja/20260707a": {
+  "blog": "LINEヤフー",
+  "first_seen": "2026-07-07"
+ },
  "https://techblog.lycorp.co.jp/ja/techverse2026-10": {
   "blog": "LINEヤフー",
   "first_seen": "2026-07-07"
@@ -7880,6 +8084,10 @@
   "first_seen": "2026-07-07"
  },
  "https://techblog.zozo.com/entry/architecture-diagram-with-claude-code": {
+  "blog": "ZOZO",
+  "first_seen": "2026-07-07"
+ },
+ "https://techblog.zozo.com/entry/aws-summit-japan-2026": {
   "blog": "ZOZO",
   "first_seen": "2026-07-07"
  },
