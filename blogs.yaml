@@ -160,9 +160,10 @@
   url: https://tech.commune.co.jp/
   feed: https://tech.commune.co.jp/feed
 
-- name: Discord Blog
-  url: https://discord.com/blog/
-  feed: https://discord.com/blog/rss.xml
+# 全体フィード(rss.xml)にはカテゴリ情報が無いため、engineeringカテゴリページをスクレイプする
+- name: Discord Engineering
+  url: https://discord.com/category/engineering
+  adapter: discord_engineering
 
 - name: CARTA HOLDINGS
   url: https://techblog.cartaholdings.co.jp/
@@ -208,3 +209,124 @@
 - name: Cursor Blog
   url: https://cursor.com/ja/blog
   adapter: cursor_blog
+
+- name: Datadog Engineering
+  url: https://www.datadoghq.com/blog/engineering/
+  feed: https://www.datadoghq.com/blog/engineering/index.xml
+
+- name: Cloudflare Blog (ja)
+  url: https://blog.cloudflare.com/ja-jp/
+  feed: https://blog.cloudflare.com/ja-jp/rss/
+
+- name: Airbnb Engineering
+  url: https://medium.com/airbnb-engineering
+  feed: https://medium.com/feed/airbnb-engineering
+
+# blog.booking.com にフィードが無いため Medium publication で代替
+- name: Booking.com Engineering
+  url: https://medium.com/booking-com-development
+  feed: https://medium.com/feed/booking-com-development
+
+- name: Docker Blog
+  url: https://www.docker.com/blog/
+  feed: https://www.docker.com/feed/
+
+- name: Dropbox Tech
+  url: https://dropbox.tech/
+  feed: https://dropbox.tech/feed
+
+- name: GitHub Blog
+  url: https://github.blog/
+  feed: https://github.blog/feed/
+
+- name: Indeed Engineering
+  url: https://engineering.indeedblog.com/blog/
+  feed: https://engineering.indeedblog.com/feed/
+
+- name: Slack Engineering
+  url: https://slack.engineering/
+  feed: https://slack.engineering/feed/
+
+- name: Spotify Engineering
+  url: https://engineering.atspotify.com/
+  feed: https://engineering.atspotify.com/feed
+
+- name: Engineering at Meta
+  url: https://engineering.fb.com/
+  feed: https://engineering.fb.com/feed/
+
+- name: Classi
+  url: https://tech.classi.jp/
+  feed: https://tech.classi.jp/feed
+
+# HERPメンバーの個人ブログ等を集約したフィード(リンク先は外部ドメイン)
+- name: HERP Tech Hub
+  url: https://tech-hub.herp.co.jp/index.html
+  feed: https://tech-hub.herp.co.jp/feed.xml
+
+- name: estie
+  url: https://zenn.dev/p/estie
+  feed: https://zenn.dev/p/estie/feed
+
+- name: Retty
+  url: https://engineer.retty.me/
+  feed: https://engineer.retty.me/feed
+
+- name: Ubie
+  url: https://zenn.dev/p/ubie_dev
+  feed: https://zenn.dev/p/ubie_dev/feed
+
+- name: Voicy
+  url: https://tech-blog.voicy.jp/
+  feed: https://tech-blog.voicy.jp/feed
+
+- name: カケハシ
+  url: https://kakehashi-dev.hatenablog.com/
+  feed: https://kakehashi-dev.hatenablog.com/feed
+
+- name: カミナシ
+  url: https://kaminashi-developer.hatenablog.jp/
+  feed: https://kaminashi-developer.hatenablog.jp/feed
+
+- name: Tebiki
+  url: https://techblog.tebiki.co.jp/
+  feed: https://techblog.tebiki.co.jp/feed
+
+- name: dinii
+  url: https://zenn.dev/p/dinii
+  feed: https://zenn.dev/p/dinii/feed
+
+# 技術記事以外(セール告知等)も流れてくる
+- name: coliss
+  url: https://coliss.com/
+  feed: https://coliss.com/feed
+
+- name: Geoffrey Litt
+  url: https://www.geoffreylitt.com/
+  feed: https://www.geoffreylitt.com/feed.xml
+
+- name: Notion Blog (tech)
+  url: https://www.notion.com/ja/blog/topic/tech
+  adapter: notion_tech
+
+- name: Shopify Engineering
+  url: https://shopify.engineering/latest
+  adapter: shopify
+
+# エンジニアリング専門ではなくTwitch全般のお知らせブログ
+- name: Twitch Blog
+  url: https://blog.twitch.tv/en/
+  adapter: twitch
+
+# フィードはリンク切れのためトップページの記事カードをスクレイプ
+- name: Uber Engineering
+  url: https://eng.uber.com/
+  adapter: uber
+
+- name: ByteDance Seed
+  url: https://seed.bytedance.com/en/blog
+  adapter: bytedance_seed
+
+- name: hiroppy
+  url: https://hiroppy.me/blog/
+  feed: https://hiroppy.me/blog/rss.xml

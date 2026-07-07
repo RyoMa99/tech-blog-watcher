@@ -1,4 +1,64 @@
 {
+ "http://hiroqn.hatenablog.com/entry/2018/03/31/202340": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "http://swimath2.hatenablog.com/entry/2017/09/02/174825": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "http://ttmmjm.hatenablog.com/entry/2017/11/01/014305": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "http://ttmmjm.hatenablog.com/entry/2017/11/01/033318": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "http://www.life-is-bitter.com/entry/btob_ui_reference": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "http://www.life-is-bitter.com/entry/clickable": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "http://www.life-is-bitter.com/entry/dailyui01": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "http://www.life-is-bitter.com/entry/dailyui02": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "http://www.life-is-bitter.com/entry/dailyui_finish": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "http://www.life-is-bitter.com/entry/designguideline_start": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "http://www.life-is-bitter.com/entry/git_github_start": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "http://www.life-is-bitter.com/entry/pug_stylus_build": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "http://www.life-is-bitter.com/entry/smooth": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "http://www.life-is-bitter.com/entry/typekit_recommend": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "http://www.life-is-bitter.com/entry/ui_checklist": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
  "https://aws.amazon.com/jp/blogs/news/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/": {
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-07"
@@ -1859,6 +1919,106 @@
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
  },
+ "https://blog.b123400.net/tootrain1-0/": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.b123400.net/type-level-permission-checking/": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.b123400.net/type-safer/": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/agentic-internet-bot-report/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/agents-platform-flue-sdk/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/attribution-business-insights/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/browser-run-containers/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/building-for-the-future/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/celebrating-12-years-of-project-galileo/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/clickhouse-query-plan-contention/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/content-independence-day-ai-options/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/cyber-frontier-models/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/enforce-first-as-bgp/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/hyper-bug/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/making-ai-search-smarter/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/oauth-for-all/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/optimizing-core-unit-boot-time/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/our-unified-data-platform/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/quic-death-spiral-fix/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/realtime-threat-intel-waf-rules/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/rollbacks-for-workflows/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/scaling-security-scans/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/temporary-accounts/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cybai.dev/servo-contributor-part-i/": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.cybai.dev/servo-contributor-part-iii/": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
  "https://blog.inorinrinrin.com/entry/2025/12/30/083129?utm_source=feed": {
   "blog": "blog.inorinrinrin.com",
   "first_seen": "2026-07-07"
@@ -1978,6 +2138,70 @@
  "https://blog.inorinrinrin.com/entry/2026/07/06/205719?utm_source=feed": {
   "blog": "blog.inorinrinrin.com",
   "first_seen": "2026-07-07"
+ },
+ "https://blog.ryota-ka.me/posts/2022/05/01/handling-private-resources-with-nix": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.ryota-ka.me/posts/2022/10/08/how-we-use-nix-in-herp-inc": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.twitch.tv/en/2026/03/25/twitchcon-2026-building-the-future/": {
+  "blog": "Twitch Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.twitch.tv/en/2026/04/06/minecrafts-tiny-takeover/": {
+  "blog": "Twitch Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.twitch.tv/en/2026/05/01/twitchcon-europe-2026-sponsors-and-show-floor/": {
+  "blog": "Twitch Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.twitch.tv/en/2026/05/11/the-irl-takeover-is-here/": {
+  "blog": "Twitch Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.twitch.tv/en/2026/05/13/ani-may-turbo-offer/": {
+  "blog": "Twitch Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.twitch.tv/en/2026/05/13/monetization-for-all/": {
+  "blog": "Twitch Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.twitch.tv/en/2026/05/19/new-ways-to-turn-your-community-s-participation-into-earnings/": {
+  "blog": "Twitch Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.twitch.tv/en/2026/05/30/everything-we-announced-at-twitchcon-rotterdam-2026/": {
+  "blog": "Twitch Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.twitch.tv/en/2026/06/05/more-minecraft-more-challenges/": {
+  "blog": "Twitch Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.twitch.tv/en/2026/06/09/riot-games-is-bringing-bonus-gift-subs-to-twitch/": {
+  "blog": "Twitch Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.twitch.tv/en/2026/06/10/ways-to-watch-football-fest-2026-on-twitch/": {
+  "blog": "Twitch Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.twitch.tv/en/2026/06/17/introducing-dual-format-and-2k-streaming-on-twitch/": {
+  "blog": "Twitch Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.twitch.tv/en/2026/06/23/an-all-day-dj-party-soundcloud-sessions/": {
+  "blog": "Twitch Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://blog.whywrite.it/2018/06/15/how-to-submit-pr-to-kubernetes/": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
  },
  "https://bootjp.me/2016/02/21/%E6%89%8B%E6%9B%B8%E3%81%8Dsns%E3%81%AE%E3%81%9D%E3%81%AE%E5%BE%8C/": {
   "blog": "bootjp.me",
@@ -2193,6 +2417,54 @@
  },
  "https://code.claude.com/docs/ja/whats-new#week-26": {
   "blog": "Claude Code What's New",
+  "first_seen": "2026-07-08"
+ },
+ "https://coliss.com/articles/book-review/isbn-9784798195452.html": {
+  "blog": "coliss",
+  "first_seen": "2026-07-08"
+ },
+ "https://coliss.com/articles/book-review/isbn-9784839987848.html": {
+  "blog": "coliss",
+  "first_seen": "2026-07-08"
+ },
+ "https://coliss.com/articles/build-websites/operation/css/connecting-circles-with-border-shape.html": {
+  "blog": "coliss",
+  "first_seen": "2026-07-08"
+ },
+ "https://coliss.com/articles/build-websites/operation/css/gap-decorations-used-css.html": {
+  "blog": "coliss",
+  "first_seen": "2026-07-08"
+ },
+ "https://coliss.com/articles/build-websites/operation/design/logo-design-trends-in-2026-by-logolounge.html": {
+  "blog": "coliss",
+  "first_seen": "2026-07-08"
+ },
+ "https://coliss.com/articles/build-websites/operation/design/wide-gamut-color-palettes-for-ui.html": {
+  "blog": "coliss",
+  "first_seen": "2026-07-08"
+ },
+ "https://coliss.com/articles/build-websites/operation/javascript/tegaki-handwriting-animation-for-any-font.html": {
+  "blog": "coliss",
+  "first_seen": "2026-07-08"
+ },
+ "https://coliss.com/articles/build-websites/operation/work/chrome-150-adds-18-new-css-feature.html": {
+  "blog": "coliss",
+  "first_seen": "2026-07-08"
+ },
+ "https://coliss.com/articles/build-websites/operation/work/vorssaint-for-mac-replaces-several-paid-utilities.html": {
+  "blog": "coliss",
+  "first_seen": "2026-07-08"
+ },
+ "https://coliss.com/articles/products/adobe-cc-amazon-202607-sale.html": {
+  "blog": "coliss",
+  "first_seen": "2026-07-08"
+ },
+ "https://coordination.hatenablog.com/entry/2019/12/24/012049": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://coordination.hatenablog.com/entry/backend-of-ccc-compiler": {
+  "blog": "HERP Tech Hub",
   "first_seen": "2026-07-08"
  },
  "https://cursor.com/ja/blog/agent-autonomy-auto-review": {
@@ -2498,6 +2770,10 @@
  "https://dev.classmethod.jp/articles/maintainable-serverless-rust-with-claude/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/managed-knowledgebase/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-08"
  },
  "https://dev.classmethod.jp/articles/microsoft-presidio-pii-anonymization/": {
   "blog": "DevelopersIO",
@@ -3195,6 +3471,10 @@
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
  },
+ "https://discord.com/blog/access-a-new-portal-for-managing-internal-authorization": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
  "https://discord.com/blog/announcing-discord-social-sdk-to-power-game-comms": {
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
@@ -3206,6 +3486,22 @@
  "https://discord.com/blog/announcing-quests-advertising-on-mobile": {
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
+ },
+ "https://discord.com/blog/app-directory-is-here-developers": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/app-pitches-2023": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/app-pitches-2024": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/authentication-outage": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
  },
  "https://discord.com/blog/authenticity-matters-pride-month-2025": {
   "blog": "Discord Blog",
@@ -3235,9 +3531,21 @@
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
  },
+ "https://discord.com/blog/build-where-the-world-plays": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/building-delightful-notifications-using-ml": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
  "https://discord.com/blog/building-on-the-social-layer-of-games-whats-new-from-gdc-2026": {
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
+ },
+ "https://discord.com/blog/building-open-source-design-tools-to-improve-discords-design-workflow": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
  },
  "https://discord.com/blog/celebrate-discords-11th-birthday-with-an-exclusive-set-of-emoji-and-wallpapers": {
   "blog": "Discord Blog",
@@ -3263,9 +3571,29 @@
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
  },
+ "https://discord.com/blog/ddevs-celebrates-250k-members": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/developing-rapidly-with-generative-ai": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/discord-app-pitches-2024-category-winners": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
  "https://discord.com/blog/discord-appoints-new-ceo-humam-sakhnini": {
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
+ },
+ "https://discord.com/blog/discord-at-gdc-2023": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/discord-developers-heres-to-2023-and-whats-to-come": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
  },
  "https://discord.com/blog/discord-for-business-cannes-worthy-ad-product-updates": {
   "blog": "Discord Blog",
@@ -3379,9 +3707,17 @@
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
  },
+ "https://discord.com/blog/encryption-for-voice-and-video-on-discord": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
  "https://discord.com/blog/every-voice-and-video-call-on-discord-is-now-end-to-end-encrypted": {
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
+ },
+ "https://discord.com/blog/from-blocky-to-brilliant-improving-video-quality-on-discord-go-live-on-amd-gpus": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
  },
  "https://discord.com/blog/from-single-node-to-multi-gpu-clusters-how-discord-made-distributed-compute-easy-for-ml-engineers": {
   "blog": "Discord Blog",
@@ -3411,13 +3747,105 @@
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
  },
+ "https://discord.com/blog/headed-to-gdc-2024-check-out-the-latest-news-for-discord-game-devs": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-data-science-informs-strategy-innovation-at-discord": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-discord-achieves-native-ios-performance-with-react-native": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
  "https://discord.com/blog/how-discord-automates-scylladb-clusters-at-scale": {
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
  },
+ "https://discord.com/blog/how-discord-creates-insights-from-trillions-of-data-points": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-discord-handles-push-request-bursts-of-over-a-million-per-minute-with-elixirs-genstage": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-discord-implemented-app-wide-keyboard-navigation": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-discord-indexes-billions-of-messages": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
  "https://discord.com/blog/how-discord-indexes-trillions-of-messages": {
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
+ },
+ "https://discord.com/blog/how-discord-made-android-in-app-navigation-easier": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-discord-maintains-performance-while-adding-features": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-discord-modernized-mfa-with-webauthn": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-discord-moved-engineering-to-cloud-development-environments": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-discord-renders-rich-messages-on-the-android-app": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-discord-resizes-150-million-images-every-day-with-go-and-c": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-discord-rolled-out-yubikeys-for-all-employees": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-discord-scaled-elixir-to-5-000-000-concurrent-users": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-discord-seamlessly-upgraded-millions-of-users-to-64-bit-architecture": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-discord-stores-billions-of-messages": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-discord-stores-trillions-of-messages": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-discord-uses-open-source-tools-for-scalable-data-orchestration-transformation": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/how-it-all-goes-live-an-overview-of-discords-streaming-technology": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
  },
  "https://discord.com/blog/how-roost-is-advancing-online-safety": {
   "blog": "Discord Blog",
@@ -3463,6 +3891,10 @@
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
  },
+ "https://discord.com/blog/investigating-discords-react-memory-leak": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
  "https://discord.com/blog/keeping-discord-safe-and-sound": {
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
@@ -3470,6 +3902,18 @@
  "https://discord.com/blog/last-meadow-online-announcement": {
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
+ },
+ "https://discord.com/blog/learning-from-structure-discords-entity-relationship-embeddings": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/lessons-from-migrating-a-large-codebase-to-react-16": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/light-theme-redeemed": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
  },
  "https://discord.com/blog/making-discord-on-desktop-look-just-right-display-settings-to-ease-the-eyes": {
   "blog": "Discord Blog",
@@ -3479,9 +3923,25 @@
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
  },
+ "https://discord.com/blog/maxjourney-pushing-discords-limits-with-a-million-plus-online-users-in-a-single-server": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
  "https://discord.com/blog/measure-less-to-learn-more-using-fewer-higher-quality-metrics-to-capture-what-matters": {
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
+ },
+ "https://discord.com/blog/measuring-product-impact-without-a-b-testing-how-discord-used-the-synthetic-control-method-for-voice-messages": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/meet-dave-e2ee-for-audio-video": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
  },
  "https://discord.com/blog/nameplates-land-in-the-shop": {
   "blog": "Discord Blog",
@@ -3511,6 +3971,10 @@
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
  },
+ "https://discord.com/blog/parents-guide-to-discord": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
  "https://discord.com/blog/passing-the-torch": {
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
@@ -3518,6 +3982,18 @@
  "https://discord.com/blog/player-release-q12025": {
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
+ },
+ "https://discord.com/blog/premium-app-subscriptions-for-discord-developers": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/pytest-daemon-10x-local-test-iteration-speed": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/redesigning-the-discord-overlay": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
  },
  "https://discord.com/blog/roost-announces-coop-and-osprey-free-open-source-trust-and-safety-infrastructure-for-the-ai-era": {
   "blog": "Discord Blog",
@@ -3559,6 +4035,14 @@
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
  },
+ "https://discord.com/blog/supercharge-your-moderation-with-automod-in-your-apps": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/supercharging-discord-mobile-our-journey-to-a-faster-app": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
  "https://discord.com/blog/thank-you-for-ten-years": {
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
@@ -3587,6 +4071,34 @@
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
  },
+ "https://discord.com/blog/using-react-native-one-year-later": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/using-rust-to-scale-elixir-for-11-million-concurrent-users": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/we-care-about-your-voice-engineering-special": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/why-and-how-discord-uses-patch-to-test-elixir": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/why-discord-is-sticking-with-react-native": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/why-discord-is-switching-from-go-to-rust": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://discord.com/blog/why-reactiflux-vue-land-yarn-and-other-open-source-communities-use-discord": {
+  "blog": "Discord Engineering",
+  "first_seen": "2026-07-08"
+ },
  "https://discord.com/blog/wicked-saints-turns-players-into-irl-superheroes-with-e-l-f-beauty-and-discord": {
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
@@ -3594,6 +4106,186 @@
  "https://discord.com/blog/you-bar": {
   "blog": "Discord Blog",
   "first_seen": "2026-07-07"
+ },
+ "https://dropbox.tech/culture/beyond-code-generation-rethinking-engineering-productivity-in-the-age-of-ai-agents": {
+  "blog": "Dropbox Tech",
+  "first_seen": "2026-07-08"
+ },
+ "https://dropbox.tech/culture/insights-from-our-executive-roundtable-on-ai-and-engineering-productivity": {
+  "blog": "Dropbox Tech",
+  "first_seen": "2026-07-08"
+ },
+ "https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store": {
+  "blog": "Dropbox Tech",
+  "first_seen": "2026-07-08"
+ },
+ "https://dropbox.tech/infrastructure/reducing-our-monorepo-size-to-improve-developer-velocity": {
+  "blog": "Dropbox Tech",
+  "first_seen": "2026-07-08"
+ },
+ "https://dropbox.tech/machine-learning/how-low-bit-inference-enables-efficient-ai": {
+  "blog": "Dropbox Tech",
+  "first_seen": "2026-07-08"
+ },
+ "https://dropbox.tech/machine-learning/how-we-turned-ai-evaluations-into-better-responses-in-dash-chat": {
+  "blog": "Dropbox Tech",
+  "first_seen": "2026-07-08"
+ },
+ "https://dropbox.tech/machine-learning/introducing-nova-our-internal-platform-for-coding-agents": {
+  "blog": "Dropbox Tech",
+  "first_seen": "2026-07-08"
+ },
+ "https://dropbox.tech/machine-learning/llm-human-labeling-improving-search-relevance-dropbox-dash": {
+  "blog": "Dropbox Tech",
+  "first_seen": "2026-07-08"
+ },
+ "https://dropbox.tech/machine-learning/optimizing-dropbox-dash-relevance-judge-with-dspy": {
+  "blog": "Dropbox Tech",
+  "first_seen": "2026-07-08"
+ },
+ "https://dropbox.tech/security/dropbox-mcp-dash-design-code-security": {
+  "blog": "Dropbox Tech",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/2023/12/25/133517?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/2024/01/23/120000?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/2024/01/31/190945?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/2024/02/28/170718?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/2024/03/01/100000?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/2024/05/28/160000?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/2024/07/01/090000?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/2024/12/03/113231?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/2024/12/05/000000?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/2024/12/07/090000?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/2024/12/08/100000?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/2024/12/09/130000?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/2024/12/10/100000?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/2024/12/11/120000?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/2024/12/15?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/2024/12/25/090000?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/2025/04/03/170000?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/2025/05/01/120000?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/essay1?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/fastly-dictionary?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/go-cache?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/go-coverage?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/go-heapbits?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/go-interning?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/home-banner-automation?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/ios_vision_framework?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/iosdc-2025?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/overengineering?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/retty-app-weekly-release-reason?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineer.retty.me/entry/retty_android_devin?utm_source=feed": {
+  "blog": "Retty",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.atspotify.com/2026/4/background-coding-agents-dataset-migrations-honk-part-4/": {
+  "blog": "Spotify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.atspotify.com/2026/5/better-experiments-with-llm-evals-a-funnel-not-a-fork/": {
+  "blog": "Spotify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.atspotify.com/2026/5/spotify-ads-api-claude-plugins/": {
+  "blog": "Spotify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.atspotify.com/2026/6/code-with-claude-coding-is-no-longer-the-constraint/": {
+  "blog": "Spotify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.atspotify.com/2026/6/encoding-your-domain-expert-the-context-layer-behind-spotifys-data-assistant/": {
+  "blog": "Spotify Engineering",
+  "first_seen": "2026-07-08"
  },
  "https://engineering.dena.com/blog/2026/02/itpf-3g-maeda-ai-review/": {
   "blog": "DeNA",
@@ -3714,6 +4406,82 @@
  "https://engineering.dena.com/blog/2026/06/openai-codex-study-report/": {
   "blog": "DeNA",
   "first_seen": "2026-07-07"
+ },
+ "https://engineering.fb.com/2026/05/12/data-infrastructure/migrating-data-ingestion-systems-at-meta-scale/": {
+  "blog": "Engineering at Meta",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.fb.com/2026/05/13/ml-applications/reel-friends-building-social-discovery-that-scales-to-billions/": {
+  "blog": "Engineering at Meta",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.fb.com/2026/05/26/ml-applications/silvertorch-index-as-model-new-retrieval-paradigm-recommendation-systems/": {
+  "blog": "Engineering at Meta",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/": {
+  "blog": "Engineering at Meta",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.fb.com/2026/06/22/video-engineering/adopting-av1-for-real-time-communication-rtc-meta/": {
+  "blog": "Engineering at Meta",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.fb.com/2026/06/23/production-engineering/how-meta-built-ultra-narrow-batteries-for-ai-glasses-meta-tech-podcast/": {
+  "blog": "Engineering at Meta",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/": {
+  "blog": "Engineering at Meta",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.fb.com/2026/06/30/open-source/10-years-of-metas-commitment-to-python/": {
+  "blog": "Engineering at Meta",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/": {
+  "blog": "Engineering at Meta",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.indeedblog.com/blog/2022/04/shap-plot/": {
+  "blog": "Indeed Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.indeedblog.com/blog/2022/04/sre/": {
+  "blog": "Indeed Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.indeedblog.com/blog/2024/01/composite-web-performance-metric/": {
+  "blog": "Indeed Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.indeedblog.com/blog/2024/07/workload-identity-with-spire-oidc-for-k8s-istio/": {
+  "blog": "Indeed Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.indeedblog.com/blog/2024/08/indeed-gitlab-ci-migration/": {
+  "blog": "Indeed Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.indeedblog.com/blog/2025/06/the-agentic-identity-journey/": {
+  "blog": "Indeed Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.indeedblog.com/blog/2025/11/normalized-entropy-or-apply-rate-evaluation-metrics-for-online-modeling-experiments/": {
+  "blog": "Indeed Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.indeedblog.com/blog/2026/03/become-builders-not-coders/": {
+  "blog": "Indeed Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.indeedblog.com/blog/2026/03/bringing-lighthouse-to-the-app-building-performance-metrics-for-react-native/": {
+  "blog": "Indeed Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://engineering.indeedblog.com/blog/2026/06/distilling-long-tail-user-behavior-into-scalable-embeddings-for-job-search/": {
+  "blog": "Indeed Engineering",
+  "first_seen": "2026-07-08"
  },
  "https://engineering.mercari.com/blog/entry/20250625-acfc60bbea/": {
   "blog": "Mercari Engineering",
@@ -4219,6 +4987,366 @@
   "blog": "Future Tech Blog",
   "first_seen": "2026-07-07"
  },
+ "https://geoffreylitt.com/2023/12/17/seven-books-that-stuck-with-me-in-2023.html": {
+  "blog": "Geoffrey Litt",
+  "first_seen": "2026-07-08"
+ },
+ "https://geoffreylitt.com/2024/08/25/your-pie-doesnt-need-be-original.html": {
+  "blog": "Geoffrey Litt",
+  "first_seen": "2026-07-08"
+ },
+ "https://geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger.html": {
+  "blog": "Geoffrey Litt",
+  "first_seen": "2026-07-08"
+ },
+ "https://geoffreylitt.com/2025/03/03/the-nightmare-bicycle.html": {
+  "blog": "Geoffrey Litt",
+  "first_seen": "2026-07-08"
+ },
+ "https://geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs.html": {
+  "blog": "Geoffrey Litt",
+  "first_seen": "2026-07-08"
+ },
+ "https://geoffreylitt.com/2025/06/15/malleable-software.html": {
+  "blog": "Geoffrey Litt",
+  "first_seen": "2026-07-08"
+ },
+ "https://geoffreylitt.com/2025/06/29/chat-ai-dialogue.html": {
+  "blog": "Geoffrey Litt",
+  "first_seen": "2026-07-08"
+ },
+ "https://geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds.html": {
+  "blog": "Geoffrey Litt",
+  "first_seen": "2026-07-08"
+ },
+ "https://geoffreylitt.com/2025/09/10/ai-as-teleportation.html": {
+  "blog": "Geoffrey Litt",
+  "first_seen": "2026-07-08"
+ },
+ "https://geoffreylitt.com/2025/10/24/code-like-a-surgeon.html": {
+  "blog": "Geoffrey Litt",
+  "first_seen": "2026-07-08"
+ },
+ "https://geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html": {
+  "blog": "Geoffrey Litt",
+  "first_seen": "2026-07-08"
+ },
+ "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/": {
+  "blog": "GitHub Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/": {
+  "blog": "GitHub Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/": {
+  "blog": "GitHub Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/": {
+  "blog": "GitHub Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/": {
+  "blog": "GitHub Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://github.blog/open-source/git/highlights-from-git-2-55/": {
+  "blog": "GitHub Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source/": {
+  "blog": "GitHub Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/": {
+  "blog": "GitHub Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/": {
+  "blog": "GitHub Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/": {
+  "blog": "GitHub Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/2018": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/2019": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/2021": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/2022": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/2023": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/30-years-old": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/astro-client-env": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/astro-content-collections": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/astro-script-issue": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/choko": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/cjs-esm-reference-chart-of-behavior": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/create-module-bundler-esm": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/create-module-bundler-preparation": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/current-status-and-future-of-oss": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/endoscope": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/eye": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/first-social-game": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/first-speech-abroad": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/git-push-to-everywhere": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/git-worktree-fish": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/github-pr-ai": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/github-sponsors-and-future": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/good-news-of-webpack": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/hhkb": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/how-to-hire-engineers": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/impatience": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/improving-jest": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/init-coder-penguin": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/ireland": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/isolated-e2e": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/join-dwango": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/join-yuimedi": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/left-from-mercari": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/mechanism-of-webpack": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/mf-dashboard": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/migrate-blog-from-hatena": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/module-federation": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/nextjs-app-router-training": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/nextjs-chunk-optimization": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/nextjs-middleware-testing": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/node-esm": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/node-policy": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/node-report": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/node10": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/nodejs-amount-of-use": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/nodejs-built-in-modules": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/nodejs-esm": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/nodejs-event-loop": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/nodejs-experimental-modules": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/nodejs-new-module-algorithm": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/nodejs-package-mode": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/nodejs-performance": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/nodejs-performance-tips": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/nodejs-strip-type": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/nodejs-worker-threads": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/npm-variable": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/open-collective": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/presentation-api": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/pwa": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/rendertron": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/ssr-sample": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/ssr-sample-2": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/testcontainers-parallel-tests": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/vrt": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/web-app-minimum-template": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/webpack-asset-modules": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/webpack-inline-syntax": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/webpack-persistent-caching": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
+ "https://hiroppy.me/blog/posts/webpack5": {
+  "blog": "hiroppy",
+  "first_seen": "2026-07-08"
+ },
  "https://kakakakakku.hatenablog.com/entry/2026/04/17/144001": {
   "blog": "kakakakakku blog",
   "first_seen": "2026-07-07"
@@ -4342,6 +5470,246 @@
  "https://kakakakakku.hatenablog.com/entry/2026/07/07/091735": {
   "blog": "kakakakakku blog",
   "first_seen": "2026-07-07"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/03/09/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/03/10/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/03/12/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/03/17/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/03/19/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/03/24/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/03/26/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/03/31/110000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/04/02/111000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/04/07/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/04/09/100000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/04/14/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/04/16/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/04/22/110000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/04/23/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/04/28/154508": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/04/30/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/05/07/113000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/05/12/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/05/14/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/05/20/093000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/05/21/100000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/05/28/110000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/06/02/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/06/04/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/06/11/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/06/18/100000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/06/23/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/06/25/101000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/07/02/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/01/06/just-use-next": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/01/08/090000": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/01/16/health-check": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/01/19/isms-docs-to-github": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/02/04/083000": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/02/19/175418": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/02/26/ai-dlc": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/03/31/embedded-security-eng": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/04/02/085835": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/04/27/ai-evaluation-workshop-report": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/06/01/log-storage-with-iceberg": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/06/03/aws-emulator-selection": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/06/05/flat-component-directory": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/06/08/react-with-model": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/06/22/120000": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/06/23/application-inference-profile": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/06/24/asj2026": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/06/30/frontend-testing": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/ai-driven-dev-event": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/ai-mvp": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/ai-pr-process": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/automating-saas-security-checks-with-claude-code": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/back-to-scrum": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/claude-code-api-test-skills": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/do-things-that-dont-scale-in-ai-era": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/engineer-developer-camp-2025": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/kanban": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/runn-api-test-architecture": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/yagni-layered-architecture": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
+ },
+ "https://kaminashi-developer.hatenablog.jp/entry/you-might-not-need-dedicated-architecture-for-ai": {
+  "blog": "カミナシ",
+  "first_seen": "2026-07-08"
  },
  "https://konifar-zatsu.hatenadiary.jp/entry/2025/09/28/104415": {
   "blog": "konifar-zatsu",
@@ -4583,6 +5951,90 @@
   "blog": "エムスリーキャリア",
   "first_seen": "2026-07-07"
  },
+ "https://medium.com/airbnb-engineering/building-a-fault-tolerant-metrics-storage-system-at-airbnb-26a01a6e7017?source=rss----53c7c27702d5---4": {
+  "blog": "Airbnb Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45?source=rss----53c7c27702d5---4": {
+  "blog": "Airbnb Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://medium.com/airbnb-engineering/monitoring-reliably-at-scale-ca6483040930?source=rss----53c7c27702d5---4": {
+  "blog": "Airbnb Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://medium.com/airbnb-engineering/privacy-first-connections-empowering-social-experiences-at-airbnb-d7dec59ef960?source=rss----53c7c27702d5---4": {
+  "blog": "Airbnb Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://medium.com/airbnb-engineering/scaling-airbnbs-identity-graph-with-a-unified-knowledge-graph-infrastructure-ebac467b7836?source=rss----53c7c27702d5---4": {
+  "blog": "Airbnb Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://medium.com/airbnb-engineering/scaling-beyond-one-how-airbnb-evolved-its-data-architecture-for-a-multi-product-world-6125645d470c?source=rss----53c7c27702d5---4": {
+  "blog": "Airbnb Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068?source=rss----53c7c27702d5---4": {
+  "blog": "Airbnb Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://medium.com/airbnb-engineering/skipper-building-airbnbs-embedded-workflow-engine-f6c34552146f?source=rss----53c7c27702d5---4": {
+  "blog": "Airbnb Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://medium.com/airbnb-engineering/viaduct-1-0-and-the-future-of-airbnbs-data-mesh-6bab4ec98b89?source=rss----53c7c27702d5---4": {
+  "blog": "Airbnb Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://medium.com/airbnb-engineering/when-history-fails-you-borrow-from-geography-915a72b91b5c?source=rss----53c7c27702d5---4": {
+  "blog": "Airbnb Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://medium.com/booking-com-development/a-story-of-delayed-aws-pipelines-382e4a1fede6?source=rss----1c36c35f9c76---4": {
+  "blog": "Booking.com Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://medium.com/booking-com-development/anomaly-detection-in-time-series-using-statistical-analysis-cc587b21d008?source=rss----1c36c35f9c76---4": {
+  "blog": "Booking.com Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://medium.com/booking-com-development/breaking-the-loop-how-we-migrated-our-backup-catalog-for-250-mysql-clusters-to-aws-6f5a53a519b9?source=rss----1c36c35f9c76---4": {
+  "blog": "Booking.com Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://medium.com/booking-com-development/fitting-scrum-for-software-development-part-ii-367045569c9a?source=rss----1c36c35f9c76---4": {
+  "blog": "Booking.com Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://medium.com/booking-com-development/kotlin-multiplatform-in-production-two-real-world-use-cases-from-booking-com-46ffe13a773d?source=rss----1c36c35f9c76---4": {
+  "blog": "Booking.com Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://medium.com/booking-com-development/quick-steps-for-a-scrum-team-to-improve-the-process-11c0c53b0adc?source=rss----1c36c35f9c76---4": {
+  "blog": "Booking.com Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://medium.com/booking-com-development/tactical-coding-assistants-9fee730fd734?source=rss----1c36c35f9c76---4": {
+  "blog": "Booking.com Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://medium.com/booking-com-development/the-necessity-of-imperfection-21c289c87515?source=rss----1c36c35f9c76---4": {
+  "blog": "Booking.com Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://medium.com/booking-com-development/unlocking-the-power-of-customization-how-our-enrichment-system-transforms-recommendation-data-e71832fc4ef4?source=rss----1c36c35f9c76---4": {
+  "blog": "Booking.com Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://medium.com/booking-com-development/use-compression-luke-cut-20-of-the-cloud-cost-with-a-single-code-change-510d14d96891?source=rss----1c36c35f9c76---4": {
+  "blog": "Booking.com Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://minitomat.hatenablog.jp/entry/2018/04/18/164200": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
  "https://netflixtechblog.com/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af?source=rss----2615bd06b42e---4": {
   "blog": "Netflix TechBlog",
   "first_seen": "2026-07-07"
@@ -4623,6 +6075,118 @@
   "blog": "Netflix TechBlog",
   "first_seen": "2026-07-07"
  },
+ "https://note.com/heyyou3/n/n52f1e1fed065": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.com/mazamachi/n/n4bcc6b3bff60": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.com/sato21/n/n4ab8fbd8b0d0": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.com/sato21/n/n6ef79bc34d2a": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.com/sato21/n/na351a1df91f9": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.com/sato21/n/nb8d142a40d4d": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.com/sato21/n/nc87de26e4a76": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/n0d049d5639f5": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/n0ddfcae2eaaa": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/n164dd858ebe7": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/n18253e7d73b7": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/n241776162554": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/n4812c2e7ab94": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/n488f241eeff9": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/n4abe27e00c21": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/n53454d102682": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/n65ce738bda18": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/n6beb390dd910": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/n898f83f8edfd": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/n8b37eee7be7b": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/n9769e1f697c0": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/naf8abb6bf275": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/nbb2eb1bcf127": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/nd2678c749014": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/ndcda705f4c74": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/ne31b67281edf": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/nf2f1c2a124e7": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://note.herp.co.jp/n/nf6af39a27b90": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
  "https://nulab.com/ja/blog/event/geeks-who-drink-fukuoka-2026-0218/": {
   "blog": "Nulab",
   "first_seen": "2026-07-07"
@@ -4662,6 +6226,386 @@
  "https://nulab.com/ja/blog/nulab/tackling-slo-cognitive-load-with-ai-ai%e3%81%a7slo%e3%81%ae%e8%aa%8d%e7%9f%a5%e8%b2%a0%e8%8d%b7%e3%81%ab%e7%ab%8b%e3%81%a1%e5%90%91%e3%81%8b%e3%81%86/": {
   "blog": "Nulab",
   "first_seen": "2026-07-07"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2021/10/16/170545": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2021/11/20/213039": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2021/12/05/200130": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2022/01/02/225402": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2022/01/29/201935": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2022/02/12/154459": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2022/03/14/203723": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2022/03/26/180052": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2022/04/11/002854": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2022/04/24/221235": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2022/06/01/222814": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2022/07/09/144422": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2022/08/14/004851": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2022/10/23/190637": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2022/10/30/190527": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2022/11/19/191646": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2022/11/27/210309": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2022/12/04/134350": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2023/01/29/150246": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2023/02/12/160304": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2023/02/19/151825": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2023/05/05/200112": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2023/05/25/225001": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2023/05/27/211000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2023/06/14/205715": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2023/09/19/211324": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2023/09/24/160047": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2023/11/04/191409": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2023/12/25/233436": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2024/03/03/123434": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2024/03/09/232304": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2024/08/16/175300": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2024/09/01/173320": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2024/09/28/232527": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/01/02/164602": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/01/09/175010": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/01/16/181553": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/01/23/184817": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/01/30/181809": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/02/06/204558": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/02/13/180014": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/05/13/184711": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/05/29/220514": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/07/12/182209": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/08/15/122447": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/09/07/141109": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/09/12/234742": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/10/09/141116": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/10/26/170945": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/11/05/200519": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/11/17/211943": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/12/04/002106": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/12/07/190744": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2025/12/24/223040": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2026/01/11/193303": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2026/01/24/195156": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2026/01/26/104838": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2026/02/18/193438": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2026/02/22/195712": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2026/03/14/190037": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2026/04/12/185550": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2026/06/13/153947": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2026/06/20/165130": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://numb86-tech.hatenablog.com/entry/2026/06/28/101106": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2018/10/30/what-is-algebraic-effects.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2018/12/02/Lily58%E3%81%AB%E3%82%88%E3%82%8B.xmodmap%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E5%AE%9F%E8%A3%85.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2018/12/09/asymmetric-coroutines%E3%81%AB%E3%82%88%E3%82%8Boneshot-algebraic-effects%E3%81%AE%E5%AE%9F%E8%A3%85.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2019/01/27/stackfulness-of-coroutines.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2019/02/17/qmk-jp-mouse.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2019/05/28/%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B86%E3%81%AB%E5%90%88%E5%90%8C%E8%AA%8C%E3%82%92%E5%87%BA%E3%81%97%E3%81%9F;-effect-system%E5%8B%89%E5%BC%B7%E4%BC%9A%E3%82%92%E3%82%84%E3%81%A3%E3%81%9F.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2019/06/22/ocaml408-binding-operator.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2019/06/30/ScalaMatsuri2019%E3%81%84%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2019/07/21/effect_cont.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2019/08/10/ae-type-system.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2019/09/15/koka-repl.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2019/12/07/ruby-ae.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2019/12/09/ae-poly.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2019/12/15/%E3%81%9D%E3%81%AE%E8%A8%80%E8%AA%9E-%E5%AE%9A%E7%BE%A9%E3%81%95%E3%82%8C%E3%81%A6%E3%81%BE%E3%81%99%E3%81%8B.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2019/12/22/effsub.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2020/02/20/shallow_effec_handler_with_fcontrol.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2020/03/15/ae-ee.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2020/05/03/nikkan-promise1.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2020/05/04/nikkan-promise2.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2020/05/06/nikkan-promise3.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2020/05/08/nikkan-promise4.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2020/08/25/tswara.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2020/12/03/%E8%B2%A7%E8%80%85%E3%81%AE-Algebraic-Data-Types-%E3%81%A8(%E6%B5%85%E3%81%84)%E7%B6%B2%E7%BE%85%E6%80%A7%E5%88%A4%E5%AE%9A.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2020/12/10/nikkan-coroutines-0.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2020/12/13/nikkan-coroutines-1.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2020/12/31/Extending-OCaml's-open.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2021/01/04/nikkan-coroutines-2.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2021/04/09/PPL-2021%E3%82%92-%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E6%9E%A0%E3%81%A7.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2021/04/18/%E3%81%AA%E3%82%93%E3%81%A0%E3%81%8B%E3%82%93%E3%81%A0%E3%82%AC%E3%83%81%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E3%81%AB%E3%81%AFTypeScript%E6%A5%BD%E3%81%A0%E3%81%97gRPC%E3%82%92%E6%89%8B%E4%BD%9C%E3%82%8A%E3%81%99%E3%82%8B.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2022/09/17/%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93Algebraic-Effects.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://nymphium.github.io/2023/02/24/channel.html": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
  },
  "https://piyolog.hatenadiary.jp/entry/2024/08/09/031340": {
   "blog": "piyolog",
@@ -4911,6 +6855,110 @@
   "blog": "STORES Product Blog",
   "first_seen": "2026-07-07"
  },
+ "https://reimaru.hatenablog.com/entry/join-herp-inc": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2017/10/05/110000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2017/12/21/000000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2018/01/25/031605": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2018/02/14/103000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2018/03/10/205817": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2018/05/26/193220": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2018/06/09/210456": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2018/07/03/021216": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2018/07/09/110000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2018/07/22/180141": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2018/08/27/110000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2018/10/13/193343": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2018/10/17/103000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2018/12/15/000000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2019/05/13/020000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2019/07/09/180000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2019/07/15/120000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2019/08/15/213000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2020/07/26/110000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2020/10/07/020000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2020/10/21/110000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2020/12/20/000000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2021/01/31/103000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2021/02/11/210000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ryota-ka.hatenablog.com/entry/2021/12/31/230000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
  "https://seangoedecke.com/ai-gpus-live-longer-than-three-years/": {
   "blog": "seangoedecke.com",
   "first_seen": "2026-07-07"
@@ -5034,6 +7082,142 @@
  "https://seangoedecke.com/working-with-product-managers/": {
   "blog": "seangoedecke.com",
   "first_seen": "2026-07-07"
+ },
+ "https://seed.bytedance.com/en/blog/bytedance-seed-2027-foundation-model-campus-recruitment-is-now-open-internships-included": {
+  "blog": "ByteDance Seed",
+  "first_seen": "2026-07-08"
+ },
+ "https://seed.bytedance.com/en/blog/dola-seed-2-0-preview-model-release-on-arena": {
+  "blog": "ByteDance Seed",
+  "first_seen": "2026-07-08"
+ },
+ "https://seed.bytedance.com/en/blog/edgebench-measuring-real-world-environment-learning-and-discovering-a-new-scaling-law": {
+  "blog": "ByteDance Seed",
+  "first_seen": "2026-07-08"
+ },
+ "https://seed.bytedance.com/en/blog/introducing-seed-full-duplex-speech-llm-attentive-listening-robust-interference-suppression-enabling-more-natural-interaction": {
+  "blog": "ByteDance Seed",
+  "first_seen": "2026-07-08"
+ },
+ "https://seed.bytedance.com/en/blog/seed-2-1-preview-model-release-on-arena": {
+  "blog": "ByteDance Seed",
+  "first_seen": "2026-07-08"
+ },
+ "https://seed.bytedance.com/en/blog/seed2-1-officially-released-advancing-ai-productivity": {
+  "blog": "ByteDance Seed",
+  "first_seen": "2026-07-08"
+ },
+ "https://seed.bytedance.com/en/blog/seed3d-2-0-released-higher-precision-and-greater-usability": {
+  "blog": "ByteDance Seed",
+  "first_seen": "2026-07-08"
+ },
+ "https://shopify.engineering/2025-bfcm-live-globe": {
+  "blog": "Shopify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://shopify.engineering/autoresearch": {
+  "blog": "Shopify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://shopify.engineering/bfcm-readiness-2025": {
+  "blog": "Shopify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://shopify.engineering/catalog-clustering": {
+  "blog": "Shopify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://shopify.engineering/faster-breadth-first-graphql-execution": {
+  "blog": "Shopify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://shopify.engineering/fine-tuning-agent-shopify-flow": {
+  "blog": "Shopify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://shopify.engineering/generative-recommendations": {
+  "blog": "Shopify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://shopify.engineering/how-we-built-a-gamified-treadmill": {
+  "blog": "Shopify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://shopify.engineering/magic-mirror": {
+  "blog": "Shopify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://shopify.engineering/product-taxonomy-at-scale": {
+  "blog": "Shopify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://shopify.engineering/quick": {
+  "blog": "Shopify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://shopify.engineering/scaling-inventory-reservations": {
+  "blog": "Shopify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://shopify.engineering/sidekick-curation": {
+  "blog": "Shopify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://shopify.engineering/simgym": {
+  "blog": "Shopify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://shopify.engineering/skypilot": {
+  "blog": "Shopify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://shopify.engineering/tangle": {
+  "blog": "Shopify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://shopify.engineering/ucp": {
+  "blog": "Shopify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://shopify.engineering/under-the-river": {
+  "blog": "Shopify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://shopify.engineering/world-class-product-search": {
+  "blog": "Shopify Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack/": {
+  "blog": "Slack Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://slack.engineering/android-vpat-journey/": {
+  "blog": "Slack Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://slack.engineering/from-custom-to-open-scalable-network-probing-and-http-3-readiness-with-prometheus/": {
+  "blog": "Slack Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://slack.engineering/from-ssh-to-rest-a-security-driven-modernization-of-slacks-emr-data-pipelines/": {
+  "blog": "Slack Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://slack.engineering/how-slack-rebuilt-notifications/": {
+  "blog": "Slack Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://slack.engineering/managing-context-in-long-run-agentic-applications/": {
+  "blog": "Slack Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://slack.engineering/slack-ai-the-path-to-multi-cloud/": {
+  "blog": "Slack Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://slack.engineering/streamlining-security-investigations-with-agents/": {
+  "blog": "Slack Engineering",
+  "first_seen": "2026-07-08"
  },
  "https://songmu.jp/riji/entry/2013-08-01-riji.html": {
   "blog": "songmu.jp",
@@ -6579,6 +8763,18 @@
   "blog": "Stripe Engineering",
   "first_seen": "2026-07-07"
  },
+ "https://swimath2.hatenablog.com/entry/2019/07/09/181535": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://swimath2.hatenablog.com/entry/2021/01/31/172753": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://swimath2.hatenablog.com/entry/2022/02/18/094336": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
  "https://syu-m-5151.hatenablog.com/entry/2026/05/04/235804": {
   "blog": "syu-m-5151",
   "first_seen": "2026-07-07"
@@ -6703,6 +8899,18 @@
   "blog": "syu-m-5151",
   "first_seen": "2026-07-07"
  },
+ "https://taketo957.hatenablog.com/entry/2025/09/02/125043": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://taketo957.hatenablog.com/entry/2026/05/19/150000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://taketo957.hatenablog.com/entry/2026/07/02/100000": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
  "https://tech-blog.monotaro.com/entry/2025/02/04/090000?utm_source=feed": {
   "blog": "MonotaRO",
   "first_seen": "2026-07-07"
@@ -6823,6 +9031,126 @@
   "blog": "MonotaRO",
   "first_seen": "2026-07-07"
  },
+ "https://tech-blog.voicy.jp/entry/2025/04/10/175034": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/04/28/105550": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/05/02/115819": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/05/07/105316": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/05/08/221902": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/05/09/145446": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/05/13/114841": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/05/14/073000": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/05/15/080000": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/05/16/102247": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/05/19/110000": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/05/20/101653": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/06/27/110000": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/09/10/101426": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/09/26/150000": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/09/30/160000": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/10/15/200412": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/10/20/120642": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/10/28/170000": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/11/10/190000": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2025/12/25/131950": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2026/03/06/181426": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2026/03/26/165509": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2026/04/28/172139": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2026/05/26/144616": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2026/05/28/180548": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/2026/07/07/135735": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/devin-slack-automate-bug-investigation": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/inside_story_for_developing_short_video_generation": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech-blog.voicy.jp/entry/podcast-generating-app-on-dify": {
+  "blog": "Voicy",
+  "first_seen": "2026-07-08"
+ },
  "https://tech.asken.inc/entry/20251126": {
   "blog": "asken",
   "first_seen": "2026-07-07"
@@ -6942,6 +9270,126 @@
  "https://tech.asken.inc/entry/2026/04/17/170000": {
   "blog": "asken",
   "first_seen": "2026-07-07"
+ },
+ "https://tech.classi.jp/entry/2025/03/14/114815?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2025/03/18/181610?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2025/04/16/080300?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2025/04/16/102039?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2025/05/27/180000?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2025/06/04/154603?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2025/06/23/120000?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2025/06/26/090000?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2025/07/14/110000?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2025/07/16/110000?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2025/07/24/120811?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2025/08/05/141334?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2025/08/18/101238?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2025/09/02/090000?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2025/09/12/180000?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2025/12/12/090000?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2025/12/19/100000?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2025/12/22/070000?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2025/12/24/130000?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2025/12/25/100000?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2026/01/07/080000?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2026/01/09/170000?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2026/01/15/120000?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2026/03/09/123000?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/2026/03/12/100000?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/kor2025?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/legacy-migration-with-claude-code?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/oso2025?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/soudai-school-2025?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
+ },
+ "https://tech.classi.jp/entry/turing-after-6-months?utm_source=feed": {
+  "blog": "Classi",
+  "first_seen": "2026-07-08"
  },
  "https://tech.codmon.com/entry/2026/04/13/112523": {
   "blog": "コドモン",
@@ -8351,6 +10799,126 @@
   "blog": "LINEヤフー",
   "first_seen": "2026-07-07"
  },
+ "https://techblog.tebiki.co.jp//%E3%83%81%E3%83%BC%E3%83%A0%E3%81%8C%E3%81%86%E3%81%BE%E3%81%8F%E3%81%84%E3%81%A3%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E6%99%82%E3%81%AB%E3%81%A8%E3%82%8B%E6%B3%A5%E8%87%AD%E3%81%84%E3%83%AA%E3%83%BC%E3%83%80": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/2025/04/17/142550": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/2025/04/21/142924": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/2025/05/01/135221": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/2025/06/23/135750": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/2025/07/02/173239": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/2025/07/03/160726": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/2025/09/03/165910": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/2025/10/10/180025": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/2025/10/24/150428": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/2025/11/20/163215": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/2025/12/03/150258": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/2026/01/07/151648": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/2026/01/14/172335": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/2026/01/28/131647": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/2026/02/12/160153": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/2026/02/18/171603": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/2026/03/13/100623": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/2026/06/26/154458": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/devin-slack-workflow-for-datadog": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/long-term-retrospective-c6036b1fa5c9": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/looking-back-at-the-first-year-7003680e7ea5": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/migrate-batch-process-2104f8dd5255": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/react-19": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/react-compiler": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/release-with-uncertainty-fa7f71d31512": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/scrum-release-notes": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/staff-engineer-in-tebiki-54fa8dfbe7cf": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/vue-fes-2025": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
+ "https://techblog.tebiki.co.jp/we-want-your-engineering-0f7137f2dbb0": {
+  "blog": "Tebiki",
+  "first_seen": "2026-07-08"
+ },
  "https://techblog.zozo.com/entry/20260513-after-rubykaigi-2026": {
   "blog": "ZOZO",
   "first_seen": "2026-07-07"
@@ -8595,6 +11163,90 @@
   "blog": "虎の穴ラボ",
   "first_seen": "2026-07-07"
  },
+ "https://ttmmjm.hatenablog.com/entry/2024/08/26/181750": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2024/09/24/145424": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2024/11/08/165456": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2024/12/13/180816": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2025/01/31/130741": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2025/02/18/194748": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2025/03/05/113120": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2025/03/18/123315": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2025/06/05/201255": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2025/06/23/110519": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2025/09/03/152610": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2025/10/02/153150": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2025/10/22/113049": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2025/12/04/145859": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2025/12/19/095559": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2025/12/26/122550": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2025/12/31/200837": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2026/01/07/114956": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2026/02/14/110353": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2026/04/01/145549": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://ttmmjm.hatenablog.com/entry/2026/04/27/114619": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
  "https://www.anthropic.com/news/alberta-government-claude-cybersecurity": {
   "blog": "Anthropic News",
   "first_seen": "2026-07-08"
@@ -8633,6 +11285,602 @@
  },
  "https://www.anthropic.com/news/tcs-anthropic-partnership": {
   "blog": "Anthropic News",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/2023-03-08-deep-dive-into-incident-response/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/2023-03-08-deep-dive-into-platform-level-impact/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/2023-03-08-deep-dive-into-platform-level-recovery/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/agent-go-binaries/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/ai-assisted-storage-migration/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/being-a-solutions-engineer-at-datadog/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/bits-ai-eval-platform/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/cdc-replication-search/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/cgo-and-python/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/cheering-on-coworkers-building-culture-with-datadog-dashboards/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/computing-accurate-percentiles-with-ddsketch/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/consul-at-datadog/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/crunchconf-talk-self-serve-analytics/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/data-pipeline-completeness/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/datadog-lambda-extension-rust/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/debugging-postgres-performance/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/detecting-faulty-deployments/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/dirty-pipe-container-escape-poc/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/dotnet-continuous-profiler-part-2/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/dotnet-continuous-profiler-part-3/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/dotnet-continuous-profiler-part-4/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/dotnet-continuous-profiler/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/druids-the-design-system-that-powers-datadog/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/ebpf-workload-protection-lessons/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/effective-habits-remote-workers/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/engineering-spotlight-jeromy-carriere/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/engineering-spotlight-mael-nison/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/engineering-spotlight-marie-laure-bardonnet-part-2/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/engineering-spotlight-marie-laure-bardonnet/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/engineering-spotlight-tay-nishimura/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/engineering-vp-spotlight-ivo-dimitrov/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/formal-modeling-and-simulation/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/go-memory-regression/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/go-swiss-tables/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/grpc-dns-and-load-balancing-incident/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/hackathon-project-viewing-datadog-metrics-in-minecraft/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/highly-reliable-data-pipelines/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/how-datadog-uses-datadog-to-gain-visibility-into-the-datadog-user-experience/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/how-datadogs-it-team-automated-account-inactivity-and-saas-spend-management/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/how-datadogs-it-team-automated-monitoring-third-party-accounts/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/how-we-brought-datadog-data-visualization-to-ios-performance/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/how-we-built-the-datadog-heatmap-to-visualize-distributions-over-time-at-arbitrary-scale/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/how-we-optimized-our-akka-application-using-datadogs-continuous-profiler/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/how-we-use-vale-to-improve-our-documentation-editing-process/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/how-we-wrote-a-python-profiler/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/husky-deep-dive/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/husky-query-architecture/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/husky-storage-compaction/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/improving-cloud-security-with-chatops/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/improving-trust-with-datadog-log-management/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/introducing-glommio/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/introducing-husky/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/introducing-kafka-kit-tools-for-scaling-kafka/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/llms-for-postmortems/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/making-fetch-happen-building-a-general-purpose-query-and-render-scheduler/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/malicious-pull-requests/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/mcp-server-agent-tools/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/migrating-acceptance-tests-to-synthetic-monitoring/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/moving-a-jobsystem-to-kubernetes/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/noise-suppression-library/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/not-just-another-network-latency-issue/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/our-journey-taking-kubernetes-state-metrics-to-the-next-level/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/performance-improvements-in-the-datadog-agent-metrics-pipeline/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/php-8-observability-baked-right-in/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/piecewise-regression/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/postgresql-ha-kubernetes/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/profiling-improvements-in-go-1-18/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/protobuf-parsing-in-python/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/redux-doghouse-reusable-react-redux-components-through-scoping/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/releasing-czlib-and-zstd-go-bindings/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/reliable-log-delivery/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/restroom-hacks/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/rethinking-reliability/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/rethinking-ux-for-ai-driven-alerting/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/robust-statistical-distances-for-machine-learning/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/ruby-test-impact-analysis/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/rust-timeseries-engine/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/scaling-config-delivery-containers/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/scaling-malicious-code-detection/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/scaling-process-pipeline-efficiency/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/scaling-support-with-vagrant-terraform/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/secure-aws-account-iam-setup/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/secure-publication-of-datadog-agent-integrations-with-tuf-and-in-toto/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/self-optimizing-system/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/steganography-at-scale/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/stopping-hackerbot-claw-with-bewaire/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/streaming-platform-kafka-custom-abstractions/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/the-trouble-with-mounting/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/unwinding-shared-database/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/using-datadog-apm-to-find-bottlenecks-and-performance-benchmarking/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/using-datadog-to-monitor-my-sailboat/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/what-product-designers-can-learn-from-explanatory-journalism/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.datadoghq.com/blog/engineering/workload-protection-ebpf-fim/": {
+  "blog": "Datadog Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance/": {
+  "blog": "Docker Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.docker.com/blog/docker-hardened-images-enhanced-vulnerability-scanning-with-docker-and-aikido/": {
+  "blog": "Docker Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security/": {
+  "blog": "Docker Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.docker.com/blog/eu-ai-act-compliance/": {
+  "blog": "Docker Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.docker.com/blog/eu-cyber-resilience-act-overview/": {
+  "blog": "Docker Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.docker.com/blog/sbom-generation-for-container-workflows/": {
+  "blog": "Docker Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.docker.com/blog/software-supply-chain-security-best-practices/": {
+  "blog": "Docker Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.docker.com/blog/what-is-ai-governance/": {
+  "blog": "Docker Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.docker.com/blog/what-is-an-sbom/": {
+  "blog": "Docker Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.docker.com/blog/why-ai-agents-need-isolation/": {
+  "blog": "Docker Blog",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.notion.com/ja/blog/a-brief-history-of-notions-data-catalog": {
+  "blog": "Notion Blog (tech)",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.notion.com/ja/blog/balancing-cost-and-reliability-for-spark-on-kubernetes": {
+  "blog": "Notion Blog (tech)",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.notion.com/ja/blog/enabling-multi-region-data-systems-at-notion": {
+  "blog": "Notion Blog (tech)",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.notion.com/ja/blog/how-notion-catches-breaking-schema-changes": {
+  "blog": "Notion Blog (tech)",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.notion.com/ja/blog/how-we-built-custom-emoji": {
+  "blog": "Notion Blog (tech)",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.notion.com/ja/blog/how-we-built-security-into-custom-agents": {
+  "blog": "Notion Blog (tech)",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.notion.com/ja/blog/how-we-evolved-our-code-notions-ratcheting-system-using-custom-eslint-rules": {
+  "blog": "Notion Blog (tech)",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.notion.com/ja/blog/how-we-made-notion-available-offline": {
+  "blog": "Notion Blog (tech)",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.notion.com/ja/blog/notions-hosted-mcp-server-an-inside-look": {
+  "blog": "Notion Blog (tech)",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.notion.com/ja/blog/observability-for-notions-redis-queue": {
+  "blog": "Notion Blog (tech)",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.notion.com/ja/blog/speed-structure-and-smarts-the-notion-ai-way": {
+  "blog": "Notion Blog (tech)",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.notion.com/ja/blog/two-years-of-vector-search-at-notion": {
+  "blog": "Notion Blog (tech)",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.notion.com/ja/blog/updating-the-design-of-notion-pages": {
+  "blog": "Notion Blog (tech)",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/accelerating-deep-learning/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/adding-determinism-and-safety-to-uber-iam-policy-changes/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/ai-prototyping/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/ansible-automation-powers/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/apache-hudi-at-uber/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/auto-categorizing-data-through-ai-ml/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/automate-design-specs/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/automating-kerberos-keytab-rotation-at-uber/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/building-ubers-multi-cloud-secrets-management-platform/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/database-federation/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/design-system-at-scale/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/evolution-and-scale-of-ubers-delivery-search-platform/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/executive-travel/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/first-pass-prd/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/five-layers-cloud/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/from-static-rate-limiting-to-intelligent-load-management/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/high-performance-grpc/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/how-uber-standardized-mobile-analytics/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/hybrid-core-allocation/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/innovative-recommendation-applications-using-two-tower-embeddings/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/live-activity-on-ios/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/open-source-and-in-house-how-uber-optimizes-llm-training/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/scaled-data-replication/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/scaling-responsible-ai/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/securing-hadoop-on-gcp/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/superuser-gateway-guardrails/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/transforming-ads-personalization/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/unified-checkout/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/validating-bounding-box/": {
+  "blog": "Uber Engineering",
+  "first_seen": "2026-07-08"
+ },
+ "https://www.uber.com/blog/zero-growth-stack/": {
+  "blog": "Uber Engineering",
   "first_seen": "2026-07-08"
  },
  "https://www.wantedly.com/companies/wantedly/post_articles/1067533": {
@@ -8697,6 +11945,90 @@
  },
  "https://www.wantedly.com/companies/wantedly/post_articles/1077207": {
   "blog": "Wantedly stories",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/0918nobita/articles/renovate-update-same-time": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/16b3e71b580b6c": {
+  "blog": "dinii",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/18128bd1685e2a": {
+  "blog": "dinii",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/1cfac1ca8b46c3": {
+  "blog": "dinii",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/28c8fcd041837d": {
+  "blog": "dinii",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/4cc00c24542968": {
+  "blog": "dinii",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/5ea9abd304e467": {
+  "blog": "dinii",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/675d47a6c21c83": {
+  "blog": "dinii",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/86afc78e013965": {
+  "blog": "dinii",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/8bb182809bd188": {
+  "blog": "dinii",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/ai-agent-demystified": {
+  "blog": "dinii",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/d0a3a057b8f128": {
+  "blog": "dinii",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/d7be3acc43d868": {
+  "blog": "dinii",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/debugging-is-solved": {
+  "blog": "dinii",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/e12fbacc8e761c": {
+  "blog": "dinii",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/e615ae7d517795": {
+  "blog": "dinii",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/f09d21542871ae": {
+  "blog": "dinii",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/f5ad97571b8195": {
+  "blog": "dinii",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/improve-latency-with-profiler": {
+  "blog": "dinii",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/totality-is-all-you-need": {
+  "blog": "dinii",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/dinii/articles/typescript-go": {
+  "blog": "dinii",
   "first_seen": "2026-07-08"
  },
  "https://zenn.dev/dress_code/articles/0269e5a21529b4": {
@@ -8778,6 +12110,138 @@
  "https://zenn.dev/dress_code/articles/postgres-distinct-on-nested-loop": {
   "blog": "DRESS CODE",
   "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/estie/articles/0523e1e66863fc": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/estie/articles/0f8ba9b3ca0fb2": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/estie/articles/11f078b1330123": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/estie/articles/14fce9ae4aa89b": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/estie/articles/29a0968c00b8d3": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/estie/articles/2ac12b0f52c44c": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/estie/articles/2eeeb70dba97b1": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/estie/articles/45b569b84a5617": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/estie/articles/4e057582208b0b": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/estie/articles/4f06bde08a90d4": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/estie/articles/59ec0ae59c3199": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/estie/articles/6c42162ce868b9": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/estie/articles/76bb030f8a9f87": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/estie/articles/79b2db0586a0b9": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/estie/articles/8268006c43706c": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/estie/articles/9cba491ae6e44a": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/estie/articles/a1fb886a96ada2": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/estie/articles/d00b7e7e5853db": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/estie/articles/f4523adedad6bf": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/estie/articles/f90d498d21a798": {
+  "blog": "estie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/herp_inc/articles/00917098b3ffd3": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/herp_inc/articles/5ec65c2aebda39": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/herp_inc/articles/862f919b43c1c8": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/herp_inc/articles/9983cc761402c1": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/herp_inc/articles/9c01c514783a89": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/herp_inc/articles/ai-handles-alert-triage": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/herp_inc/articles/d1f330a43bfdd3": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/herp_inc/articles/dfd6d561fa9f08": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/herp_inc/articles/fa85396aee44ad": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/herp_inc/articles/google-meet-global-shortcuts": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/herp_inc/articles/mac-crtl-k-to-clipboard-with-karabiner-elements": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/herp_inc/articles/switch-gh-accounts-automatically": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/herp_inc/articles/when-to-resolve-technical-debt": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
  },
  "https://zenn.dev/knowledgesense/articles/14a874a9f423bb": {
   "blog": "Knowledge Sense",
@@ -8863,6 +12327,34 @@
   "blog": "Knowledge Sense",
   "first_seen": "2026-07-07"
  },
+ "https://zenn.dev/lapi/articles/2021-06-10-vagrant_wsl2": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/lapi/articles/e7ae967aa5161b": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/makumattun/articles/2e27cbbb5c4172": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/makumattun/articles/868ae010ecb915": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/makumattun/articles/a1a4477a1a5e6c": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/makumattun/articles/a4195caca27485": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/mazamachi/articles/js-intl-date-time-format-performance": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
  "https://zenn.dev/mixi/articles/0bdedc681f5ede": {
   "blog": "MIXI",
   "first_seen": "2026-07-07"
@@ -8947,6 +12439,58 @@
   "blog": "MIXI",
   "first_seen": "2026-07-07"
  },
+ "https://zenn.dev/mkobayashime/articles/dein-vim-help": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/mkobayashime/articles/dir-local-aliases": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/mkobayashime/articles/eslint-flat-config-with-shopify-config": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/mkobayashime/articles/markdown-hot-reload-next-js": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/mkobayashime/articles/nvim-treesitter-dein": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/mkobayashime/articles/ogp-image-playwright": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/mkobayashime/articles/test-interactive-cli": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/mkobayashime/articles/vimium-vim-browser": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ruicc/articles/33e5f9c5103e6a": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ruicc/articles/58014f5c913a7d": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ruicc/articles/69c7419ddd7b30": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ruicc/articles/8c978516535e7f": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ruicc/articles/c1bedf098d8c6b": {
+  "blog": "HERP Tech Hub",
+  "first_seen": "2026-07-08"
+ },
  "https://zenn.dev/smartcamp/articles/0318c14b944d70": {
   "blog": "SMARTCAMP",
   "first_seen": "2026-07-07"
@@ -9026,5 +12570,85 @@
  "https://zenn.dev/smartcamp/articles/fa049e31b5c6fa": {
   "blog": "SMARTCAMP",
   "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/ubie_dev/articles/020dfe44f9b152": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ubie_dev/articles/177aa901870e7d": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ubie_dev/articles/1e983361cb053b": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ubie_dev/articles/38f208450fb745": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ubie_dev/articles/6b23a74187766b": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ubie_dev/articles/6e4a18b54002ea": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ubie_dev/articles/9258ddaa5f8caa": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ubie_dev/articles/9ff04ad1f09a7a": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ubie_dev/articles/ad3f556639d44e": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ubie_dev/articles/ai-sec-alert-ops": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ubie_dev/articles/anchor-positioning-popover": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ubie_dev/articles/b712ec880ac038": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ubie_dev/articles/bf76b5e21c546f": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ubie_dev/articles/claude-code-remote-control-intro": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ubie_dev/articles/claude-code-tips-findy-2026": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ubie_dev/articles/gh-skill-install-agent-skills": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ubie_dev/articles/modern-css-dos-donts": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ubie_dev/articles/modern-web-guidance": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ubie_dev/articles/nfc-guide-for-hackers": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/ubie_dev/articles/sec-agent-harness-eng": {
+  "blog": "Ubie",
+  "first_seen": "2026-07-08"
  }
 }
