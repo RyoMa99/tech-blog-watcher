@@ -330,3 +330,7 @@
 - name: hiroppy
   url: https://hiroppy.me/blog/
   feed: https://hiroppy.me/blog/rss.xml
+
+- name: Studist
+  url: https://zenn.dev/p/studist
+  feed: https://zenn.dev/p/studist/feed
