@@ -192,3 +192,19 @@
 - name: Knowledge Sense
   url: https://zenn.dev/p/knowledgesense
   feed: https://zenn.dev/p/knowledgesense/feed
+
+- name: Anthropic News
+  url: https://www.anthropic.com/news
+  adapter: anthropic_news
+
+- name: Claude Blog
+  url: https://claude.com/ja/blog
+  adapter: claude_blog
+
+- name: Claude Code What's New
+  url: https://code.claude.com/docs/ja/whats-new
+  feed: https://code.claude.com/docs/ja/whats-new/rss.xml
+
+- name: Cursor Blog
+  url: https://cursor.com/ja/blog
+  adapter: cursor_blog
