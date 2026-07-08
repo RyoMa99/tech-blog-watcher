@@ -334,3 +334,7 @@
 - name: Studist
   url: https://zenn.dev/p/studist
   feed: https://zenn.dev/p/studist/feed
+
+- name: Inside Rust Blog
+  url: https://blog.rust-lang.org/inside-rust/
+  feed: https://blog.rust-lang.org/inside-rust/feed.xml
