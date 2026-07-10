@@ -333,3 +333,8 @@
 - name: Inside Rust Blog
   url: https://blog.rust-lang.org/inside-rust/
   feed: https://blog.rust-lang.org/inside-rust/feed.xml
+
+# エンジニアリングタグ専用フィードが無いため一覧ページをスクレイプ(初回12件)
+- name: Figma Engineering
+  url: https://www.figma.com/ja-jp/blog/engineering/
+  adapter: figma_engineering
