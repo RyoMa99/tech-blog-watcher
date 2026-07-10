@@ -318,11 +318,6 @@
   url: https://blog.twitch.tv/en/
   adapter: twitch
 
-# フィードはリンク切れのためトップページの記事カードをスクレイプ
-- name: Uber Engineering
-  url: https://eng.uber.com/
-  adapter: uber
-
 - name: ByteDance Seed
   url: https://seed.bytedance.com/en/blog
   adapter: bytedance_seed
