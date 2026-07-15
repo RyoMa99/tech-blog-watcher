@@ -342,3 +342,8 @@
 - name: Publickey
   url: https://www.publickey1.jp/
   feed: https://www.publickey1.jp/atom.xml
+
+# カテゴリ専用フィードが無いため一覧ページをスクレイプ
+- name: 窓の杜 脆弱性
+  url: https://forest.watch.impress.co.jp/category/security/vulner/
+  adapter: forest_watch_vulner

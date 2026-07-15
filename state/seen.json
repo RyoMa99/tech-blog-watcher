@@ -2075,6 +2075,10 @@
   "blog": "Cloudflare Blog (ja)",
   "first_seen": "2026-07-08"
  },
+ "https://blog.cloudflare.com/ja-jp/ml-dsa-will-have-to-do/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-15"
+ },
  "https://blog.cloudflare.com/ja-jp/oauth-for-all/": {
   "blog": "Cloudflare Blog (ja)",
   "first_seen": "2026-07-08"
@@ -2103,9 +2107,17 @@
   "blog": "Cloudflare Blog (ja)",
   "first_seen": "2026-07-08"
  },
+ "https://blog.cloudflare.com/ja-jp/smart-tiered-cache-for-public-clouds/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-15"
+ },
  "https://blog.cloudflare.com/ja-jp/temporary-accounts/": {
   "blog": "Cloudflare Blog (ja)",
   "first_seen": "2026-07-08"
+ },
+ "https://blog.cloudflare.com/ja-jp/workers-cache/": {
+  "blog": "Cloudflare Blog (ja)",
+  "first_seen": "2026-07-15"
  },
  "https://blog.cybai.dev/servo-contributor-part-i/": {
   "blog": "HERP Tech Hub",
@@ -5970,6 +5982,142 @@
  "https://engineering.mercari.com/blog/entry/20260630-b22667b4d6/": {
   "blog": "Mercari Engineering",
   "first_seen": "2026-07-07"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2108612.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2108882.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2109299.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2110209.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2110658.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2110950.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2111258.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2112012.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2112744.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2113807.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2114153.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2114658.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2115071.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2115652.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2116089.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2116828.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2117002.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2117895.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2118062.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2118393.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2118759.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2119825.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2120211.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2120608.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2121012.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2121585.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2121941.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2121981.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2122504.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2123652.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2124069.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2124502.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2124894.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2125154.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-15"
  },
  "https://future-architect.github.io/articles/20260525a/": {
   "blog": "Future Tech Blog",
@@ -10115,6 +10263,10 @@
   "blog": "syu-m-5151",
   "first_seen": "2026-07-13"
  },
+ "https://syu-m-5151.hatenablog.com/entry/2026/07/15/105845": {
+  "blog": "syu-m-5151",
+  "first_seen": "2026-07-15"
+ },
  "https://taketo957.hatenablog.com/entry/2025/09/02/125043": {
   "blog": "HERP Tech Hub",
   "first_seen": "2026-07-08"
@@ -12043,6 +12195,10 @@
   "blog": "LINEヤフー",
   "first_seen": "2026-07-15"
  },
+ "https://techblog.lycorp.co.jp/ja/20260715a": {
+  "blog": "LINEヤフー",
+  "first_seen": "2026-07-15"
+ },
  "https://techblog.lycorp.co.jp/ja/techverse2026-10": {
   "blog": "LINEヤフー",
   "first_seen": "2026-07-07"
@@ -12254,6 +12410,10 @@
  "https://techblog.zozo.com/entry/fastly-to-cloudfront-migration": {
   "blog": "ZOZO",
   "first_seen": "2026-07-07"
+ },
+ "https://techblog.zozo.com/entry/flutter-spm-flavor-migration": {
+  "blog": "ZOZO",
+  "first_seen": "2026-07-15"
  },
  "https://techblog.zozo.com/entry/google-cloud-next-2026": {
   "blog": "ZOZO",
