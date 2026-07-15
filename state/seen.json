@@ -2283,6 +2283,10 @@
   "blog": "Inside Rust Blog",
   "first_seen": "2026-07-15"
  },
+ "https://blog.rust-lang.org/inside-rust/2026/07/15/1.97.1-prerelease/": {
+  "blog": "Inside Rust Blog",
+  "first_seen": "2026-07-15"
+ },
  "https://blog.ryota-ka.me/posts/2022/05/01/handling-private-resources-with-nix": {
   "blog": "HERP Tech Hub",
   "first_seen": "2026-07-08"
@@ -2591,6 +2595,10 @@
   "blog": "coliss",
   "first_seen": "2026-07-08"
  },
+ "https://coliss.com/articles/build-websites/operation/css/css-gradients-cheat-sheet-by-programoreno.html": {
+  "blog": "coliss",
+  "first_seen": "2026-07-15"
+ },
  "https://coliss.com/articles/build-websites/operation/css/gap-decorations-used-css.html": {
   "blog": "coliss",
   "first_seen": "2026-07-08"
@@ -2767,6 +2775,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-15"
  },
+ "https://dev.classmethod.jp/articles/20260715-cc-updates-v2-1-210/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-15"
+ },
  "https://dev.classmethod.jp/articles/26-external-training-takanami/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-09"
@@ -2923,6 +2935,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-11"
  },
+ "https://dev.classmethod.jp/articles/aws-security-hub-ai/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-15"
+ },
  "https://dev.classmethod.jp/articles/aws-security-hub-supports-monitoring-microsoft-azure/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-09"
@@ -3070,6 +3086,10 @@
  "https://dev.classmethod.jp/articles/claude-code-otlp-token-pass-wsl-grafana-cloud/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-13"
+ },
+ "https://dev.classmethod.jp/articles/claude-code-pdf-tools-pdftotext-pdfinfo-pymupdf/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-15"
  },
  "https://dev.classmethod.jp/articles/claude-code-statusline-jpy-cost/": {
   "blog": "DevelopersIO",
@@ -3323,6 +3343,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-15"
  },
+ "https://dev.classmethod.jp/articles/guardduty-ai-protection-enable-and-verify/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-15"
+ },
  "https://dev.classmethod.jp/articles/guardduty-ai-protection-preview/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-15"
@@ -3334,6 +3358,10 @@
  "https://dev.classmethod.jp/articles/iam-accesskey-rotation-howto/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/identify-user-behind-assumed-role/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-15"
  },
  "https://dev.classmethod.jp/articles/ie-gyoza-001/": {
   "blog": "DevelopersIO",
@@ -3686,6 +3714,10 @@
  "https://dev.classmethod.jp/articles/secrets-manager-managed-external-secrets-gitlab-token-rotation/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-08"
+ },
+ "https://dev.classmethod.jp/articles/security-hub-ai-inventory-auto-detection/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-15"
  },
  "https://dev.classmethod.jp/articles/security-hub-cspm-cis-benchmark-version-change-001/": {
   "blog": "DevelopersIO",
@@ -6052,6 +6084,10 @@
   "first_seen": "2026-07-10"
  },
  "https://future-architect.github.io/articles/20260714a/": {
+  "blog": "Future Tech Blog",
+  "first_seen": "2026-07-15"
+ },
+ "https://future-architect.github.io/articles/20260715a/": {
   "blog": "Future Tech Blog",
   "first_seen": "2026-07-15"
  },
@@ -10699,6 +10735,10 @@
   "blog": "コドモン",
   "first_seen": "2026-07-07"
  },
+ "https://tech.codmon.com/entry/2026/07/15/090000": {
+  "blog": "コドモン",
+  "first_seen": "2026-07-15"
+ },
  "https://tech.codmon.com/entry/thinking-through-writing": {
   "blog": "コドモン",
   "first_seen": "2026-07-07"
@@ -13094,6 +13134,66 @@
  "https://www.notion.com/ja/blog/updating-the-design-of-notion-pages": {
   "blog": "Notion Blog (tech)",
   "first_seen": "2026-07-08"
+ },
+ "https://www.publickey1.jp/blog/26/202960.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-07-15"
+ },
+ "https://www.publickey1.jp/blog/26/3ai.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-07-15"
+ },
+ "https://www.publickey1.jp/blog/26/applemacos_27swift.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-07-15"
+ },
+ "https://www.publickey1.jp/blog/26/bgm2026.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-07-15"
+ },
+ "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-07-15"
+ },
+ "https://www.publickey1.jp/blog/26/google_cloudaicloud_run.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-07-15"
+ },
+ "https://www.publickey1.jp/blog/26/it_2026_1.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-07-15"
+ },
+ "https://www.publickey1.jp/blog/26/it_2026_si.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-07-15"
+ },
+ "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-07-15"
+ },
+ "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-07-15"
+ },
+ "https://www.publickey1.jp/blog/26/postgresql_19ioautovacuum.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-07-15"
+ },
+ "https://www.publickey1.jp/blog/26/postgresqldbmultigres_v01.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-07-15"
+ },
+ "https://www.publickey1.jp/blog/26/unixwindowsmacoslinuxubuntu20266.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-07-15"
+ },
+ "https://www.publickey1.jp/blog/26/visual_studio_codegithub_copilot.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-07-15"
+ },
+ "https://www.publickey1.jp/blog/26/vmware_9.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-07-15"
  },
  "https://www.wantedly.com/companies/wantedly/post_articles/1067533": {
   "blog": "Wantedly stories",

@@ -338,3 +338,7 @@
 - name: Figma Engineering
   url: https://www.figma.com/ja-jp/blog/engineering/
   adapter: figma_engineering
+
+- name: Publickey
+  url: https://www.publickey1.jp/
+  feed: https://www.publickey1.jp/atom.xml
