@@ -3079,6 +3079,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-17"
  },
+ "https://dev.classmethod.jp/articles/amazon-redshift-serverless-zeroetl-autocopy-restore/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-20"
+ },
  "https://dev.classmethod.jp/articles/amplify-autobuild-queue/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-11"
@@ -3094,6 +3098,10 @@
  "https://dev.classmethod.jp/articles/aurora-dsql-prisma-cli-tools/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/aurora-restore-from-s3-associated-roles/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-20"
  },
  "https://dev.classmethod.jp/articles/aws-appconfig-experimentation/": {
   "blog": "DevelopersIO",
@@ -3274,6 +3282,14 @@
  "https://dev.classmethod.jp/articles/bigquery-autonomous-embedding-generation/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/bigquery-multilevel-aggregation/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-20"
+ },
+ "https://dev.classmethod.jp/articles/borgbackup-usb-ssd-daily-backup/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-20"
  },
  "https://dev.classmethod.jp/articles/broadcast-event-20260710/": {
   "blog": "DevelopersIO",
@@ -3507,6 +3523,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-19"
  },
+ "https://dev.classmethod.jp/articles/deploy-static-site-with-cloudflare-drop/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-20"
+ },
  "https://dev.classmethod.jp/articles/dera-cloudfront-maintenance-mode-coexist-with-lambda-edge/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-08"
@@ -3618,6 +3638,10 @@
  "https://dev.classmethod.jp/articles/flutter-genimi-nano/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/genu-5-5-0/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-20"
  },
  "https://dev.classmethod.jp/articles/github-actions-terraform-drift-claude-code-action/": {
   "blog": "DevelopersIO",
@@ -3991,6 +4015,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-16"
  },
+ "https://dev.classmethod.jp/articles/nvidia-alpagym-on-aws/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-20"
+ },
  "https://dev.classmethod.jp/articles/nvidia-alpasim/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-18"
@@ -4054,6 +4082,10 @@
  "https://dev.classmethod.jp/articles/pagerduty-custom-fileds/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/perforce-exclusive-lock-behavior/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-20"
  },
  "https://dev.classmethod.jp/articles/perforce-p4-mcp-claude-code/": {
   "blog": "DevelopersIO",
@@ -4122,6 +4154,10 @@
  "https://dev.classmethod.jp/articles/quick-api-createknowledgebase/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-12"
+ },
+ "https://dev.classmethod.jp/articles/quick-flow-auto-s3/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-20"
  },
  "https://dev.classmethod.jp/articles/quick-flow-automation-datasetqa-to-s3/": {
   "blog": "DevelopersIO",
@@ -4235,6 +4271,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
+ "https://dev.classmethod.jp/articles/shoma-github-copilot-cloud-sandbox-tried/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-20"
+ },
  "https://dev.classmethod.jp/articles/shoma-import-existing-manually-created-s3-bucket-into-cdk-management-with-cdk-import/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-08"
@@ -4242,6 +4282,10 @@
  "https://dev.classmethod.jp/articles/shoma-put-vectors-into-amazon-s3-vectors-and-similarity-search-with-bedrock/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-19"
+ },
+ "https://dev.classmethod.jp/articles/shoma-try-graphql-api-with-aws-appsync/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-20"
  },
  "https://dev.classmethod.jp/articles/shuntaka-claude-code-usage-dashboard-cloudwatch/": {
   "blog": "DevelopersIO",
@@ -4278,6 +4322,10 @@
  "https://dev.classmethod.jp/articles/squash-merge-orphans-git-tags/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-11"
+ },
+ "https://dev.classmethod.jp/articles/ssh-strace-syscall-peek/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-20"
  },
  "https://dev.classmethod.jp/articles/step-functions-teststate-api-enhanced-local-testing/": {
   "blog": "DevelopersIO",
@@ -8679,6 +8727,10 @@
   "blog": "piyolog",
   "first_seen": "2026-07-19"
  },
+ "https://piyolog.hatenadiary.jp/entry/2026/07/19/181822": {
+  "blog": "piyolog",
+  "first_seen": "2026-07-20"
+ },
  "https://product.st.inc/entry/2025/12/24/110535": {
   "blog": "STORES Product Blog",
   "first_seen": "2026-07-07"
@@ -8942,6 +8994,10 @@
  "https://seangoedecke.com/how-i-use-llms-in-2026/": {
   "blog": "seangoedecke.com",
   "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/impro/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-07-20"
  },
  "https://seangoedecke.com/in-defense-of-not-understanding-your-codebase/": {
   "blog": "seangoedecke.com",
@@ -14750,6 +14806,10 @@
  "https://zenn.dev/smartcamp/articles/acba13642973d3": {
   "blog": "SMARTCAMP",
   "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/smartcamp/articles/b28949bea1e8d2": {
+  "blog": "SMARTCAMP",
+  "first_seen": "2026-07-20"
  },
  "https://zenn.dev/smartcamp/articles/bb17eac124f12f": {
   "blog": "SMARTCAMP",
