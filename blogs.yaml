@@ -347,3 +347,7 @@
 - name: 窓の杜 脆弱性
   url: https://forest.watch.impress.co.jp/category/security/vulner/
   adapter: forest_watch_vulner
+
+- name: sh1ma
+  url: https://blog.sh1ma.dev/
+  feed: https://blog.sh1ma.dev/feed
