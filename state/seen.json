@@ -2431,6 +2431,102 @@
   "blog": "HERP Tech Hub",
   "first_seen": "2026-07-08"
  },
+ "https://blog.sh1ma.dev/articles/20230102_helloworld": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20231110_cloudflare_domain": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20231117_cloudflare_workers": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20240101_akeome": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20240108_from_asdf_to_mise": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20240128_iterm2_word_backwards_forwards": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20240201_driving_school": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20240229_driving_license": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20240430_nichijou": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20240609_blog_moves_to_cloudflare_pages": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20240725_20240725_proxmox-gpu-passthrough": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20240731_konbini_ningen": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20240731_proxmox_ollama": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20240831_furikaeri": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20241026_zakki": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20241117_cloudflare_access_openid_connect_discord_guilds": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20241222_self-made-airtag-using-openhaystack-and-esp32": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20250103_self-made-airtag-using-openhaystack-and-nrf52382": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20250510_toughpad-fz-g1-buttons-doesnt-work-on-mobian": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20260705_k3s_on_cloudflare_workers": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20260706_cloudflare_agentic_inbox": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20260706_mise_age_encrypt_env": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20260710_1_cloudflare_r2_macos_finder": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
+ "https://blog.sh1ma.dev/articles/20260720_1_cloudflare_containers_github_self_hosted_runners": {
+  "blog": "sh1ma",
+  "first_seen": "2026-07-21"
+ },
  "https://blog.twitch.tv/en/2026/03/25/twitchcon-2026-building-the-future/": {
   "blog": "Twitch Blog",
   "first_seen": "2026-07-08"
@@ -4535,6 +4631,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-09"
  },
+ "https://dev.classmethod.jp/articles/vpc-lambda-createnetworkinterface-express-mode/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-21"
+ },
  "https://dev.classmethod.jp/articles/vscode-zenn-preview-devio-setup/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-08"
@@ -5010,6 +5110,10 @@
  "https://developers.cyberagent.co.jp/blog/archives/64498/": {
   "blog": "CyberAgent",
   "first_seen": "2026-07-10"
+ },
+ "https://developers.cyberagent.co.jp/blog/archives/64511/": {
+  "blog": "CyberAgent",
+  "first_seen": "2026-07-21"
  },
  "https://developers.cyberagent.co.jp/blog/archives/64534/": {
   "blog": "CyberAgent",
