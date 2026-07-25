@@ -963,6 +963,10 @@
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
  },
+ "https://azukiazusa.dev/blog/hermes-agent-slack-workflow": {
+  "blog": "azukiazusa.dev",
+  "first_seen": "2026-07-26"
+ },
  "https://azukiazusa.dev/blog/histoire-a-ui-component-cataloging-tool-from-Vite": {
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
@@ -994,6 +998,10 @@
  "https://azukiazusa.dev/blog/html-in-canvas-api": {
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
+ },
+ "https://azukiazusa.dev/blog/html-in-canvas-component-library-canvasui": {
+  "blog": "azukiazusa.dev",
+  "first_seen": "2026-07-26"
  },
  "https://azukiazusa.dev/blog/implement-path-key-in-browser": {
   "blog": "azukiazusa.dev",
@@ -3543,6 +3551,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-08"
  },
+ "https://dev.classmethod.jp/articles/aws-summit-japan-2026-minisession-devopsagent/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-26"
+ },
  "https://dev.classmethod.jp/articles/aws-user-notifications-aggregation-deduplication-multi-account/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-15"
@@ -3598,6 +3610,10 @@
  "https://dev.classmethod.jp/articles/backlog-webhook-claude-code-routines/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-14"
+ },
+ "https://dev.classmethod.jp/articles/batch-error-collection-pattern/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-26"
  },
  "https://dev.classmethod.jp/articles/bedrock-agentcore-browser-cognito-totp-app-automation/": {
   "blog": "DevelopersIO",
@@ -3767,6 +3783,14 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-25"
  },
+ "https://dev.classmethod.jp/articles/claude-business-use5/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-26"
+ },
+ "https://dev.classmethod.jp/articles/claude-business-use6/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-26"
+ },
  "https://dev.classmethod.jp/articles/claude-code-at-import-mitmproxy/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-13"
@@ -3778,6 +3802,10 @@
  "https://dev.classmethod.jp/articles/claude-code-clasp-gas-calendar-to-worklog/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-18"
+ },
+ "https://dev.classmethod.jp/articles/claude-code-fallback-model/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-26"
  },
  "https://dev.classmethod.jp/articles/claude-code-meetup-cm-osaka-claude-in-ci/": {
   "blog": "DevelopersIO",
@@ -3838,6 +3866,14 @@
  "https://dev.classmethod.jp/articles/claude-design-system-aws-diagram/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-18"
+ },
+ "https://dev.classmethod.jp/articles/claude-enterprise-analytics-custom-role-view/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-26"
+ },
+ "https://dev.classmethod.jp/articles/claude-enterprise-custom-role-connector-github-integration/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-26"
  },
  "https://dev.classmethod.jp/articles/claude-enterprise-skill-sharing-behavior/": {
   "blog": "DevelopersIO",
@@ -3959,6 +3995,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-14"
  },
+ "https://dev.classmethod.jp/articles/compare-claude-code-kiro-cli/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-26"
+ },
  "https://dev.classmethod.jp/articles/compare-claude-code-models-telemetry-llm-judge/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-23"
@@ -4018,6 +4058,10 @@
  "https://dev.classmethod.jp/articles/dbt-projects-on-snowflake-with-sql-environment-variables/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-25"
+ },
+ "https://dev.classmethod.jp/articles/dependabot-default-cooldown-3-days/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-26"
  },
  "https://dev.classmethod.jp/articles/dependabot-major-bump-ecosystem-lag/": {
   "blog": "DevelopersIO",
@@ -4214,6 +4258,10 @@
  "https://dev.classmethod.jp/articles/google-chat-bot-structured-logging-feedback-dialog/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-11"
+ },
+ "https://dev.classmethod.jp/articles/google-chat-bot-warm-persona-gemini/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-26"
  },
  "https://dev.classmethod.jp/articles/google-drive-vertex-ai-rag-auto-sync/": {
   "blog": "DevelopersIO",
@@ -4599,6 +4647,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-11"
  },
+ "https://dev.classmethod.jp/articles/mit-sapporo-2-guideline7/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-26"
+ },
  "https://dev.classmethod.jp/articles/modern-data-stack-info-summary-20260708/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-09"
@@ -4927,6 +4979,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-09"
  },
+ "https://dev.classmethod.jp/articles/ses-mail-manager-smtp-setup/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-26"
+ },
  "https://dev.classmethod.jp/articles/ses-pricing-plans-price-list-api-sesv2-api/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-22"
@@ -5039,6 +5095,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-21"
  },
+ "https://dev.classmethod.jp/articles/strands-agents-lambda-api-gateway/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-26"
+ },
  "https://dev.classmethod.jp/articles/strands-agents-plugin-goal-loop/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
@@ -5115,6 +5175,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
+ "https://dev.classmethod.jp/articles/tsnote-reason-why-s3-objects-cannot-be-deleted/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-26"
+ },
  "https://dev.classmethod.jp/articles/twilio-conversationrelay-voice-ai-demo/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-19"
@@ -5122,6 +5186,10 @@
  "https://dev.classmethod.jp/articles/twilio-verify-email-otp/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-14"
+ },
+ "https://dev.classmethod.jp/articles/typescript-promise-cache-error-handling/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-26"
  },
  "https://dev.classmethod.jp/articles/update-amazon-mwaa-serverless-new-operators-workflow-trigger/": {
   "blog": "DevelopersIO",
@@ -5138,6 +5206,10 @@
  "https://dev.classmethod.jp/articles/vertexai-rag-to-agentplatform-migration-pitfalls/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-17"
+ },
+ "https://dev.classmethod.jp/articles/visualize-claude-code-settings/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-26"
  },
  "https://dev.classmethod.jp/articles/visualize-claude-code-telemetry-grafana-otel-lgtm/": {
   "blog": "DevelopersIO",
@@ -5655,6 +5727,10 @@
   "blog": "CyberAgent",
   "first_seen": "2026-07-21"
  },
+ "https://developers.cyberagent.co.jp/blog/archives/64711/": {
+  "blog": "CyberAgent",
+  "first_seen": "2026-07-26"
+ },
  "https://developers.cyberagent.co.jp/blog/archives/64718/": {
   "blog": "CyberAgent",
   "first_seen": "2026-07-22"
@@ -5670,6 +5746,10 @@
  "https://developers.cyberagent.co.jp/blog/archives/64795/": {
   "blog": "CyberAgent",
   "first_seen": "2026-07-24"
+ },
+ "https://developers.cyberagent.co.jp/blog/archives/64873/": {
+  "blog": "CyberAgent",
+  "first_seen": "2026-07-26"
  },
  "https://developers.freee.co.jp/entry/2026/06/15/170000": {
   "blog": "freee",
@@ -8246,6 +8326,10 @@
  "https://kakakakakku.hatenablog.com/entry/2026/07/23/120739": {
   "blog": "kakakakakku blog",
   "first_seen": "2026-07-24"
+ },
+ "https://kakakakakku.hatenablog.com/entry/2026/07/25/140910": {
+  "blog": "kakakakakku blog",
+  "first_seen": "2026-07-26"
  },
  "https://kakehashi-dev.hatenablog.com/entry/2026/03/09/090000": {
   "blog": "カケハシ",
@@ -11854,6 +11938,10 @@
  "https://syu-m-5151.hatenablog.com/entry/2026/07/24/110856": {
   "blog": "syu-m-5151",
   "first_seen": "2026-07-25"
+ },
+ "https://syu-m-5151.hatenablog.com/entry/2026/07/25/222724": {
+  "blog": "syu-m-5151",
+  "first_seen": "2026-07-26"
  },
  "https://taketo957.hatenablog.com/entry/2025/09/02/125043": {
   "blog": "HERP Tech Hub",
@@ -15866,6 +15954,10 @@
  "https://zenn.dev/smartcamp/articles/10ddf0d04ee402": {
   "blog": "SMARTCAMP",
   "first_seen": "2026-07-21"
+ },
+ "https://zenn.dev/smartcamp/articles/224ecaf9f96b17": {
+  "blog": "SMARTCAMP",
+  "first_seen": "2026-07-26"
  },
  "https://zenn.dev/smartcamp/articles/22d5fa14a09212": {
   "blog": "SMARTCAMP",
