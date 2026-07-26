@@ -715,6 +715,10 @@
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
  },
+ "https://azukiazusa.dev/blog/css-grid-lanes": {
+  "blog": "azukiazusa.dev",
+  "first_seen": "2026-07-27"
+ },
  "https://azukiazusa.dev/blog/css-only-carousel": {
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
@@ -3063,6 +3067,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
+ "https://dev.classmethod.jp/articles/2026-07-26-aws-summit-minisession-security/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-27"
+ },
  "https://dev.classmethod.jp/articles/202607-nakoaoki-joined-classmethod/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
@@ -3170,6 +3178,10 @@
  "https://dev.classmethod.jp/articles/20260725-cc-updates-v2-1-219/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-25"
+ },
+ "https://dev.classmethod.jp/articles/20260726-amazon-smus-custom-visual-transform/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-27"
  },
  "https://dev.classmethod.jp/articles/202607_kash_PMobsidian/": {
   "blog": "DevelopersIO",
@@ -3431,9 +3443,17 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-09"
  },
+ "https://dev.classmethod.jp/articles/aws-bench-overview/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-27"
+ },
  "https://dev.classmethod.jp/articles/aws-builder-center-free-sandbox-workshops/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-10"
+ },
+ "https://dev.classmethod.jp/articles/aws-cli-aws-update-command/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-27"
  },
  "https://dev.classmethod.jp/articles/aws-cli-debug-first/": {
   "blog": "DevelopersIO",
@@ -3494,6 +3514,10 @@
  "https://dev.classmethod.jp/articles/aws-lambda-log-group-auto-creation-timing/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-16"
+ },
+ "https://dev.classmethod.jp/articles/aws-lambda-managed-instances-logs/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-27"
  },
  "https://dev.classmethod.jp/articles/aws-lambda-one-click-agent-setup/": {
   "blog": "DevelopersIO",
@@ -3947,6 +3971,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-21"
  },
+ "https://dev.classmethod.jp/articles/cloudwatch-alarm-email-user-notifications-sns/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-27"
+ },
  "https://dev.classmethod.jp/articles/cloudwatch-anomaly-detector-id-in-alarm-payload/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-14"
@@ -4186,6 +4214,10 @@
  "https://dev.classmethod.jp/articles/emr-serverless-32vcpu-worker-size/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-09"
+ },
+ "https://dev.classmethod.jp/articles/enmasa-scrumsendai2026/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-27"
  },
  "https://dev.classmethod.jp/articles/esp32-first-steps-led-mirrorball-soil-sensor/": {
   "blog": "DevelopersIO",
@@ -4499,6 +4531,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-08"
  },
+ "https://dev.classmethod.jp/articles/kubectl-exec-as-api-gateway-pattern/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-27"
+ },
  "https://dev.classmethod.jp/articles/kura-swift-env-secrets-obfuscation-ios/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
@@ -4522,6 +4558,10 @@
  "https://dev.classmethod.jp/articles/lambda-secrets-manager-db-connection/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-14"
+ },
+ "https://dev.classmethod.jp/articles/lambdadf-dotnet/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-27"
  },
  "https://dev.classmethod.jp/articles/lim-cloudwatch-agent-ec2-console/": {
   "blog": "DevelopersIO",
@@ -4695,6 +4735,14 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-16"
  },
+ "https://dev.classmethod.jp/articles/nodejs-long-running-process-memory-management/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-27"
+ },
+ "https://dev.classmethod.jp/articles/nodejs-ssh2-double-hop-tunnel-resilience/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-27"
+ },
  "https://dev.classmethod.jp/articles/non-engineer-claude-skills-ops-mistake-response/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-22"
@@ -4819,6 +4867,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-15"
  },
+ "https://dev.classmethod.jp/articles/pomerium-zero-trust-ssh-tunnel-nodejs/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-27"
+ },
  "https://dev.classmethod.jp/articles/postgresql-19-beta2-rds-database-preview-environment/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-18"
@@ -4927,6 +4979,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-18"
  },
+ "https://dev.classmethod.jp/articles/sagemaker-realtime-llama-cpp-gguf-streaming/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-27"
+ },
  "https://dev.classmethod.jp/articles/sales-beginner-claude-mtg-experience/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
@@ -5019,6 +5075,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-21"
  },
+ "https://dev.classmethod.jp/articles/shoma-tried-using-aws-well-architected-tool/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-27"
+ },
  "https://dev.classmethod.jp/articles/shoma-try-graphql-api-with-aws-appsync/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-20"
@@ -5034,6 +5094,10 @@
  "https://dev.classmethod.jp/articles/silent-hang-pyspy-thread/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-09"
+ },
+ "https://dev.classmethod.jp/articles/simplead_changed/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-27"
  },
  "https://dev.classmethod.jp/articles/snowflake-coco-masking-policy-aggregation-policy-pii/": {
   "blog": "DevelopersIO",
@@ -5066,6 +5130,10 @@
  "https://dev.classmethod.jp/articles/squash-merge-orphans-git-tags/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-11"
+ },
+ "https://dev.classmethod.jp/articles/ssh-connect-ebpf-tcp-state/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-27"
  },
  "https://dev.classmethod.jp/articles/ssh-strace-syscall-peek/": {
   "blog": "DevelopersIO",
@@ -5150,6 +5218,10 @@
  "https://dev.classmethod.jp/articles/trigger-task-appflow-data-insert/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-08"
+ },
+ "https://dev.classmethod.jp/articles/try-claude-security-plugin/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-27"
  },
  "https://dev.classmethod.jp/articles/try-dbt-projects-on-snowflake-github-actions-oidc-cicd/": {
   "blog": "DevelopersIO",
@@ -7634,6 +7706,10 @@
  "https://forest.watch.impress.co.jp/docs/news/2127492.html": {
   "blog": "窓の杜 脆弱性",
   "first_seen": "2026-07-25"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2127911.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-07-27"
  },
  "https://future-architect.github.io/articles/20260525a/": {
   "blog": "Future Tech Blog",
@@ -11943,6 +12019,10 @@
   "blog": "syu-m-5151",
   "first_seen": "2026-07-26"
  },
+ "https://syu-m-5151.hatenablog.com/entry/2026/07/27/003037": {
+  "blog": "syu-m-5151",
+  "first_seen": "2026-07-27"
+ },
  "https://taketo957.hatenablog.com/entry/2025/09/02/125043": {
   "blog": "HERP Tech Hub",
   "first_seen": "2026-07-08"
@@ -15195,6 +15275,10 @@
   "blog": "Publickey",
   "first_seen": "2026-07-23"
  },
+ "https://www.publickey1.jp/blog/26/mcp728mcpgithub_mcp.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-07-27"
+ },
  "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html": {
   "blog": "Publickey",
   "first_seen": "2026-07-15"
@@ -15218,6 +15302,10 @@
  "https://www.publickey1.jp/blog/26/rustbunclaude_code.html": {
   "blog": "Publickey",
   "first_seen": "2026-07-21"
+ },
+ "https://www.publickey1.jp/blog/26/unity_7mononet_coreclr.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-07-27"
  },
  "https://www.publickey1.jp/blog/26/unixwindowsmacoslinuxubuntu20266.html": {
   "blog": "Publickey",
