@@ -351,3 +351,7 @@
 - name: sh1ma
   url: https://blog.sh1ma.dev/
   feed: https://blog.sh1ma.dev/feed
+
+- name: Cloudflare Changelog
+  url: https://developers.cloudflare.com/changelog/
+  feed: https://developers.cloudflare.com/changelog/rss.xml

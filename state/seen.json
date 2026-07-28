@@ -2935,6 +2935,10 @@
   "blog": "coliss",
   "first_seen": "2026-07-08"
  },
+ "https://coliss.com/articles/build-websites/operation/css/animating-loaders-with-css-ch-units-and-translatex.html": {
+  "blog": "coliss",
+  "first_seen": "2026-07-28"
+ },
  "https://coliss.com/articles/build-websites/operation/css/connecting-circles-with-border-shape.html": {
   "blog": "coliss",
   "first_seen": "2026-07-08"
@@ -3535,9 +3539,17 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-19"
  },
+ "https://dev.classmethod.jp/articles/aws-data-transfer-services/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-28"
+ },
  "https://dev.classmethod.jp/articles/aws-devops-agent-add-accounts-secondary-resource/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-24"
+ },
+ "https://dev.classmethod.jp/articles/aws-devops-agent-guardduty-triage-ccoe/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-28"
  },
  "https://dev.classmethod.jp/articles/aws-devops-agent-secondary-account-iam-role-stackset/": {
   "blog": "DevelopersIO",
@@ -3618,6 +3630,10 @@
  "https://dev.classmethod.jp/articles/aws-summit-japan-2026-ant407/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/aws-summit-japan-2026-dvt324-session-report-koty-mousa/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-28"
  },
  "https://dev.classmethod.jp/articles/aws-summit-japan-2026-ecs-managed-instance-fargate/": {
   "blog": "DevelopersIO",
@@ -5271,6 +5287,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-16"
  },
+ "https://dev.classmethod.jp/articles/strands-agents-unified-storage/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-07-28"
+ },
  "https://dev.classmethod.jp/articles/summer-project-2026-call-and-support-ai-assistant/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-24"
@@ -5854,6 +5874,4278 @@
  "https://developer.hatenastaff.com/entry/software-design-202606-toitta": {
   "blog": "Hatena Developer Blog",
   "first_seen": "2026-07-07"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-06-16-cloudflare-one/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-06-17-okta-risk-exchange/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-07-19-regionalized-generic-tiered-cache/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-09-05-cache-rules-templates/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-09-05-rules-templates/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-09-23-ai-audit-launch/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-09-24-magic-network-monitoring/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-10-01-ssh-with-access-for-infrastructure/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-10-02-custom-rule-search/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-10-08-new-gateway-fields/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-10-23-url-rewrites-wildcard/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-10-24-workflows-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-11-07-cache-versioning/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-11-07-logpush-user-actions/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-11-07-shard-cache-by-cache-key/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-11-11-cache-no-store/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-11-20-smart-tiered-cache-for-r2/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-11-21-non-english-keyboard/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-11-22-cloud-connector-r2/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-11-22-cloud-data-extraction-aws/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-12-05-cloud-onramp-terraform/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-12-11-hyperdrive-caching-at-edge/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-12-11-terraform-snippets/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-12-17-bgp-support-cni/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-12-19-diagnostic-logs/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-12-19-escalate-user-submissions/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-12-19-reclassification-tab/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2024-12-29-faster-builds/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-01-03-source-code-confidence-level/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-01-06-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-01-07-aig-provider-deepseek/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-01-07-d1-faster-query/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-01-08-smart-tiered-cache-for-load-balancing/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-01-09-rules-overview/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-01-13-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-01-15-ssh-logs-and-logpush/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-01-15-workflows-more-steps/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-01-21-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-01-26-worker-binding-methods/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-01-27-kv-increased-namespaces-limits/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-01-28-hyperdrive-automated-private-database-configuration/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-01-28-nodejs-compat-improvements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-01-29-snippets-code-editor/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-01-30-browser-rendering-more-instances/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-01-30-stream-generated-captions-new-languages/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-01-31-html-rewriter-streaming/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-01-31-workers-platforms-static-assets/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-02-removed-meta-fields/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-03-terraform-v5-provider/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-03-workers-metrics-revamp/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-04-aig-provider-cartesia-eleven-cerebras/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-04-easier-onboarding-for-csam-scanning-tool/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-04-radar-ai-insights/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-04-updated-leaked-credentials-database/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-05-aig-request-handling/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-07-check-status/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-07-new-ways-to-get-started-on-workers/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-07-open-links-security-center/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-11-custom-errors-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-11-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-12-configurable-multiplexing-http2-to-origin/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-12-rules-upgraded-limits/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-13-improvements-unscannable-files/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-14-cert-bundling-for-custom-hostnames/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-14-customize-queue-retention-period/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-14-example-ai-prompts/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-14-introducing-dvr-for-stream-live/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-14-local-console-access/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-14-r2-super-slurper-faster-migrations/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-18-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-20-builds-name-conflict/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-20-synchronous-uploads/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-20-updated-pricing-docs/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-21-images-bindings-in-workers/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-24-context-windows/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-24-r2-super-slurper-s3-compatible-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-24-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-24-zaraz-dash-placement/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-25-agents-sdk/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-25-dlp-assist-for-m365/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-25-json-mode/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-25-rum-exclude-eu/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-25-workflows-concurrency-increased/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-26-guardrails/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-27-br-rest-api-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-27-radar-dns-insights/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-02-28-wrangler-v4-rc/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-01-logpush-detections/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-03-saml-oidc-fields-saml-transformations/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-03-user-action-logging/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-03-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-04-hyperdrive-pooling-near-database-and-ip-range-egress/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-06-media-transformations/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-06-oneclick-logpush/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-06-r2-bucket-locks/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-07-cloudflare-one-device-health-monitoring/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-07-updated-leaked-credentials-database/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-10-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-11-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-11-process-env-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-12-reply-limits/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-13-new-managed-iplist/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-13-wrangler-v4/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-14-breakpoint-debugging-with-vitest/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-17-importable-env/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-17-new-workers-ai-models/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-17-rerun-build/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-17-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-17-warp-ga-android/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-17-warp-ga-ios/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-18-api-posture-management/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-18-npm-i-agents/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-18-radar-leaked-credentials-insights/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-19-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-20-markdown-conversion/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-20-websockets/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-21-pdns-user-locations-role/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-21-resource-force-replacement-bug/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-21-sensitive-values-redacted/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-22-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-22-next-js-vulnerability-waf/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-22-smart-placement-stablization/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-25-gzip-source-maps/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-25-higher-cpu-limits/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-25-pause-purge-queues/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-26-account-home-updates/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-27-ai-domains-available/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-03-27-automatic-audit-logs-beta-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-01-casb-email-security/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-01-purge-for-all/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-02-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-04-playwright-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-04-workers-fetch-api-override-cache-rules/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-07-autorag-open-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-07-br-free-ga-playwright/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-07-durable-objects-free-tier/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-07-increase-trace-events-limit/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-07-mcp-servers-agents-sdk-updates/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-07-sqlite-in-durable-objects-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-07-workflows-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-08-deploy-to-cloudflare-button/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-08-fullstack-on-workers/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-08-hyperdrive-free-plan/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-08-hyperdrive-mysql-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-08-local-development/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-08-nodejs-crypto-and-tls/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-08-vite-plugin/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-09-SCIM-provisioning-logs/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-09-hyperdrive-custom-certificate-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-09-qb-workers-logs-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-09-secrets-store-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-09-snippets-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-09-workers-timing/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-10-d1-read-replication-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-10-kv-bulk-reads/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-10-launching-pipelines/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-10-r2-data-catalog-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-11-http-redirect-custom-block-page-redirect/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-11-new-models-faster-inference/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-14-account-level-dlp-settings/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-14-icd11-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-14-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-14-webrtc-beta-signed-urls/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-15-workers-api-fixes/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-17-pull-consumer-limits/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-18-custom-fields-raw-transformed-values/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-21-Access-Bulk-Policy-Tester/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-22-python-worker-cron-triggers/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-22-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-23-autorag-metadata-filtering/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-24-custom-errors-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-26-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-28-FDQN-Filtering-Egress-Policies/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-30-appliance-multiple-dns-servers/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-04-30-zero-trust-dashboard-dark-mode/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-01-browser-isolation-overview-page/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-01-r2-dashboard-updates/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-05-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-06-private-health-monitoring-methods/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-06-terraform-v5.4.0-provider/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-07-forensic-copy-update/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-07-url-scanner-geoegress/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-08-finalization-registry/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-08-improved-payload-logging/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-08-open-attachments-with-browser-isolation/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-09-publish-to-queues-via-http/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-09-snippets-cloud-connector-lists-waf-bot-scores/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-12-case-sensitive-cwl/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-13-new-applications-added/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-13-rbi-saml-post-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-14-domain-category-improvements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-14-hyperdrive-fedramp/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-14-media-transformations-origin-restrictions/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-14-python-worker-durable-object/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-15-open-links-browser-isolation/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-19-paygo-updates/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-19-terraform-v5.5.0-provider/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-19-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-21-vite-plugin-chrome-devtools/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-22-handle-request-cancellation/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-23-graphql-api-explorer/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-27-Protocol-Detection-availability/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-27-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-28-playwright-mcp/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-28-updated-attack-score-model/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-30-configuration-rules-webp/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-30-d1-rest-api-latency/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-05-30-pages-build-image-v3/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-02-user-groups-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-02-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-03-aig-openai-compatible-endpoint/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-03-shopify-o2o-improvements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-03-visualize-your-worker-architecture/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-04-account-load-balancing-ui/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-05-open-next-size/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-09-custom-errors-fetch-4xx-5xx-assets/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-09-transform-rule-subrequest-matching/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-09-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-09-workers-integrations-changes/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-10-default-env-vars/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-10-media-transformations-limits-increase/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-11-nsec3-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-16-internal-dns-beta-ui/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-16-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-16-workers-platform-admin-role/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-17-advanced-routing/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-17-new-order-of-enforcement/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-17-open-next-ssrf/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-17-terraform-v5.6.0-provider/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-17-workers-terraform-sdk-api-fixes/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-18-log-explorer-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-18-remote-bindings-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-19-autorag-custom-metadata-and-context/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-19-autorag-filename-filter/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-20-cni-maintenance-alerts/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-20-increased-blob-size-limits-in-Workers-Analytics/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-23-account-level-dns-analytics-api/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-23-user-groups-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-24-announcing-sandboxes/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-25-actors-package-alpha/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-25-getPlatformProxy-support-remote-bindings/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-26-vite-plugin-cross-commands-binding/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-30-graceful-byoip-withdrawal/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-30-mail-authentication/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-30-warp-ga-android/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-06-30-warp-ga-ios/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-01-Access-Supports-Customer-Metadata-Boundary/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-01-browser-based-rdp-open-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-01-pay-per-crawl/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-01-radar-bots-insights/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-01-refresh/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-01-vite-plugin-enhanced-assets-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-01-workers-deploy-button-supports-environment-variables-and-secrets/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-02-hyperdrive-configurable-connection-count/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-04-javascript-debug-terminals/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-07-cloudy-summaries-access-gateway/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-07-dashboard-app-library/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-07-increased-ip-list-limits/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-07-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-08-autorag-jobs-view/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-09-onboarding-resources/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-09-usage-tracking/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-11-terraform-v5.7.0-provider/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-14-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-15-udp-improvements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-17-document-matching/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-17-vite-plugin-vite-7-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-18-brand-protection-api/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-21-emergency/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-21-subaddressing/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-21-virtual-appliance-kvm-proxmox/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-21-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-22-br-local-dev/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-22-media-transformations-audio-mode/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-23-workers-preview-urls/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-24-HTTP-Inspection-on-all-ports/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-28-Spam-domain-category-introduced/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-28-br-pricing/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-28-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-29-audit-logs-v2-ui-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-30-mt-mwan-health-check-cmb-eu/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-07-31-terraform-v5-tunnels-routes/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-01-containers-in-vite-dev/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-01-terraform-v5.8.2-provider/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-04-builds-increased-disk-size/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-04-radar-ct-insights/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-04-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-05-agents-MCP-update/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-05-openai-open-models/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-05-sandbox-sdk-major-update/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-06-zone-monitoring-improvements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-07-cache-no-cache/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-07-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-07-expanded-link-isolation/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-08-add-waituntil-cloudflare-workers/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-08-dot-env-in-local-dev/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-08-stream-live-observability/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-08-support-long-branch-names-preview-aliases/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-11-messagechannel/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-11-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-13-ibm-cloud-logs-destination/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-14-new-python-handlers/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-14-workers-terraform-and-sdk-improvements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-15-asnum-support-in-custom-rules/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-15-brand-protection-bulk-endpoint/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-15-extended-retention/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-15-gemini-application-replaces-bard/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-15-monitor-groups-for-load-balancing/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-15-nodejs-fs/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-15-sftp/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-15-static-assets-redirect-url/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-15-terraform-v5.8.4-provider/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-18-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-19-event-subscriptions/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-19-improved-wrangler-error-screen/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-19-warp-linux-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-19-warp-macos-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-19-warp-windows-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-21-byoip-dedicated-egress-ip/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-21-durable-objects-get-by-name/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-21-warp-windows-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-22-audit-logs-v2-logpush/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-22-dedicated-egress-ip-logpush/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-22-kv-performance-improvements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-22-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-22-workflows-python-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-25-ai-prompt-protection/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-25-secrets-store-ai-gateway/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-25-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-25-workers-assets-javascript-content-type/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-26-access-mcp-oauth/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-26-casb-ai-integrations/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-26-mcp-server-portals/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-26-vectorize-list-vectors/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-27-ai-crawl-control-launch/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-27-partner-models/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-27-shadow-it-analytics/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-29-dex-mcp-server/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-29-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-29-smart-tiered-cache-fallback-to-generic/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-29-terrform-v5.9-provider/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-08-29-warp-AI-diag-analyzer/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-01-updated-new-roles/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-01-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-02-increased-static-asset-limits/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-02-tunnel-networks-list-endpoints-new-default/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-03-agents-sdk-beta-v5/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-03-log-headers-and-cookies/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-03-new-workers-api/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-03-rate-limiting-improvement/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-04-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-05-bidirectional-health-check-any-on-ramp/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-05-embeddinggemma/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-07-builds-increased-cpu-paid/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-08-custom-ike-id-ipsec-tunnels/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-08-reminders-about-two-factor-authentication-backup-codes/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-08-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-09-interactive-wrangler-assets/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-10-built-with-cloudflare-button/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-10-warp-macos-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-10-warp-windows-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-11-contextual-pivots/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-11-d1-automatic-read-retries/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-11-dns-filtering-for-private-network-onramps/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-11-increased-version-rollback-limit/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-11-new-results-table-view/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-11-regional-email-processing-gia/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-15-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-16-DNSFW-Analytics-UI/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-16-new-ai-enabled-search-for-zero-trust-dashboard/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-16-remote-bindings-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-17-update-preview-url-setting/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-18-tunnel-hostname-routing/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-19-autorag-metrics/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-19-ratelimit-workers-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-19-workers-rs-panic-recovery/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-22-browser-based-rdp-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-22-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-23-invalid-submissions/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-23-wrangler-dev-multi-config-cross-command-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-24-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-24-higher-container-resource-limits/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-25-ai-search-more-models/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-25-announcing-r2-sql-open-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-25-body-phase-selector/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-25-br-playwright-ga-stagehand-limits/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-25-data-catalog-compaction/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-25-new-granular-controls-for-saas-applications/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-25-pipelines-sql/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-25-sign-in-with-github/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-25-sso-for-all/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-25-workers-vpc/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-26-analytics-engine-sql-enhancements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-26-ctx-exports/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-26-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-28-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-29-radar-regional-data/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-29-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-30-warp-linux-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-30-warp-macos-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-09-30-warp-windows-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-01-confidence-intervals/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-01-fine-grained-permissioning-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-01-md-returned/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-01-new-container-instance-types/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-01-new-file-type-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-02-deepgram-flux/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-03-one-click-access-for-workers/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-03-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-06-data-catalog-table-compaction/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-06-new-worker-overview-page/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-06-radar-pq-encryption-test/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-06-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-07-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-07-recovery-codes/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-07-warp-linux-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-07-warp-macos-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-07-warp-windows-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-09-assets-terraform/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-09-radar-ct-log-activity-insights/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-09-workflows-terraform/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-10-increased-startup-time/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-10-new-domain-categories/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-13-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-14-enhanced-metrics-drilldowns/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-14-sso-self-service-ux/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-16-durable-objects-data-studio/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-16-header-limit-increase/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-16-on-demand-security-report/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-16-warp-macos-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-16-warp-windows-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-17-app-sec-reports/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-17-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-20-schedule-dns-policies-from-the-ui/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-20-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-21-track-robots-txt/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-23-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-23-new-markdown-conversion-endpoint/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-23-preview-url-default-behavior/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-24-automatic-resource-provisioning/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-24-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-24-tanstack-start/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-27-RFI-Tokens-in-Dash/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-27-Sentinel-connector/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-27-ai-search-reranking-system-prompt/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-27-radar-tld-insights/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-28-Access-Application-Support-For-All-Ports-And-Protocols/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-28-casb-roles/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-28-raising-limits/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-30-builds-preview/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-30-email-2FA/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-30-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-30-member-management-improvements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-30-tcp-rtt-and-tcp-fields/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-31-brand-protection-logo-dashboard-report-abuse/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-10-31-increased-websocket-message-size-limit/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-03-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-03-wrangler-output-file/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-04-query-cancellation/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-05-d1-jurisdiction/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-05-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-05-logpush-permissions-update/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-06-Applications-recategorised-plan/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-06-automatic-return-routing-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-06-connector-designate-wan-link-breakout/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-07-automatic-tracing/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-07-cache-keys-for-cloudflare-trace/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-09-cloudflare-env-variable/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-10-ai-crawl-control-crawler-info/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-10-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-11-cloudflared-proxy-dns/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-11-health-dashboards/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-11-resize-sql-window/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-11-warp-linux-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-11-warp-macos-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-11-warp-windows-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-12-analytics-engine-further-sql-enhancements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-12-bola-attack-detection/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-12-dex-logpush-jobs/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-13-fixed-custom-date/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-13-new-datasets/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-13-query-result-distribution/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-14-SSH-CA-enhancements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-14-casb-digest/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-17-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-18-temporary-adjustment-to-final-disposition-column/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-19-add-extra-headers-for-website-crawling/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-20-terraform-v5.13.0-provider/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-21-Threat-Events-now-show-events-insights/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-21-builds-env-var-increase/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-21-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-21-fuse-support-in-containers/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-21-new-cpu-pricing/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-21-wrangler-deploy-remote-config-management/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-24-radar-cloud-observability/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-24-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-25-audit-logs-for-cache-purge-events/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-25-flux-2-dev-workers-ai/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-25-zombie-endpoint-risk-label/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-11-26-agents-resumable-streaming/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-01-build-image-policies-dev-plat/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-01-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-02-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-03-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-03-reusable-access-policies/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-03-submission-terminology-update/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-04-hyperdrive-remote-database-local-dev/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-05-rcs-vuln/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-05-terraform-v5.14.0-provider/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-05-waf-max-payload-size-change/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-08-python-cold-start-improvements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-08-python-pywrangler/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-08-vite-optional-config/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-08-vite-programmatic-config/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-09-warp-macos-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-09-warp-windows-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-10-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-10-pay-per-crawl-enhancements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-11-builds-event-subscriptions/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-11-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-11-sentinelone-destination/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-12-aggregation-support-and-more/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-12-durable-objects-sqlite-storage-billing/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-15-rules-of-durable-objects/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-16-new-duplicate-action-for-supported-cloudflare-one-resources/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-16-vitest-ctx-exports-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-16-wrangler-autoconfig/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-17-shadow-it-domain-analytics/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-18-cached-request-classification/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-18-dashboard-improvements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-18-overview-tab/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-18-r2-data-catalog-snapshot-expiration/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-18-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-18-wrangler-auth-token/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-19-tanstack-start-prerendering/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-19-terraform-v5.15.0-provider/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-22-agents-sdk-ai-sdk-v6/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2025-12-31-connector-breakout-traffic-netflow/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-01-microfrontends/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-05-custom-instance-types/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-07-analytics-engine-support-for-like-and-having/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-08-Access-audit-log-for-DoH-users/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-09-wrangler-tab-completion/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-11-wrangler-types-check/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-12-STIX2-available-for-threat-events-api/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-12-dma-metro-code-field/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-12-enhanced-visibility-post-delivery-actions/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-12-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-13-ai-crawl-control-read-only-role/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-13-warp-linux-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-13-warp-macos-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-13-warp-windows-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-13-wrangler-types-multi-environment/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-14-Download-URL-Scanner-Report-PDF/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-15-flux-2-klein-4b-workers-ai/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-15-networking-navigation-update/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-15-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-15-warp-connector-ping-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-19-http3-499-reporting-improvement/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-20-ai-search-path-filtering/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-20-ai-search-simplified-api/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-20-array-map-functions/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-20-auxiliary-workers/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-20-cloudflare-typescript-v6.0.0-beta.1/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-20-kv-dash-ui-homepage/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-20-sql-module-rule/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-20-terraform-v5.16.0-provider/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-20-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-22-deny-by-default-for-zones/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-22-explicit-placement-hints/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-22-granular-api-token-permissions/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-22-sha256-base64-encode-functions/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-23-New-2FA-Experience/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-23-increased-index-capacity/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-23-pages-file-limit-increase/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-26-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-27-body-buffering-settings/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-27-configure-cloudflare-source-ips/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-27-timezone-preferences/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-27-warp-macos-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-27-warp-windows-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-28-flux-2-klein-9b-workers-ai/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-30-bgp-over-tunnels/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-01-30-kv-reduced-minimum-cachettl/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-02-improved-accessibility-search-for-monitoring/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-02-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-03-agents-workflows-integration/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-03-r2-local-uploads/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-03-threat-actor-name-mapping/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-03-workflows-visualizer/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-04-queues-free-plan/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-06-observability-ui-refresh/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-09-agents-sdk-v0.4.0/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-09-analytics-enhancements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-09-approximate-aggregation-functions/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-09-indexing-improvements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-09-pty-terminal-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-09-reference-documentation/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-09-tabs-and-pivots/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-10-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-11-appliance-post-quantum-encryption/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-11-subrequests-limit/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-11-vite-plugin-child-environments/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-12-anycast-ips-on-dashboard/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-12-brand-protection-logo-matching-percentage-selector/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-12-markdown-for-agents/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-12-quick-editor-dev-tools-deprecation/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-12-radar-ai-bots-content-type/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-12-terraform-v5.17.0-provider/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-13-access-policy-service-token-permissions/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-13-cloudflare-python-v5.0.0-beta.1/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-13-glm-4.7-flash-workers-ai/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-13-origin-ca-certificate-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-13-pywrangler-windows-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-15-workers-best-practices/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-16-markdown-for-agents-improvements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-16-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-17-agents-sdk-v0.5.0/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-17-clientless-access-for-private-apps/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-17-docker-in-docker/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-17-policies-for-bookmarks/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-17-product-name-updates/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-18-cfworker-server-timing/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-19-ai-dashboard-experience-improvements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-19-dex-supports-cmb-eu/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-19-threat-events-graphs/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-20-cloudy-in-casb/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-20-codemode-sdk-rewrite/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-20-tunnel-core-dashboard/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-23-Saved-views-in-threat-events/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-23-hyperdrive-stable-functions-uncacheable/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-23-sandbox-backup-restore-api/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-24-deleteall-deletes-alarms/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-24-disable-live-inputs/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-24-observability-query-language/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-24-typed-bindings-setup-improvements-error-metrics/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-24-warp-linux-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-24-warp-macos-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-24-warp-windows-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-25-agents-sdk-v0.6.0/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-25-higher-container-resource-limits/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-25-radar-aspa-insights/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-25-wrangler-autoconfig-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-26-async-stale-while-revalidate/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-26-markdown-responses-for-1xxx-errors/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-27-mcp-portal-logpush/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-27-new-protocol-detection-protocols/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-02-27-radar-pq-key-transparency/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-01-rdp-clipboard-controls/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-02-agents-sdk-v0.7.0/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-02-default-gateway/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-02-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-03-radar-network-quality-test/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-03-sandbox-watch-file-events/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-03-step-limits-to-25k/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-04-br-rest-api-limit-increase/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-04-gateway-authorization-proxy-open-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-04-new-markdown-conversion-options/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-04-user-risk-score-access-policies/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-06-brand-protection-dismiss-match/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-06-radar-region-filtering-traffic-volume-navigation/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-06-realtimekit-multilingual-transcription/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-06-step-context-available/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-09-log-fields-updated/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-09-vulnerability-scanner/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-10-audit-logs-v2-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-10-warp-macos-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-10-warp-windows-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-11-ingest-field-selection/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-11-json-rfc9457-responses-for-1xxx-errors/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-11-nemotron-3-super-workers-ai/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-12-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-12-retry-after-header-for-1xxx-errors/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-12-ssh-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-12-wrangler-containers-instances/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-15-durable-object-id-name/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-15-infinite-paging-investigations/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-16-topk-limit-increased-to-50/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-17-codemode-sdk-v0.2.1/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-17-collect-log-payload-header/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-17-new-security-overview-ui/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-17-scim-authentik-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-18-brand-protection-logo-match-preview/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-18-media-transformations-workers-binding/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-18-scim-audit-logging/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-18-worker-timing-field/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-19-hyperdrive-mysql-custom-certificate-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-19-kimi-k2-5-workers-ai/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-19-service-key-authentication-deprecated/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-19-wrangler-tunnel-commands/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-20-dns-analytics-cmb-eu/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-20-managed-oauth/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-20-mcp-portal-gateway-routing/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-20-metrics-and-settings-dashboard/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-20-tunnel-replica-overview-and-multi-log-streaming/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-23-agents-sdk-v0.8.0/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-23-ai-search-new-rest-api/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-23-ai-search-public-endpoint-and-snippets/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-23-custom-metadata-filtering/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-23-expanded-sql-functions-expressions-complex-types/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-23-local-dev-instance-methods/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-23-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-23-web-assets-graphql-fields/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-24-cache-response-rules/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-24-docker-hub-images/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-24-dynamic-workers-open-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-24-interconnects-navigation-update/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-24-oidc-claims-filtering-gateway-policies/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-24-secrets-config-property/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-24-waf-rule-preservation/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-25-har-file-detection-and-sanitization/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-25-logpush-granular-timestamps/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-25-rfc9440-mtls-fields/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-26-durable-object-id-jurisdiction/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-26-mcp-portal-code-mode/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-26-mcp-portal-context-optimization/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-26-outbound-workers/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-26-streaming-zip-handler/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-26-url-scanner-improvements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-27-rfc9440-mtls-fields/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-30-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-31-internal-dns-open-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-03-copy-resources-as-json-or-post-requests/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-01-ai-search-wrangler-commands/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-01-deploy-hooks/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-01-l4-transport-telemetry-fields/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-01-logs-ui-refresh/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-01-radar-routing-section/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-01-wrangler-workflows-local/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-02-auto-retry-upstream-failures/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-02-bigquery-destination/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-02-mcp-portal-session-management/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-02-warp-linux-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-02-warp-macos-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-04-gemma-4-26b-a4b-workers-ai/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-05-regional-placement/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-06-dane-support-mx-deployments/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-06-gateway-dns-response-time-ms/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-06-organizations-public-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-06-redesigned-support-portal/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-07-link-aggregation-lacp-appliance/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-07-mtls-byoca-dashboard/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-07-triage-status-tracking/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-07-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-07-warp-windows-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-07-websocket-auto-reply-to-close/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-08-high-risk-browsing/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-08-threat-events-notification/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-09-ai-search-content-selectors/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-09-casb-webhooks/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-09-new-workers-ai-models/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-09-relaxed-connection-limiting/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-10-browser-rendering-cdp-endpoint/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-10-canvas-remoting-performance/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-10-secret-scanning-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-13-billable-usage-dashboard-and-budget-alerts/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-13-containers-sandbox-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-13-local-explorer/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-13-sandbox-outbound-workers-tls-auth/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-14-bigquery-dashboard-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-14-browser-wrangler-commands/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-14-cloudflare-api-token-detections/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-14-cloudflare-mesh/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-14-configurable-payload-log-masking/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-14-email-obfuscation-defer/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-14-oauth-consent-and-revoke/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-14-radar-citations/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-14-vpc-networks/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-15-agentlee-writeops-genui/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-15-br-observability/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-15-br-rename/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-15-br-webmcp/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-15-dex-consistent-last-seen-timestamps/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-15-graphql-analytics-api/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-15-independent-mfa/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-15-logpush-new-fields/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-15-new-rule-and-application-builders/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-15-registrar-api-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-15-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-15-workflows-limits-raised/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-16-ai-search-namespace-binding/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-16-artifacts-now-in-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-16-email-sending-public-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-16-hybrid-search-and-relevance-boosting/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-17-mcp-portal-homepage-and-sign-out/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-17-radar-ai-insights-updates/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-17-redirects-for-ai-training/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-17-smart-tiered-cache-for-public-cloud/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-17-tools-for-agentic-internet/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-20-kimi-k2-6-workers-ai/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-20-network-session-analytics/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-20-pipelines-logpush-destination/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-20-r2-sql-json-functions-explain-format/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-21-correlated-worker-durable-object-logs/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-21-logpush-subrequests-merging/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-21-network-overview-page/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-21-step-context-and-readable-streams/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-21-unified-routing-geoip-country-rules/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-21-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-21-websocket-standard-binary-type/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-22-custom-dashboards-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-22-snapshot-expiration-cleans-data-files/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-23-audit-logs-v2-organization-level/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-23-go-sdk-v6.10.0/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-23-independent-mfa-aaguid-amr/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-24-nsl-all-onramps/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-24-terraform-v5.19.0-provider/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-24-tf-migrate-tool-released/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-27-archive-and-audit-security-action-items/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-27-cache-response-rules-zone-versioning/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-27-resource-tagging-public-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-27-structured-responses-for-5xx-errors/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-27-terraform-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-27-unified-workspace-brand-protection/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-27-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-28-detection-entries-outside-profiles/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-28-dex-internet-outage-notification/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-28-dex-speed-test/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-28-direct-support-navigation/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-28-enforce-dns-only/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-28-improved-queues-metrics/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-28-pii-record-profile/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-29-dex-tests-to-auth/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-29-gateway-authorization-proxy-pac-files-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-29-hyperdrive-vpc-private-databases/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-29-instant-bank-payments-via-link/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-30-cloudflare-python-v5.0.0/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-30-cloudflare-typescript-v6.0.0/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-30-data-classification/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-30-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-30-go-sdk-v7.0.0/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-30-ipsec-post-quantum-third-party/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-30-r2-empty-bucket-folder-delete/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-30-radar-cloud-observatory-connection-metrics/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-30-radar-dark-mode/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-30-rum-navigation-types/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-30-shared-dictionaries-passthrough-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-04-30-standalone-predefined-detection-entries/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-01-dynamic-workflows/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-04-keyboard-shortcuts/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-04-pingora-powers-cache/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-04-radar-routing-widgets/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-04-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-06-TAXII-support-for-threat-events-api/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-06-cloudy-summaries-in-phishnet_o365/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-06-mesh-ipv6-routes/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-06-radar-tld-nameserver-performance/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-06-react-nextjs-vulnerabilities/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-07-CSV-export-for-RFIs/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-07-appliance-dhcp-options/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-07-appliance-source-based-breakout/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-07-automatic-tracing-across-do-and-worker-subrequests/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-07-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-07-stream-workers-binding/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-07-virtual-appliance-self-serve-api/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-08-planned-model-deprecations/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-11-nat-t-port-500/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-11-pipelines-pricing-announced/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-11-r2-data-catalog-pricing-announced/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-11-r2-sql-pricing-announced/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-11-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-11-warp-linux-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-11-warp-macos-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-11-warp-windows-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-12-URL-scanner-report-agent-readiness/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-12-access-login-page-refresh/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-12-natural-language-policy-creation/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-12-r2-data-catalog-graphql-analytics/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-12-single-anycast-ip-default/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-12-ssh-enabled-by-default/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-13-agents-sdk-v0.12.4/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-13-log-fields-updated/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-13-rum-405-method-not-allowed/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-14-domains-tab/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-14-joins-subqueries-multi-table-queries/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-15-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-15-hyperdrive-pool-size-metrics/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-18-local-dev-tunnels/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-18-unified-routing-network-analytics/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-18-wrangler-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-19-casb-claude-compliance-api/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-19-cloudflare-as-identity-provider/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-19-event-subscriptions/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-19-radar-mrt-explorer/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-20-new-dns-records-ux/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-20-radar-content-type-and-api-traffic/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-20-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-21-modernised-billing-profile/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-21-rest-api/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-21-tunnel-mesh-granular-permissions/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-21-vpc-networks-cloudflare-wan/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-26-bypass-status-for-uncacheable-responses/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-26-public-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-26-warp-linux-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-26-warp-macos-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-26-warp-windows-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-27-cloudflared-connectivity-prechecks/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-27-cloudy-regex-assistance/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-27-pipeline-binding-stream-field/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-27-transformation-flows/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-28-mcp-portal-tool-prompt-aliases/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-28-mesh-ha-replica-ui/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-28-named-email-recipients/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-28-r2-data-catalog-dashboard/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-28-realtimekit-track-recording/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-28-ssh-proxy-command/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-28-use-browser-run-quick-actions-directly-from-workers/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-29-log-fields-updated/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-29-radar-pq-tls-bug-detection/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-29-sandbox-named-tunnels/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-29-security-insights-default-scans/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-29-warp-macos-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-29-warp-windows-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-05-29-websocket-adapter-auto-reconnect/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-01-log-fields-updated/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-02-agents-sdk-v0.14.0/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-02-cisco-ios-xe/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-02-cron-workflows/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-03-bulk-secrets-api/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-03-public-oauth-clients/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-03-saml-assertion-encryption/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-03-wrangler-keyring-credential-storage/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-04-billable-usage-product-sidebar/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-04-idp-federation/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-04-migrations-pattern/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-05-gateway-egress/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-05-radar-traffic-chart-granularity/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-05-saga-rollbacks/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-05-spend-limits/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-05-union-intersect-except-select-distinct/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-08-brand-protection-cease-and-desist-letters/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-08-create-waf-rules-from-threat-events/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-08-realtimekit-post-meeting-transcription-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-08-smtp-submission/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-08-threat-actor-profiles/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-09-deprecating-sandbox-sdk-features/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-09-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-10-account-level-record-quota/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-10-ai-search-namespace-wrangler-commands/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-10-api-reference/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-10-hosted-images-binding/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-10-improved-reliability-for-web-analytics-dash/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-11-browser-run-snapshot-formats/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-11-custom-ai-prompt-topics/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-11-dynamic-workers-count/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-12-durable-objects-metrics-filter-by-id-name/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-12-kimi-k2-7-code-workers-ai/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-12-terraform-v5.20.0-provider/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-12-user-agent-logging/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-15-budget-alerts-default-on/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-15-threat-intelligence-fields/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-15-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-16-agents-sdk-v0.16.1/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-16-custom-spans/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-16-glm-5.2-workers-ai/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-16-new-optimization-features/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-16-rollback-options/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-16-tcp-connect-vpc-networks/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-17-dashboard-management/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-17-pqc-mldsa-aop-cots/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-18-cloudflare-fonts-error-handling-security/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-18-cloudflare-idp-default/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-18-container-exec/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-18-planetscale-databases-cloudflare-billing/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-18-radar-workers-ai-inference-metric/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-19-apac-ne-apac-se-location-hints/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-19-outbound-connections-keep-dos-alive/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-19-temporary-accounts-for-agents/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-19-unified-routes-page/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-21-window-functions-distinct-set-operations/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-23-amp-sxg-end-of-life/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-23-regionalized-ip-bindings/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-23-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-24-ai-search-similarity-cache-controls/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-24-audit-logs-v2-organization-dashboard-ui/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-24-log-fields-updated/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-24-radar-ip-page-improvements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-24-warp-macos-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-25-api-token-search/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-25-durable-object-eviction-test-helpers/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-26-agents-sdk-v0.17.0/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-26-durable-objects-us-jurisdiction/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-26-mcp-portal-service-tokens/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-28-cf-vary-request-option/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-29-warp-linux-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-29-warp-macos-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-29-warp-windows-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-30-account-level-firewall-events/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-30-declarative-do-class-exports/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-30-gateway-granular-permissions/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-30-improved-wal-throughput/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-06-30-memory-usage-metrics/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-01-ai-traffic-options/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-01-binding-unique-transformations/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-01-botbase-attribution-business-insights/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-01-google-artifact-registry-images/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-01-spa-redirect-fragment-fix/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-01-ssh-mfa-piv-keys/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-01-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-01-warp-linux-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-02-log-fields-updated/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-02-manage-sync-jobs/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-02-mesh-hostname-routing/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-02-vary-for-cache-rules/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-02-wrangler-auth-profiles/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-03-workers-types-v5/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-06-r2-data-catalog-delete-warnings/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-06-virtual-appliance-self-serve-ui/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-07-authorization-proxy-endpoint-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-07-browser-run-accessibility-tree-endpoint/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-07-rdp-file-transfer-beta/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-07-warp-windows-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-07-websocket-analytics-dataset/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-07-workflows-billing-updates/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-07-wrangler-deploy-upload-dependencies-metadata/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-08-ai-search-list-items-key-filter/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-08-cloudflare-drag-and-drop/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-08-gif-bmp-image-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-08-ipsec-downgrade-protection/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-08-moondream3.1-workers-ai/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-08-query-r2-sql-from-dashboard/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-09-dynamic-retry-delays/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-09-new-dns-firewall-ux/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-09-r2-data-catalog-read-only-tokens/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-09-restrict-new-kv-backed-namespaces/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-09-tunnel-routes-and-connections-api-changes/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-10-source-code-detection-improvements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-13-markdown-conversion-text-output/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-13-markdown-for-agents-header-preservation/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-13-mcp-client-elicitation/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-13-precursor-session-based-detection/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-13-r2-data-catalog-manifest-optimization/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-14-temporary-accounts-api/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-14-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-15-event-subscriptions/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-15-internal-dns-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-15-kv-legacy-namespace-routes-deprecation/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-16-cache-rules-bot-fields-asn/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-16-rdp-bulk-print/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-16-wrangler-commands/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-17-distributor-mssp-self-serve-members/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-17-email-message-preview/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-17-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-17-http-request-header-manipulation/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-20-durable-objects-total-storage-metrics/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-20-http-private-apps-l7-auth/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-21-account-role-api-deprecated/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-21-automatic-origin-key-exchange/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-21-devin-outposts/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-21-integration-test-harness/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-21-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-21-warp-linux-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-21-warp-macos-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-21-warp-windows-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-22-mcp-codemode-updates/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-23-ai-sdk-v6-v7-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-07-27-agents-sdk-v0.20.0-mcp-sdk-v2/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-1-15-crowdstrike-score/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/Gateway-application-categories-added/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/access-analytics-v2/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/cf1-data-security-analytics-v1/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/dashboards-access-report/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/gateway-analytics-v2/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/heic-support/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/new-applications-71825/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/new-cloudflare-one-navigation-and-product-experience/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
+ },
+ "https://developers.cloudflare.com/changelog/post/scheduled-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-07-28"
  },
  "https://developers.cyberagent.co.jp/blog/archives/64352/": {
   "blog": "CyberAgent",
@@ -15584,6 +19876,10 @@
   "first_seen": "2026-07-24"
  },
  "https://www.wantedly.com/companies/wantedly/post_articles/1081676": {
+  "blog": "Wantedly stories",
+  "first_seen": "2026-07-28"
+ },
+ "https://www.wantedly.com/companies/wantedly/post_articles/1082190": {
   "blog": "Wantedly stories",
   "first_seen": "2026-07-28"
  },
