@@ -355,3 +355,12 @@
 - name: Cloudflare Changelog
   url: https://developers.cloudflare.com/changelog/
   feed: https://developers.cloudflare.com/changelog/rss.xml
+
+# 個別記事URLが無い常時更新ページ(週次まとめ)のためスクレイプアダプタで対応
+- name: Google Cloud What's New
+  url: https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud?hl=en
+  adapter: google_cloud_whatsnew
+
+- name: Google Cloud Release Notes
+  url: https://docs.cloud.google.com/release-notes
+  feed: https://docs.cloud.google.com/static/feeds/gcp-release-notes.xml
