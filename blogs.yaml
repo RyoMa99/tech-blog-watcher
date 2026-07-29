@@ -364,3 +364,4 @@
 - name: Google Cloud Release Notes
   url: https://docs.cloud.google.com/release-notes
   feed: https://docs.cloud.google.com/static/feeds/gcp-release-notes.xml
+  adapter: google_cloud_release_notes
