@@ -15,7 +15,6 @@ state/seen.json にないURLを新着として reports/YYYY-MM-DD.md に出力�
 import argparse
 import importlib
 import json
-import re
 import sys
 import traceback
 from concurrent.futures import ThreadPoolExecutor
@@ -31,7 +30,6 @@ ROOT = Path(__file__).resolve().parent
 BLOGS_PATH = ROOT / "blogs.yaml"
 SEEN_PATH = ROOT / "state" / "seen.json"
 REPORTS_DIR = ROOT / "reports"
-CONTENT_DIR = ROOT / "content"
 
 JST = timezone(timedelta(hours=9), "JST")
 SEEN_RETENTION_DAYS = 180
@@ -100,21 +98,6 @@ def prune_seen(seen: dict, current_urls: set, today: datetime.date) -> dict:
     return kept
 
 
-def slugify(name: str) -> str:
-    slug = re.sub(r"[^a-zA-Z0-9]+", "-", name.strip().lower()).strip("-")
-    return slug or "blog"
-
-
-def content_path(blog_name: str, entry: dict, fallback_date_str: str) -> Path:
-    """entry の本文(body)を保存するファイルパス。日付は published があればそれ、
-    無ければ実行日の日付を使う(1日1回の実行前提なので衝突しない)。"""
-    stamp = (
-        entry["published"].astimezone(JST).strftime("%Y-%m-%d")
-        if entry.get("published") else fallback_date_str
-    )
-    return CONTENT_DIR / slugify(blog_name) / f"{stamp}.md"
-
-
 def format_report(date_str: str, new_by_blog: list) -> str:
     total = sum(len(entries) for _, entries in new_by_blog)
     lines = [f"# テックブログ新着 {date_str} ({total}件)", ""]
@@ -127,10 +110,9 @@ def format_report(date_str: str, new_by_blog: list) -> str:
             if e["published"]:
                 stamp = e["published"].astimezone(JST).strftime("%Y-%m-%d %H:%M")
                 line += f" — {stamp}"
-            if e.get("body"):
-                rel_path = content_path(blog_name, e, date_str).relative_to(ROOT)
-                line += f" ([中身](../{rel_path}))"
             lines.append(line)
+            if e.get("body"):
+                lines.extend(["", "<details><summary>中身</summary>", "", e["body"], "", "</details>", ""])
         lines.append("")
     return "\n".join(lines)
 
@@ -176,13 +158,6 @@ def main() -> int:
             if key not in seen:
                 seen[key] = {"first_seen": date_str, "blog": blog["name"]}
                 new_entries.append(e)
-        if not args.dry_run:
-            for e in new_entries:
-                if not e.get("body"):
-                    continue
-                path = content_path(blog["name"], e, date_str)
-                path.parent.mkdir(parents=True, exist_ok=True)
-                path.write_text(f"# {e['title']}\n\n{e['body']}\n", encoding="utf-8")
         if added_blog:
             print(f"新規ブログ登録: {blog['name']} ({len(new_entries)}件を既読登録、通知なし)")
         elif new_entries:

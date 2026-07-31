@@ -4,7 +4,8 @@
 実際の変更内容(その日リリースされた全プロダクトの変更点)はアイテム本文に
 HTMLで丸ごと入っているが、通常の fetch_feed_entries は title/link/published
 しか見ないため中身が読み捨てられてしまう。ここでは本文を簡易Markdown化して
-"body" として返し、check.py 側で content/ 配下にファイル保存させる。
+"body" として返し、check.py 側でレポート内に <details> ブロックとして
+直接埋め込ませる。
 """
 
 from datetime import datetime, timezone
