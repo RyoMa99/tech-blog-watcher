@@ -365,3 +365,7 @@
   url: https://docs.cloud.google.com/release-notes
   feed: https://docs.cloud.google.com/static/feeds/gcp-release-notes.xml
   adapter: google_cloud_release_notes
+
+- name: The art of simplicity
+  url: https://bartwullems.blogspot.com/
+  feed: https://bartwullems.blogspot.com/feeds/posts/default?alt=rss
