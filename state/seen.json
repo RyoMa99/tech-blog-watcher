@@ -539,6 +539,10 @@
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-17"
  },
+ "https://aws.amazon.com/jp/blogs/news/gpt-5-6-pricing/": {
+  "blog": "AWS Japan Blog",
+  "first_seen": "2026-08-03"
+ },
  "https://aws.amazon.com/jp/blogs/news/gpt-5-6/": {
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-25"
@@ -1366,6 +1370,10 @@
  "https://azukiazusa.dev/blog/input-type-checkbox-switch": {
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
+ },
+ "https://azukiazusa.dev/blog/instrument-hono-logs-with-opentelemetry": {
+  "blog": "azukiazusa.dev",
+  "first_seen": "2026-08-03"
  },
  "https://azukiazusa.dev/blog/instrumentation-with-opentelemetry-in-nextjs": {
   "blog": "azukiazusa.dev",
@@ -2755,6 +2763,10 @@
   "blog": "HERP Tech Hub",
   "first_seen": "2026-07-08"
  },
+ "https://blog.inorinrinrin.com/entry/15b87d84-cd35-d1af-ce44-ca4e6fc3861d?utm_source=feed": {
+  "blog": "blog.inorinrinrin.com",
+  "first_seen": "2026-08-03"
+ },
  "https://blog.inorinrinrin.com/entry/2025/12/30/083129?utm_source=feed": {
   "blog": "blog.inorinrinrin.com",
   "first_seen": "2026-07-07"
@@ -2886,6 +2898,10 @@
  "https://blog.inorinrinrin.com/entry/2026/07/24/201658?utm_source=feed": {
   "blog": "blog.inorinrinrin.com",
   "first_seen": "2026-07-25"
+ },
+ "https://blog.inorinrinrin.com/entry/8372cef7-15e5-888f-88bb-1074cabf8305?utm_source=feed": {
+  "blog": "blog.inorinrinrin.com",
+  "first_seen": "2026-08-03"
  },
  "https://blog.rust-lang.org/inside-rust/2026/06/03/maintainer-spotlight-tiffany-pek-yuan-tiif/": {
   "blog": "Inside Rust Blog",
@@ -3923,6 +3939,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-12"
  },
+ "https://dev.classmethod.jp/articles/amazon-managed-grafana-12-4-in-place-upgrade/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-03"
+ },
  "https://dev.classmethod.jp/articles/amazon-quick-ai-data-utilization-business-automation/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-23"
@@ -4639,6 +4659,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-17"
  },
+ "https://dev.classmethod.jp/articles/cloud-scheduler-min-instances-business-hours/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-03"
+ },
  "https://dev.classmethod.jp/articles/cloudflare-registrar-domain-registration/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-24"
@@ -4714,6 +4738,10 @@
  "https://dev.classmethod.jp/articles/cm-little-tips_hr/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-14"
+ },
+ "https://dev.classmethod.jp/articles/cm-news-analytics-202608/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-03"
  },
  "https://dev.classmethod.jp/articles/cognito-csv-import-password-hash/": {
   "blog": "DevelopersIO",
@@ -4799,6 +4827,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-21"
  },
+ "https://dev.classmethod.jp/articles/cvpr-2026/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-03"
+ },
  "https://dev.classmethod.jp/articles/dast-snyk-security-web/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-08"
@@ -4879,6 +4911,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
+ "https://dev.classmethod.jp/articles/dgx-spark-deepseek-v4-flash-0731-llama-cpp/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-03"
+ },
  "https://dev.classmethod.jp/articles/dgx-spark-gemma4-nvfp4-nvidia-vs-unsloth/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-19"
@@ -4918,6 +4954,10 @@
  "https://dev.classmethod.jp/articles/ec2-g7-blackwell-gpu-instance-launch/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-14"
+ },
+ "https://dev.classmethod.jp/articles/ec2-instance-diagnostics-ebs-performance/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-03"
  },
  "https://dev.classmethod.jp/articles/ec2-mac-m3ultra-metal-pricing-api/": {
   "blog": "DevelopersIO",
@@ -5178,6 +5218,10 @@
  "https://dev.classmethod.jp/articles/iam-identity-center-member-account-instance-create/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-18"
+ },
+ "https://dev.classmethod.jp/articles/iam-policy-simulator-iam-console-update/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-03"
  },
  "https://dev.classmethod.jp/articles/iam-policy-simulator-policy-exclusion-list/": {
   "blog": "DevelopersIO",
@@ -5727,6 +5771,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
+ "https://dev.classmethod.jp/articles/playwright-complex-form-selector-strategy/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-03"
+ },
  "https://dev.classmethod.jp/articles/playwright-e2e-test-architecture-patterns/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-01"
@@ -5734,6 +5782,10 @@
  "https://dev.classmethod.jp/articles/playwright-okta-totp-automation/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-24"
+ },
+ "https://dev.classmethod.jp/articles/playwright-server-side-auth-proxy-enterprise-sso/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-03"
  },
  "https://dev.classmethod.jp/articles/playwright-without-test-runner/": {
   "blog": "DevelopersIO",
@@ -5819,6 +5871,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-13"
  },
+ "https://dev.classmethod.jp/articles/quick-topicv2-api/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-03"
+ },
  "https://dev.classmethod.jp/articles/rag-chunk-anchoring-ticket-id-hallucination-prevention/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-13"
@@ -5894,6 +5950,10 @@
  "https://dev.classmethod.jp/articles/s3-tables-variant-type-emr-serverless/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-29"
+ },
+ "https://dev.classmethod.jp/articles/sagemaker-ai-huggingface-one-click-deploy/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-03"
  },
  "https://dev.classmethod.jp/articles/sagemaker-realtime-llama-cpp-gguf-streaming/": {
   "blog": "DevelopersIO",
@@ -6051,6 +6111,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-25"
  },
+ "https://dev.classmethod.jp/articles/snowflake-latest-info-202607/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-03"
+ },
  "https://dev.classmethod.jp/articles/snowflake-notebook-shared-workspace-migration/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-09"
@@ -6086,6 +6150,10 @@
  "https://dev.classmethod.jp/articles/ssh-strace-syscall-peek/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-20"
+ },
+ "https://dev.classmethod.jp/articles/ssm-agent-ec2messages-communication-timing/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-03"
  },
  "https://dev.classmethod.jp/articles/ssm-automation-warning-message/": {
   "blog": "DevelopersIO",
@@ -12155,6 +12223,10 @@
   "blog": "Google Cloud Release Notes",
   "first_seen": "2026-08-02"
  },
+ "https://docs.cloud.google.com/release-notes#August_02_2026": {
+  "blog": "Google Cloud Release Notes",
+  "first_seen": "2026-08-03"
+ },
  "https://docs.cloud.google.com/release-notes#July_01_2026": {
   "blog": "Google Cloud Release Notes",
   "first_seen": "2026-07-28"
@@ -12334,6 +12406,46 @@
  "https://dropbox.tech/security/dropbox-mcp-dash-design-code-security": {
   "blog": "Dropbox Tech",
   "first_seen": "2026-07-08"
+ },
+ "https://duckdb.org/2026/05/07/delta-uc-updates.html": {
+  "blog": "DuckDB News",
+  "first_seen": "2026-08-03"
+ },
+ "https://duckdb.org/2026/05/08/announcing-duckcon7.html": {
+  "blog": "DuckDB News",
+  "first_seen": "2026-08-03"
+ },
+ "https://duckdb.org/2026/05/12/quack-remote-protocol.html": {
+  "blog": "DuckDB News",
+  "first_seen": "2026-08-03"
+ },
+ "https://duckdb.org/2026/05/20/announcing-duckdb-153.html": {
+  "blog": "DuckDB News",
+  "first_seen": "2026-08-03"
+ },
+ "https://duckdb.org/2026/05/21/test-driving-lance.html": {
+  "blog": "DuckDB News",
+  "first_seen": "2026-08-03"
+ },
+ "https://duckdb.org/2026/05/29/new-iceberg-features.html": {
+  "blog": "DuckDB News",
+  "first_seen": "2026-08-03"
+ },
+ "https://duckdb.org/2026/06/17/announcing-duckdb-145.html": {
+  "blog": "DuckDB News",
+  "first_seen": "2026-08-03"
+ },
+ "https://duckdb.org/2026/06/17/announcing-duckdb-154.html": {
+  "blog": "DuckDB News",
+  "first_seen": "2026-08-03"
+ },
+ "https://duckdb.org/2026/07/22/announcing-duckdb-155.html": {
+  "blog": "DuckDB News",
+  "first_seen": "2026-08-03"
+ },
+ "https://duckdb.org/2026/07/31/asynchronous-io.html": {
+  "blog": "DuckDB News",
+  "first_seen": "2026-08-03"
  },
  "https://engineer.retty.me/entry/2023/12/25/133517?utm_source=feed": {
   "blog": "Retty",
@@ -13110,6 +13222,10 @@
  "https://engineering.mercari.com/blog/entry/20260630-b22667b4d6/": {
   "blog": "Mercari Engineering",
   "first_seen": "2026-07-07"
+ },
+ "https://engineering.mercari.com/blog/entry/20260731-bd36d55a0c/": {
+  "blog": "Mercari Engineering",
+  "first_seen": "2026-08-03"
  },
  "https://forest.watch.impress.co.jp/docs/news/2108612.html": {
   "blog": "窓の杜 脆弱性",
@@ -15475,6 +15591,10 @@
   "blog": "piyolog",
   "first_seen": "2026-08-02"
  },
+ "https://piyolog.hatenadiary.jp/entry/2026/08/02/165033": {
+  "blog": "piyolog",
+  "first_seen": "2026-08-03"
+ },
  "https://product.st.inc/entry/2025/12/24/110535": {
   "blog": "STORES Product Blog",
   "first_seen": "2026-07-07"
@@ -15738,6 +15858,10 @@
  "https://seangoedecke.com/doing-nothing-at-work/": {
   "blog": "seangoedecke.com",
   "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/giving-and-taking-credit/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-08-03"
  },
  "https://seangoedecke.com/how-i-use-llms-in-2026/": {
   "blog": "seangoedecke.com",
@@ -21027,6 +21151,10 @@
   "blog": "Notion Blog (tech)",
   "first_seen": "2026-07-08"
  },
+ "https://www.publickey1.jp/blog/26/100cncf.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-08-03"
+ },
  "https://www.publickey1.jp/blog/26/202960.html": {
   "blog": "Publickey",
   "first_seen": "2026-07-15"
@@ -21038,6 +21166,10 @@
  "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html": {
   "blog": "Publickey",
   "first_seen": "2026-07-22"
+ },
+ "https://www.publickey1.jp/blog/26/aidiawindows.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-08-03"
  },
  "https://www.publickey1.jp/blog/26/applemacos_27swift.html": {
   "blog": "Publickey",
