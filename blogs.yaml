@@ -369,3 +369,7 @@
 - name: The art of simplicity
   url: https://bartwullems.blogspot.com/
   feed: https://bartwullems.blogspot.com/feeds/posts/default?alt=rss
+
+- name: DuckDB News
+  url: https://duckdb.org/news/
+  feed: https://duckdb.org/feed.xml
