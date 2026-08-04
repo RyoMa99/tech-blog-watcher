@@ -373,3 +373,8 @@
 - name: DuckDB News
   url: https://duckdb.org/news/
   feed: https://duckdb.org/feed.xml
+
+- name: サイボウズ フロントエンド Web標準動向
+  url: https://zenn.dev/p/cybozu_frontend
+  feed: https://zenn.dev/p/cybozu_frontend/feed
+  adapter: cybozu_frontend_web_standards

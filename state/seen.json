@@ -595,6 +595,10 @@
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-30"
  },
+ "https://aws.amazon.com/jp/blogs/news/jpmne-media-seminar-local-july-2026/": {
+  "blog": "AWS Japan Blog",
+  "first_seen": "2026-08-04"
+ },
  "https://aws.amazon.com/jp/blogs/news/jr-central-iot-platform-for-maglev-electrical-maintenance/": {
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-07"
@@ -3435,6 +3439,10 @@
   "blog": "coliss",
   "first_seen": "2026-07-08"
  },
+ "https://coliss.com/articles/build-websites/operation/work/chrome-151-adds-6-new-css-feature.html": {
+  "blog": "coliss",
+  "first_seen": "2026-08-04"
+ },
  "https://coliss.com/articles/build-websites/operation/work/name-that-ui.html": {
   "blog": "coliss",
   "first_seen": "2026-07-31"
@@ -3751,6 +3759,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-04"
  },
+ "https://dev.classmethod.jp/articles/202608-kecchi-joined-classmethod/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-04"
+ },
  "https://dev.classmethod.jp/articles/202608-kobayashinaohiro-joined-classmethod/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-04"
@@ -3764,6 +3776,10 @@
   "first_seen": "2026-08-04"
  },
  "https://dev.classmethod.jp/articles/20260803-joined-classethod/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-04"
+ },
+ "https://dev.classmethod.jp/articles/20260804-cc-updates-v2-1-221/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-04"
  },
@@ -4403,6 +4419,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
+ "https://dev.classmethod.jp/articles/bedrock-iam-principal-cost-allocation-cur2/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-04"
+ },
  "https://dev.classmethod.jp/articles/bedrock-kb-metadata-parenttext-created-on/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-12"
@@ -4699,6 +4719,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-17"
  },
+ "https://dev.classmethod.jp/articles/claude-setup-token-scope-restriction/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-04"
+ },
  "https://dev.classmethod.jp/articles/claude-web-fetch-cache/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-31"
@@ -4750,6 +4774,10 @@
  "https://dev.classmethod.jp/articles/cloudfront-functions-logcustomdata-access-logs/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-15"
+ },
+ "https://dev.classmethod.jp/articles/cloudfront-functions-s3-url-rewrite-handson/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-04"
  },
  "https://dev.classmethod.jp/articles/cloudfront-origin-custom-header-lambda-function-url-access-control/": {
   "blog": "DevelopersIO",
@@ -5163,6 +5191,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-25"
  },
+ "https://dev.classmethod.jp/articles/gemba-video-ai-medallion-cycle-split/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-04"
+ },
  "https://dev.classmethod.jp/articles/gemini-api-vertex-ai-spend-cap-released/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-30"
@@ -5210,6 +5242,10 @@
  "https://dev.classmethod.jp/articles/google-chat-bot-warm-persona-gemini/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-26"
+ },
+ "https://dev.classmethod.jp/articles/google-cloud-parameterManger-parameter-template/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-04"
  },
  "https://dev.classmethod.jp/articles/google-drive-vertex-ai-rag-auto-sync/": {
   "blog": "DevelopersIO",
@@ -6142,6 +6178,10 @@
  "https://dev.classmethod.jp/articles/self-host-headscale-on-amazon-lightsail-with-headplane/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-28"
+ },
+ "https://dev.classmethod.jp/articles/sendgrid-subuser-domain-authentication/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-04"
  },
  "https://dev.classmethod.jp/articles/serverside-tracking/": {
   "blog": "DevelopersIO",
@@ -11591,6 +11631,10 @@
   "blog": "freee",
   "first_seen": "2026-07-25"
  },
+ "https://developers.freee.co.jp/entry/spec-driven-development-with-ai-agents": {
+  "blog": "freee",
+  "first_seen": "2026-08-04"
+ },
  "https://developers.freee.co.jp/entry/tskaigi-2026": {
   "blog": "freee",
   "first_seen": "2026-07-07"
@@ -13747,6 +13791,10 @@
   "blog": "Future Tech Blog",
   "first_seen": "2026-08-04"
  },
+ "https://future-architect.github.io/articles/20260804a/": {
+  "blog": "Future Tech Blog",
+  "first_seen": "2026-08-04"
+ },
  "https://geoffreylitt.com/2023/12/17/seven-books-that-stuck-with-me-in-2023.html": {
   "blog": "Geoffrey Litt",
   "first_seen": "2026-07-08"
@@ -14494,6 +14542,10 @@
  "https://kakehashi-dev.hatenablog.com/entry/2026/07/30/090000": {
   "blog": "カケハシ",
   "first_seen": "2026-07-31"
+ },
+ "https://kakehashi-dev.hatenablog.com/entry/2026/08/04/090000": {
+  "blog": "カケハシ",
+  "first_seen": "2026-08-04"
  },
  "https://kaminashi-developer.hatenablog.jp/entry/2026/01/06/just-use-next": {
   "blog": "カミナシ",
@@ -18067,6 +18119,10 @@
   "blog": "syu-m-5151",
   "first_seen": "2026-08-04"
  },
+ "https://syu-m-5151.hatenablog.com/entry/2026/08/04/081951": {
+  "blog": "syu-m-5151",
+  "first_seen": "2026-08-04"
+ },
  "https://taketo957.hatenablog.com/entry/2025/09/02/125043": {
   "blog": "HERP Tech Hub",
   "first_seen": "2026-07-08"
@@ -20119,6 +20175,10 @@
   "blog": "LINEヤフー",
   "first_seen": "2026-07-30"
  },
+ "https://techblog.lycorp.co.jp/ja/20260804a": {
+  "blog": "LINEヤフー",
+  "first_seen": "2026-08-04"
+ },
  "https://techblog.lycorp.co.jp/ja/techverse2026-10": {
   "blog": "LINEヤフー",
   "first_seen": "2026-07-07"
@@ -20290,6 +20350,10 @@
  "https://techblog.zozo.com/entry/ai-development-two-commands": {
   "blog": "ZOZO",
   "first_seen": "2026-07-07"
+ },
+ "https://techblog.zozo.com/entry/ai-devex-2026": {
+  "blog": "ZOZO",
+  "first_seen": "2026-08-04"
  },
  "https://techblog.zozo.com/entry/architecture-codegen-pipeline": {
   "blog": "ZOZO",
@@ -20584,6 +20648,10 @@
   "first_seen": "2026-07-24"
  },
  "https://toranoana-lab.hatenablog.com/entry/2026/08/03/100000": {
+  "blog": "虎の穴ラボ",
+  "first_seen": "2026-08-04"
+ },
+ "https://toranoana-lab.hatenablog.com/entry/2026/08/04/100000": {
   "blog": "虎の穴ラボ",
   "first_seen": "2026-08-04"
  },
@@ -21615,6 +21683,10 @@
   "blog": "Wantedly stories",
   "first_seen": "2026-07-28"
  },
+ "https://www.wantedly.com/companies/wantedly/post_articles/1081602": {
+  "blog": "Wantedly stories",
+  "first_seen": "2026-08-04"
+ },
  "https://www.wantedly.com/companies/wantedly/post_articles/1081676": {
   "blog": "Wantedly stories",
   "first_seen": "2026-07-28"
@@ -21638,6 +21710,42 @@
  "https://zenn.dev/0918nobita/articles/renovate-update-same-time": {
   "blog": "HERP Tech Hub",
   "first_seen": "2026-07-08"
+ },
+ "https://zenn.dev/cybozu_frontend/articles/web-standards-trends-202605": {
+  "blog": "サイボウズ フロントエンド Web標準動向",
+  "first_seen": "2026-08-04"
+ },
+ "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202511": {
+  "blog": "サイボウズ フロントエンド Web標準動向",
+  "first_seen": "2026-08-04"
+ },
+ "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202512": {
+  "blog": "サイボウズ フロントエンド Web標準動向",
+  "first_seen": "2026-08-04"
+ },
+ "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202601": {
+  "blog": "サイボウズ フロントエンド Web標準動向",
+  "first_seen": "2026-08-04"
+ },
+ "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202602": {
+  "blog": "サイボウズ フロントエンド Web標準動向",
+  "first_seen": "2026-08-04"
+ },
+ "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202603": {
+  "blog": "サイボウズ フロントエンド Web標準動向",
+  "first_seen": "2026-08-04"
+ },
+ "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202604": {
+  "blog": "サイボウズ フロントエンド Web標準動向",
+  "first_seen": "2026-08-04"
+ },
+ "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202606": {
+  "blog": "サイボウズ フロントエンド Web標準動向",
+  "first_seen": "2026-08-04"
+ },
+ "https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202607": {
+  "blog": "サイボウズ フロントエンド Web標準動向",
+  "first_seen": "2026-08-04"
  },
  "https://zenn.dev/dinii/articles/16b3e71b580b6c": {
   "blog": "dinii",
@@ -21931,6 +22039,10 @@
   "blog": "estie",
   "first_seen": "2026-07-08"
  },
+ "https://zenn.dev/estie/articles/882e14dcad0d46": {
+  "blog": "estie",
+  "first_seen": "2026-08-04"
+ },
  "https://zenn.dev/estie/articles/9cba491ae6e44a": {
   "blog": "estie",
   "first_seen": "2026-07-08"
@@ -22070,6 +22182,10 @@
  "https://zenn.dev/knowledgesense/articles/7210292cbe6838": {
   "blog": "Knowledge Sense",
   "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/knowledgesense/articles/7c1a8f7720b119": {
+  "blog": "Knowledge Sense",
+  "first_seen": "2026-08-04"
  },
  "https://zenn.dev/knowledgesense/articles/7ce72924c0050f": {
   "blog": "Knowledge Sense",
