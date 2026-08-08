@@ -1311,6 +1311,10 @@
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
  },
+ "https://azukiazusa.dev/blog/fetch-text-stream": {
+  "blog": "azukiazusa.dev",
+  "first_seen": "2026-08-09"
+ },
  "https://azukiazusa.dev/blog/fetch-upload-streaming": {
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
@@ -3951,6 +3955,14 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-08"
  },
+ "https://dev.classmethod.jp/articles/20260808-cc-updates-v2-1-226/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-09"
+ },
+ "https://dev.classmethod.jp/articles/20260809-amazon-quick-mds/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-09"
+ },
  "https://dev.classmethod.jp/articles/26-external-training-takanami/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-09"
@@ -3991,6 +4003,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-10"
  },
+ "https://dev.classmethod.jp/articles/agent-toolkit-aws-auth-skill-cognito-passkey/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-09"
+ },
  "https://dev.classmethod.jp/articles/agentcore-cross-account-observability/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-12"
@@ -4022,6 +4038,10 @@
  "https://dev.classmethod.jp/articles/agentcore-policy-guardrails-gateway/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/agentcore-runtime-instances/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-09"
  },
  "https://dev.classmethod.jp/articles/agents-md-region-filter-aws-devops-agent/": {
   "blog": "DevelopersIO",
@@ -4299,6 +4319,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-08"
  },
+ "https://dev.classmethod.jp/articles/aws-batch-ordered-allocation-strategies/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-09"
+ },
  "https://dev.classmethod.jp/articles/aws-bench-check-vpc-kiro-cli-17models/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-01"
@@ -4438,6 +4462,10 @@
  "https://dev.classmethod.jp/articles/aws-iot-server-side-device-grouping/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-02"
+ },
+ "https://dev.classmethod.jp/articles/aws-lambda-ide-kiro-cursor/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-09"
  },
  "https://dev.classmethod.jp/articles/aws-lambda-log-group-auto-creation-timing/": {
   "blog": "DevelopersIO",
@@ -5079,6 +5107,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-16"
  },
+ "https://dev.classmethod.jp/articles/cloudwatch-managed-prometheus-collector/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-09"
+ },
  "https://dev.classmethod.jp/articles/cloudwatch-rum-xray-end-to-end-tracing/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-15"
@@ -5219,6 +5251,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-25"
  },
+ "https://dev.classmethod.jp/articles/demo_tsukuru/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-09"
+ },
  "https://dev.classmethod.jp/articles/dependabot-default-cooldown-3-days/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-26"
@@ -5310,6 +5346,10 @@
  "https://dev.classmethod.jp/articles/discord-bot-googleapi/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-25"
+ },
+ "https://dev.classmethod.jp/articles/dms-full-load-cdc-aurora-mysql-to-s3-parquet/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-09"
  },
  "https://dev.classmethod.jp/articles/dms-schema-conversion-ai-agent-mcp-server-oracle-postgresql/": {
   "blog": "DevelopersIO",
@@ -5470,6 +5510,10 @@
  "https://dev.classmethod.jp/articles/g1_bottle_pick_and_lift_rl_week_1/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-06"
+ },
+ "https://dev.classmethod.jp/articles/gas-clasp-local-development-setup/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-09"
  },
  "https://dev.classmethod.jp/articles/gcp-billing-budget-alert-bigquery-looker-studio-opentofu/": {
   "blog": "DevelopersIO",
@@ -5851,6 +5895,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-02"
  },
+ "https://dev.classmethod.jp/articles/kiro-powers-supports-plugins/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-09"
+ },
  "https://dev.classmethod.jp/articles/kiro-service-quotas-overage-cap/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-14"
@@ -6215,6 +6263,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-29"
  },
+ "https://dev.classmethod.jp/articles/open-weight-team-ai-environment/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-09"
+ },
  "https://dev.classmethod.jp/articles/openai-agentkit-workspace-agents-claude-cowork-nocode-agent-comparison/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-14"
@@ -6334,6 +6386,10 @@
  "https://dev.classmethod.jp/articles/postgresql-long-transaction-blocks-vacuum/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-15"
+ },
+ "https://dev.classmethod.jp/articles/postgresql-too-many-clients-already-reproduce/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-09"
  },
  "https://dev.classmethod.jp/articles/postgresql-xmin-xmax-insert-update-delete/": {
   "blog": "DevelopersIO",
@@ -6490,6 +6546,10 @@
  "https://dev.classmethod.jp/articles/sagemaker-ai-huggingface-one-click-deploy/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-03"
+ },
+ "https://dev.classmethod.jp/articles/sagemaker-hyperpod-slurm-ami-update-console/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-09"
  },
  "https://dev.classmethod.jp/articles/sagemaker-realtime-llama-cpp-gguf-streaming/": {
   "blog": "DevelopersIO",
@@ -6667,9 +6727,17 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-08"
  },
+ "https://dev.classmethod.jp/articles/snowflake-cowork-automations-pupr-try/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-09"
+ },
  "https://dev.classmethod.jp/articles/snowflake-cowork-ios-mobile-app-ga/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-21"
+ },
+ "https://dev.classmethod.jp/articles/snowflake-dcm-projects-ga/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-09"
  },
  "https://dev.classmethod.jp/articles/snowflake-dynamic-table-scheduler-dbt-config/": {
   "blog": "DevelopersIO",
@@ -6802,6 +6870,10 @@
  "https://dev.classmethod.jp/articles/summer-project-2026-delete-all-iam-policies-in-google-cloud-org/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-24"
+ },
+ "https://dev.classmethod.jp/articles/summer-project-2026-iam-aws-managed-policies-get-daze/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-09"
  },
  "https://dev.classmethod.jp/articles/summer-project-2026-maruto-self-event-checkin/": {
   "blog": "DevelopersIO",
@@ -13026,6 +13098,10 @@
  "https://docs.cloud.google.com/release-notes#August_07_2026": {
   "blog": "Google Cloud Release Notes",
   "first_seen": "2026-08-08"
+ },
+ "https://docs.cloud.google.com/release-notes#August_08_2026": {
+  "blog": "Google Cloud Release Notes",
+  "first_seen": "2026-08-09"
  },
  "https://docs.cloud.google.com/release-notes#July_01_2026": {
   "blog": "Google Cloud Release Notes",
