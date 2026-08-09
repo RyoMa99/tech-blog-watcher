@@ -911,6 +911,10 @@
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
  },
+ "https://azukiazusa.dev/blog/aria-actions-attribute": {
+  "blog": "azukiazusa.dev",
+  "first_seen": "2026-08-10"
+ },
  "https://azukiazusa.dev/blog/aria-notify-method": {
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
@@ -4415,6 +4419,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-28"
  },
+ "https://dev.classmethod.jp/articles/aws-devops-agent-investigation-result-cli/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-10"
+ },
  "https://dev.classmethod.jp/articles/aws-devops-agent-locale-cdk/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-01"
@@ -4859,6 +4867,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-30"
  },
+ "https://dev.classmethod.jp/articles/claude-code-api-error-with-ai-dlc/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-10"
+ },
  "https://dev.classmethod.jp/articles/claude-code-at-import-mitmproxy/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-13"
@@ -4874,6 +4886,10 @@
  "https://dev.classmethod.jp/articles/claude-code-cli-desktop-mdm-disable/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-02"
+ },
+ "https://dev.classmethod.jp/articles/claude-code-cross-session-messaging/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-10"
  },
  "https://dev.classmethod.jp/articles/claude-code-fallback-model/": {
   "blog": "DevelopersIO",
@@ -5751,6 +5767,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-23"
  },
+ "https://dev.classmethod.jp/articles/iot-timestream-influxdb-grafana-1000-devices/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-10"
+ },
  "https://dev.classmethod.jp/articles/iro-guideline70-aws/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-08"
@@ -5854,6 +5874,10 @@
  "https://dev.classmethod.jp/articles/kiro-credit-multiplier-api-price-ratio/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-05"
+ },
+ "https://dev.classmethod.jp/articles/kiro-crew-agent-worlds/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-10"
  },
  "https://dev.classmethod.jp/articles/kiro-crew-docker-tailscale-ec2/": {
   "blog": "DevelopersIO",
@@ -6095,6 +6119,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-19"
  },
+ "https://dev.classmethod.jp/articles/memorystore-redis-session-management/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-10"
+ },
  "https://dev.classmethod.jp/articles/microsoft-presidio-pii-anonymization/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
@@ -6174,6 +6202,10 @@
  "https://dev.classmethod.jp/articles/nocobase-sticky-header/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-16"
+ },
+ "https://dev.classmethod.jp/articles/nodejs-fetch-strace/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-10"
  },
  "https://dev.classmethod.jp/articles/nodejs-long-running-process-memory-management/": {
   "blog": "DevelopersIO",
@@ -6527,6 +6559,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-24"
  },
+ "https://dev.classmethod.jp/articles/route53-domain-sakura-rental-server-mail/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-10"
+ },
  "https://dev.classmethod.jp/articles/s3-event-notifications-aws-generated-tags/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-17"
@@ -6870,6 +6906,10 @@
  "https://dev.classmethod.jp/articles/summer-project-2026-delete-all-iam-policies-in-google-cloud-org/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-24"
+ },
+ "https://dev.classmethod.jp/articles/summer-project-2026-gaming-pc-server/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-10"
  },
  "https://dev.classmethod.jp/articles/summer-project-2026-iam-aws-managed-policies-get-daze/": {
   "blog": "DevelopersIO",
@@ -12067,6 +12107,10 @@
   "blog": "CyberAgent",
   "first_seen": "2026-07-10"
  },
+ "https://developers.cyberagent.co.jp/blog/archives/64574/": {
+  "blog": "CyberAgent",
+  "first_seen": "2026-08-10"
+ },
  "https://developers.cyberagent.co.jp/blog/archives/64643/": {
   "blog": "CyberAgent",
   "first_seen": "2026-07-21"
@@ -13102,6 +13146,10 @@
  "https://docs.cloud.google.com/release-notes#August_08_2026": {
   "blog": "Google Cloud Release Notes",
   "first_seen": "2026-08-09"
+ },
+ "https://docs.cloud.google.com/release-notes#August_09_2026": {
+  "blog": "Google Cloud Release Notes",
+  "first_seen": "2026-08-10"
  },
  "https://docs.cloud.google.com/release-notes#July_01_2026": {
   "blog": "Google Cloud Release Notes",
@@ -16835,6 +16883,10 @@
   "blog": "HERP Tech Hub",
   "first_seen": "2026-07-08"
  },
+ "https://seangoedecke.com/advanced-ai-sycophancy/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-08-10"
+ },
  "https://seangoedecke.com/ai-gpus-live-longer-than-three-years/": {
   "blog": "seangoedecke.com",
   "first_seen": "2026-07-07"
@@ -16886,6 +16938,10 @@
  "https://seangoedecke.com/how-to-keep-thinking/": {
   "blog": "seangoedecke.com",
   "first_seen": "2026-08-08"
+ },
+ "https://seangoedecke.com/i-got-an-email-about-resistance/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-08-10"
  },
  "https://seangoedecke.com/impro/": {
   "blog": "seangoedecke.com",
@@ -22322,6 +22378,10 @@
  "https://www.publickey1.jp/blog/26/3ai.html": {
   "blog": "Publickey",
   "first_seen": "2026-07-15"
+ },
+ "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-08-10"
  },
  "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html": {
   "blog": "Publickey",
