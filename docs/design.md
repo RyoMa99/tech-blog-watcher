@@ -148,6 +148,8 @@ GitHubリポジトリ: tech-blog-watcher/
 
 記事タイトル(他言語のブログ含む。GitHub Blog, Inside Rust Blog, The art of simplicity 等)はそのまま(翻訳しない)。ただし `google_cloud_release_notes` アダプタのように記事本文まるごとを `<details><summary>中身</summary>...</details>` としてレポートに埋め込むケースは、Google公式に日本語版フィードが存在しないため常に英語で入ってくる。この本文は check.py ではなく routine を実行している Claude が日本語に翻訳し、同じ構成(見出し・リンク・箇条書き)でレポートファイルに書き戻す。
 
+サービス名・プロダクト名(Cloud Run functions, Eventarc, Gemini Enterprise, Memorystore for Valkey, Security Command Center 等の見出しや、本文中の固有名詞)は無理に和訳せず英語表記のまま残す。翻訳対象はあくまで説明文(Feature/Change/Announcement の本文)。
+
 ## 8. 未決事項
 
 1. **ダイジェストの受け取り方法** — Slack通知(MCP連携) / メール / リポジトリの `reports/` を見に行く、のいずれか。Slack が推奨
