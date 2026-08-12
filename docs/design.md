@@ -120,7 +120,7 @@ GitHubリポジトリ: tech-blog-watcher/
 - routine の1回の実行フロー:
   1. リポジトリを取得
   2. `python check.py` → `reports/YYYY-MM-DD.md` と更新済み `state/seen.json` を生成
-  3. レポート中に英語の本文がそのまま埋め込まれている箇所(§7 参照)があれば日本語に翻訳してレポートを書き換える(check.py 自体は翻訳しない。routine を動かす Claude が担当)
+  3. **(必須・毎回)** レポート中に英語の本文がそのまま埋め込まれている箇所(`<details><summary>中身</summary>...</details>`。§7 参照。該当するのは主に `google_cloud_release_notes` アダプタ)があれば、commit する前に必ず日本語に翻訳してレポートファイルを書き換える(check.py 自体は翻訳しない。routine を動かす Claude が担当。新着が0件でこのブロックが無い日はスキップでよいが、ある日は絶対に省略しないこと)
   4. 新着があればダイジェストを通知(通知先は §8 未決)
   5. 変更を commit & push
   6. フィード取得に失敗したサイトがあれば調査し、修正を commit(自己修復)
