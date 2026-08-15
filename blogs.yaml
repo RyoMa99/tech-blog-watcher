@@ -156,9 +156,10 @@
   url: https://engineering.mercari.com/blog/
   feed: https://engineering.mercari.com/blog/feed.xml
 
+# tech.commune.co.jp は note.com のマガジン「技術を知る」に統合された
 - name: コミューン
-  url: https://tech.commune.co.jp/
-  feed: https://tech.commune.co.jp/feed
+  url: https://note.com/communeinc/m/m048407949a08
+  adapter: commune_tech
 
 # 全体フィード(rss.xml)にはカテゴリ情報が無いため、engineeringカテゴリページをスクレイプする
 - name: Discord Engineering

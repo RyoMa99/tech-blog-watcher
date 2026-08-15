@@ -723,6 +723,10 @@
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-09"
  },
+ "https://aws.amazon.com/jp/blogs/news/jcrpharm-claude-code-on-aws/": {
+  "blog": "AWS Japan Blog",
+  "first_seen": "2026-08-16"
+ },
  "https://aws.amazon.com/jp/blogs/news/joint-ai-dlc-unicorn-gym-202606/": {
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-23"
@@ -2066,6 +2070,10 @@
  "https://azukiazusa.dev/blog/scope-rule-in-css": {
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
+ },
+ "https://azukiazusa.dev/blog/scoped-custom-element-registries": {
+  "blog": "azukiazusa.dev",
+  "first_seen": "2026-08-16"
  },
  "https://azukiazusa.dev/blog/screen-reader-friendly-text-notation": {
   "blog": "azukiazusa.dev",
@@ -4179,6 +4187,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-15"
  },
+ "https://dev.classmethod.jp/articles/20260815-cc-updates-v2-1-233/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-16"
+ },
  "https://dev.classmethod.jp/articles/26-external-training-takanami/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-09"
@@ -4775,6 +4787,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-01"
  },
+ "https://dev.classmethod.jp/articles/aws-iot-nodejs-virtual-device/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-16"
+ },
  "https://dev.classmethod.jp/articles/aws-iot-server-side-device-grouping/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-02"
@@ -5086,6 +5102,10 @@
  "https://dev.classmethod.jp/articles/bulk-executor-amazon-dynamoDB/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-19"
+ },
+ "https://dev.classmethod.jp/articles/c841m-aws-site-to-site-vpn-bgp/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-16"
  },
  "https://dev.classmethod.jp/articles/can-greengrass-iot-core-on-ec2/": {
   "blog": "DevelopersIO",
@@ -5683,6 +5703,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-21"
  },
+ "https://dev.classmethod.jp/articles/devops-agent-readonlyaccess-permission-guardrail/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-16"
+ },
  "https://dev.classmethod.jp/articles/devops-agent-sandbox-preview/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-28"
@@ -5810,6 +5834,10 @@
  "https://dev.classmethod.jp/articles/ecs-express-mode-custom-task-definition-readonly-rootfs-tmpfs-cloudformation/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-13"
+ },
+ "https://dev.classmethod.jp/articles/ecs-express-mode-deletecertificate-accessdenied-loop/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-16"
  },
  "https://dev.classmethod.jp/articles/ecs-express-mode-high-resolution-autoscaling/": {
   "blog": "DevelopersIO",
@@ -6827,6 +6855,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-19"
  },
+ "https://dev.classmethod.jp/articles/perforce-p4vscode-connection-lock-behavior/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-16"
+ },
  "https://dev.classmethod.jp/articles/personio-attendance-timeoff/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-18"
@@ -6951,6 +6983,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-22"
  },
+ "https://dev.classmethod.jp/articles/quick-flow-suiron-group/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-16"
+ },
  "https://dev.classmethod.jp/articles/quick-new-navigation-menu/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-13"
@@ -7063,6 +7099,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-10"
  },
+ "https://dev.classmethod.jp/articles/rtx1200-inter-vlan-routing/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-16"
+ },
  "https://dev.classmethod.jp/articles/running-slack-app-backend-on-cloudflare-workers/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-14"
@@ -7154,6 +7194,10 @@
  "https://dev.classmethod.jp/articles/securityhub-fsbp-remediation-ecs-9/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-01"
+ },
+ "https://dev.classmethod.jp/articles/securityhub-fsbp-remediation-efs-7/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-16"
  },
  "https://dev.classmethod.jp/articles/securityhub-fsbp-remediation-networkfirewall-4/": {
   "blog": "DevelopersIO",
@@ -7519,6 +7563,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-12"
  },
+ "https://dev.classmethod.jp/articles/tl-sg108e-home-vlan-802-1q/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-16"
+ },
  "https://dev.classmethod.jp/articles/tokyo-osaka-az-latency/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-14"
@@ -7639,9 +7687,17 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-31"
  },
+ "https://dev.classmethod.jp/articles/twilio-conversationrelay-deepgram-flux-verification/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-16"
+ },
  "https://dev.classmethod.jp/articles/twilio-conversationrelay-voice-ai-demo/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-19"
+ },
+ "https://dev.classmethod.jp/articles/twilio-conversationrelay-websocket-signature-verification/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-16"
  },
  "https://dev.classmethod.jp/articles/twilio-verify-email-otp/": {
   "blog": "DevelopersIO",
@@ -7666,6 +7722,10 @@
  "https://dev.classmethod.jp/articles/update-kiro-web-iam-role-trusted-policy/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-08"
+ },
+ "https://dev.classmethod.jp/articles/using-aws-managed-microsoft-ad-with-entra-connect-sync-v2-2026/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-16"
  },
  "https://dev.classmethod.jp/articles/vercel-functions-websocket-public-beta-verification/": {
   "blog": "DevelopersIO",
@@ -7710,6 +7770,10 @@
  "https://dev.classmethod.jp/articles/vpc-lambda-createnetworkinterface-express-mode/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-21"
+ },
+ "https://dev.classmethod.jp/articles/vpc-reachability-analyzer-transitgateway-route-branch/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-16"
  },
  "https://dev.classmethod.jp/articles/vpc-sc-organization-level-and-scoped-access-policy/": {
   "blog": "DevelopersIO",
@@ -12707,6 +12771,10 @@
   "blog": "Cloudflare Changelog",
   "first_seen": "2026-08-15"
  },
+ "https://developers.cloudflare.com/changelog/post/2026-08-14-deepseek-v4-workers-ai/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-08-16"
+ },
  "https://developers.cloudflare.com/changelog/post/2026-08-14-workers-access/": {
   "blog": "Cloudflare Changelog",
   "first_seen": "2026-08-15"
@@ -13902,6 +13970,10 @@
  "https://docs.cloud.google.com/release-notes#August_14_2026": {
   "blog": "Google Cloud Release Notes",
   "first_seen": "2026-08-15"
+ },
+ "https://docs.cloud.google.com/release-notes#August_15_2026": {
+  "blog": "Google Cloud Release Notes",
+  "first_seen": "2026-08-16"
  },
  "https://docs.cloud.google.com/release-notes#July_01_2026": {
   "blog": "Google Cloud Release Notes",
@@ -16703,6 +16775,50 @@
   "blog": "Netflix TechBlog",
   "first_seen": "2026-07-07"
  },
+ "https://note.com/communeinc/n/n09bdf8252d03": {
+  "blog": "コミューン",
+  "first_seen": "2026-08-16"
+ },
+ "https://note.com/communeinc/n/n27ecf794a96a": {
+  "blog": "コミューン",
+  "first_seen": "2026-08-16"
+ },
+ "https://note.com/communeinc/n/n43f9f16ecf35": {
+  "blog": "コミューン",
+  "first_seen": "2026-08-16"
+ },
+ "https://note.com/communeinc/n/n54b22f760edc": {
+  "blog": "コミューン",
+  "first_seen": "2026-08-16"
+ },
+ "https://note.com/communeinc/n/n7942243f1db2": {
+  "blog": "コミューン",
+  "first_seen": "2026-08-16"
+ },
+ "https://note.com/communeinc/n/na21682ac8616": {
+  "blog": "コミューン",
+  "first_seen": "2026-08-16"
+ },
+ "https://note.com/communeinc/n/nac3f7834b879": {
+  "blog": "コミューン",
+  "first_seen": "2026-08-16"
+ },
+ "https://note.com/communeinc/n/nbf505119993c": {
+  "blog": "コミューン",
+  "first_seen": "2026-08-16"
+ },
+ "https://note.com/communeinc/n/nce5669f97e35": {
+  "blog": "コミューン",
+  "first_seen": "2026-08-16"
+ },
+ "https://note.com/communeinc/n/ndf67838fd32c": {
+  "blog": "コミューン",
+  "first_seen": "2026-08-16"
+ },
+ "https://note.com/communeinc/n/nfc15a9afe19f": {
+  "blog": "コミューン",
+  "first_seen": "2026-08-16"
+ },
  "https://note.com/heyyou3/n/n52f1e1fed065": {
   "blog": "HERP Tech Hub",
   "first_seen": "2026-07-08"
@@ -16730,6 +16846,18 @@
  "https://note.com/sato21/n/nc87de26e4a76": {
   "blog": "HERP Tech Hub",
   "first_seen": "2026-07-08"
+ },
+ "https://note.com/smuch/n/n2c6fcc69a5e8": {
+  "blog": "コミューン",
+  "first_seen": "2026-08-16"
+ },
+ "https://note.com/smuch/n/n90b2b17c8c87": {
+  "blog": "コミューン",
+  "first_seen": "2026-08-16"
+ },
+ "https://note.com/smuch/n/n92dba777d410": {
+  "blog": "コミューン",
+  "first_seen": "2026-08-16"
  },
  "https://note.herp.co.jp/n/n0d049d5639f5": {
   "blog": "HERP Tech Hub",
