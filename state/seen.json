@@ -2575,6 +2575,10 @@
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
  },
+ "https://azukiazusa.dev/blog/usermedia-html-element": {
+  "blog": "azukiazusa.dev",
+  "first_seen": "2026-08-17"
+ },
  "https://azukiazusa.dev/blog/using-environment-variables-with-sveltekit": {
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
@@ -3759,6 +3763,10 @@
   "blog": "coliss",
   "first_seen": "2026-07-08"
  },
+ "https://coliss.com/articles/build-websites/operation/work/adobe-express-photos-is-being-installed-automatically.html": {
+  "blog": "coliss",
+  "first_seen": "2026-08-17"
+ },
  "https://coliss.com/articles/build-websites/operation/work/chrome-150-adds-18-new-css-feature.html": {
   "blog": "coliss",
   "first_seen": "2026-07-08"
@@ -4686,6 +4694,10 @@
  "https://dev.classmethod.jp/articles/aws-cloud-wan-failover-network-firewall-nat-gateway/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-04"
+ },
+ "https://dev.classmethod.jp/articles/aws-cloud-wan-routing-policy-prevent-asymmetric-routing/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-17"
  },
  "https://dev.classmethod.jp/articles/aws-cloudshell-cli-update-guide/": {
   "blog": "DevelopersIO",
@@ -5739,6 +5751,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-13"
  },
+ "https://dev.classmethod.jp/articles/dgx-spark-nemotron-lightning-switchyard-classifier-finetune/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-17"
+ },
  "https://dev.classmethod.jp/articles/dgx-spark-nvidia-rag-blueprint-mcp/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-08"
@@ -5899,6 +5915,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-12"
  },
+ "https://dev.classmethod.jp/articles/failed-to-using-aws-managed-microsoft-ad-with-entra-connect-sync-v2-hash-sync-2026/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-17"
+ },
  "https://dev.classmethod.jp/articles/fastapi-openapi-auto-generation-claude-code-hooks/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-13"
@@ -6058,6 +6078,10 @@
  "https://dev.classmethod.jp/articles/gr00t-reference-workflow/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-11"
+ },
+ "https://dev.classmethod.jp/articles/graphrag-gemini-gephi-lite/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-17"
  },
  "https://dev.classmethod.jp/articles/graphrag-intro-01-graph-db-neptune-analytics/": {
   "blog": "DevelopersIO",
@@ -6366,6 +6390,10 @@
  "https://dev.classmethod.jp/articles/kiro-ide-cli-claude-opus-5/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-25"
+ },
+ "https://dev.classmethod.jp/articles/kiro-ide-subdirectry-agentsmd/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-17"
  },
  "https://dev.classmethod.jp/articles/kiro-openai-gpt56-sol-terra-luna-support/": {
   "blog": "DevelopersIO",
@@ -7555,6 +7583,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-21"
  },
+ "https://dev.classmethod.jp/articles/terraform-provider-plugin-cache-must-use/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-17"
+ },
  "https://dev.classmethod.jp/articles/timestream-for-influxdb3-with-explorer/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-22"
@@ -7826,6 +7858,10 @@
  "https://dev.classmethod.jp/articles/wsl-garbled-text-fix/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-17"
+ },
+ "https://dev.classmethod.jp/articles/wsl-pass-github-pat-pinentry-timeout/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-17"
  },
  "https://dev.classmethod.jp/articles/xmcp-claude-code-setup/": {
   "blog": "DevelopersIO",
@@ -13975,6 +14011,10 @@
   "blog": "Google Cloud Release Notes",
   "first_seen": "2026-08-16"
  },
+ "https://docs.cloud.google.com/release-notes#August_16_2026": {
+  "blog": "Google Cloud Release Notes",
+  "first_seen": "2026-08-17"
+ },
  "https://docs.cloud.google.com/release-notes#July_01_2026": {
   "blog": "Google Cloud Release Notes",
   "first_seen": "2026-07-28"
@@ -15019,6 +15059,10 @@
   "blog": "Mercari Engineering",
   "first_seen": "2026-08-03"
  },
+ "https://engineering.mercari.com/blog/entry/20260814-3bdaa0433a/": {
+  "blog": "Mercari Engineering",
+  "first_seen": "2026-08-17"
+ },
  "https://forest.watch.impress.co.jp/docs/news/2108612.html": {
   "blog": "窓の杜 脆弱性",
   "first_seen": "2026-07-15"
@@ -15234,6 +15278,10 @@
  "https://forest.watch.impress.co.jp/docs/news/2132541.html": {
   "blog": "窓の杜 脆弱性",
   "first_seen": "2026-08-14"
+ },
+ "https://forest.watch.impress.co.jp/docs/news/2132961.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-08-17"
  },
  "https://future-architect.github.io/articles/20260525a/": {
   "blog": "Future Tech Blog",
@@ -17639,6 +17687,10 @@
   "blog": "piyolog",
   "first_seen": "2026-08-15"
  },
+ "https://piyolog.hatenadiary.jp/entry/2026/08/17/053005": {
+  "blog": "piyolog",
+  "first_seen": "2026-08-17"
+ },
  "https://product.st.inc/entry/2025/12/24/110535": {
   "blog": "STORES Product Blog",
   "first_seen": "2026-07-07"
@@ -17906,6 +17958,10 @@
  "https://seangoedecke.com/ai-models-need-moral-support/": {
   "blog": "seangoedecke.com",
   "first_seen": "2026-08-01"
+ },
+ "https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-08-17"
  },
  "https://seangoedecke.com/anti-ai-nostalgia/": {
   "blog": "seangoedecke.com",
@@ -20915,6 +20971,10 @@
   "blog": "Findy",
   "first_seen": "2026-08-06"
  },
+ "https://tech.findy.co.jp/entry/2026/08/17/070000": {
+  "blog": "Findy",
+  "first_seen": "2026-08-17"
+ },
  "https://tech.findy.co.jp/entry/20260526070000": {
   "blog": "Findy",
   "first_seen": "2026-07-07"
@@ -23491,6 +23551,10 @@
   "blog": "Publickey",
   "first_seen": "2026-08-03"
  },
+ "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-08-17"
+ },
  "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html": {
   "blog": "Publickey",
   "first_seen": "2026-08-05"
@@ -23522,6 +23586,10 @@
  "https://www.publickey1.jp/blog/26/content_4.html": {
   "blog": "Publickey",
   "first_seen": "2026-08-12"
+ },
+ "https://www.publickey1.jp/blog/26/delphi_13_community_edtionwindows_x86armmaciosandroid.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-08-17"
  },
  "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html": {
   "blog": "Publickey",
@@ -23630,6 +23698,10 @@
  "https://www.publickey1.jp/blog/26/vmware_9.html": {
   "blog": "Publickey",
   "first_seen": "2026-07-15"
+ },
+ "https://www.publickey1.jp/blog/26/zeddeltaai.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-08-17"
  },
  "https://www.wantedly.com/companies/wantedly/post_articles/1067533": {
   "blog": "Wantedly stories",
@@ -24610,6 +24682,10 @@
  "https://zenn.dev/smartcamp/articles/c5ef03f249c3d4": {
   "blog": "SMARTCAMP",
   "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/smartcamp/articles/d0af05458b07d7": {
+  "blog": "SMARTCAMP",
+  "first_seen": "2026-08-17"
  },
  "https://zenn.dev/smartcamp/articles/devenv-relay-ma2cta": {
   "blog": "SMARTCAMP",
