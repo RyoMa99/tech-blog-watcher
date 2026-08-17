@@ -43,7 +43,7 @@ python3 -m venv .venv
 |---|---|
 | `blogs.yaml` | ブログ登録簿 |
 | `check.py` | チェッカー本体(既読URL差分で新着判定) |
-| `adapters/` | フィードがない/特殊なサイト用アダプタ(wantedly / google_ja / anthropic_news / claude_blog / cursor_blog / notion_tech / discord_engineering / shopify / twitch / uber / bytedance_seed / figma_engineering / cybozu_frontend_web_standards) |
+| `adapters/` | フィードがない/特殊なサイト用アダプタ(wantedly / google_ja / anthropic_news / claude_blog / cursor_blog / notion_tech / discord_engineering / shopify / twitch / uber / bytedance_seed / figma_engineering / cybozu_frontend_web_standards / manager_dev) |
 | `state/seen.json` | 既読記事URL(実行のたびに commit して永続化、180日で刈り込み) |
 | `reports/` | 日次ダイジェスト(Markdown)。アダプタが `body`(記事本文)を返すブログ(個別記事URLを持たない常時更新ページ、例: Google Cloud Release Notes)は中身を `<details>` ブロックとして同じレポート内に直接埋め込む |
 

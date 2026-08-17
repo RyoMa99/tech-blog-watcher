@@ -379,3 +379,12 @@
   url: https://zenn.dev/p/cybozu_frontend
   feed: https://zenn.dev/p/cybozu_frontend/feed
   adapter: cybozu_frontend_web_standards
+
+- name: Stay SaaSy
+  url: https://blog.staysaasy.com/
+  feed: https://blog.staysaasy.com/feed
+
+# beehiiv だが RSS が無効(/feed も rss.beehiiv.com も 404)のためスクレイプアダプタで対応
+- name: manager.dev
+  url: https://managerdotdev.beehiiv.com/archive
+  adapter: manager_dev
