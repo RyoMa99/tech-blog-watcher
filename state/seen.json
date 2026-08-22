@@ -2007,6 +2007,10 @@
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
  },
+ "https://azukiazusa.dev/blog/open-development-on-slack-with-slack-code": {
+  "blog": "azukiazusa.dev",
+  "first_seen": "2026-08-23"
+ },
  "https://azukiazusa.dev/blog/openai-agents-sdk-typescript": {
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
@@ -2866,6 +2870,10 @@
  "https://azukiazusa.dev/blog/what-i-found-attractive-aboutr-rust": {
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
+ },
+ "https://azukiazusa.dev/blog/what-i-learned-writing-technical-blog-posts-with-ai": {
+  "blog": "azukiazusa.dev",
+  "first_seen": "2026-08-23"
  },
  "https://azukiazusa.dev/blog/what-is-array-prototype-with": {
   "blog": "azukiazusa.dev",
@@ -4551,6 +4559,14 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-22"
  },
+ "https://dev.classmethod.jp/articles/20260822-cc-updates-v2-1-239/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-23"
+ },
+ "https://dev.classmethod.jp/articles/20260823-aws-glue-6/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-23"
+ },
  "https://dev.classmethod.jp/articles/26-external-training-takanami/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-09"
@@ -5003,6 +5019,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-20"
  },
+ "https://dev.classmethod.jp/articles/amazon-ses-adds-open-click-tracking-override/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-23"
+ },
  "https://dev.classmethod.jp/articles/amazon-ses-automated-email-interactions/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-12"
@@ -5050,6 +5070,10 @@
  "https://dev.classmethod.jp/articles/android-cli-skill-xml-to-compose/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-22"
+ },
+ "https://dev.classmethod.jp/articles/apple-business-api-device-info-get/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-23"
  },
  "https://dev.classmethod.jp/articles/asg-exceed-max-capacity/": {
   "blog": "DevelopersIO",
@@ -5267,9 +5291,17 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-19"
  },
+ "https://dev.classmethod.jp/articles/aws-healthomics-nextflow-task-level-timeout/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-23"
+ },
  "https://dev.classmethod.jp/articles/aws-healthomics-tokyo-region/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-25"
+ },
+ "https://dev.classmethod.jp/articles/aws-healthomics-wdl-task-level-timeout/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-23"
  },
  "https://dev.classmethod.jp/articles/aws-iam-aam/": {
   "blog": "DevelopersIO",
@@ -5334,6 +5366,10 @@
  "https://dev.classmethod.jp/articles/aws-organizations-rcp-quota-doubled-2000/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-25"
+ },
+ "https://dev.classmethod.jp/articles/aws-parallelcluster-3-16-0-released-pcluster-diag/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-23"
  },
  "https://dev.classmethod.jp/articles/aws-parallelcluster-permissions-boundary/": {
   "blog": "DevelopersIO",
@@ -5562,6 +5598,10 @@
  "https://dev.classmethod.jp/articles/bedrock-nova-2-lite-metal-defect-detection/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-06"
+ },
+ "https://dev.classmethod.jp/articles/bedrock-openai-gpt-56-sol-reduced-pricing/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-23"
  },
  "https://dev.classmethod.jp/articles/bedrock-openai-gpt56-sol-terra-luna/": {
   "blog": "DevelopersIO",
@@ -6063,6 +6103,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-09"
  },
+ "https://dev.classmethod.jp/articles/cloudwatch-pipelines-geoip-rds-xml/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-23"
+ },
  "https://dev.classmethod.jp/articles/cloudwatch-rum-xray-end-to-end-tracing/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-15"
@@ -6350,6 +6394,10 @@
  "https://dev.classmethod.jp/articles/dgx-spark-single-node-best-llm-qwen3-6-27b-nvfp4/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/dgx-spark-switchyard-prefill-router-vs-judge/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-23"
  },
  "https://dev.classmethod.jp/articles/direct-connect-sla-location-region-requirement-removed/": {
   "blog": "DevelopersIO",
@@ -8654,6 +8702,10 @@
  "https://dev.classmethod.jp/articles/xmcp-claude-code-setup/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-28"
+ },
+ "https://dev.classmethod.jp/articles/yuruweb-31-iwasa/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-23"
  },
  "https://dev.classmethod.jp/articles/yutaka-memo-rds-events-autora-auto-scaling-eventbridge/": {
   "blog": "DevelopersIO",
@@ -13719,6 +13771,14 @@
   "blog": "Cloudflare Changelog",
   "first_seen": "2026-08-22"
  },
+ "https://developers.cloudflare.com/changelog/post/2026-08-21-one-click-login/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-08-23"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-08-22-wrangler-mcp-optional-oauth-scopes/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-08-23"
+ },
  "https://developers.cloudflare.com/changelog/post/2026-1-15-crowdstrike-score/": {
   "blog": "Cloudflare Changelog",
   "first_seen": "2026-07-28"
@@ -14970,6 +15030,10 @@
  "https://docs.cloud.google.com/release-notes#August_21_2026": {
   "blog": "Google Cloud Release Notes",
   "first_seen": "2026-08-22"
+ },
+ "https://docs.cloud.google.com/release-notes#August_22_2026": {
+  "blog": "Google Cloud Release Notes",
+  "first_seen": "2026-08-23"
  },
  "https://docs.cloud.google.com/release-notes#July_01_2026": {
   "blog": "Google Cloud Release Notes",
@@ -18843,6 +18907,10 @@
   "blog": "piyolog",
   "first_seen": "2026-08-22"
  },
+ "https://piyolog.hatenadiary.jp/entry/2026/08/23/033006": {
+  "blog": "piyolog",
+  "first_seen": "2026-08-23"
+ },
  "https://product.st.inc/entry/2025/12/24/110535": {
   "blog": "STORES Product Blog",
   "first_seen": "2026-07-07"
@@ -19282,6 +19350,10 @@
  "https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/": {
   "blog": "seangoedecke.com",
   "first_seen": "2026-07-30"
+ },
+ "https://seangoedecke.com/you-should-never-be-angry-at-work/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-08-23"
  },
  "https://seed.bytedance.com/en/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro": {
   "blog": "ByteDance Seed",
