@@ -2791,6 +2791,10 @@
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
  },
+ "https://azukiazusa.dev/blog/vitest-using-mock": {
+  "blog": "azukiazusa.dev",
+  "first_seen": "2026-08-24"
+ },
  "https://azukiazusa.dev/blog/volar-vuetify2-x": {
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
@@ -4271,6 +4275,10 @@
   "blog": "Cursor Blog",
   "first_seen": "2026-07-08"
  },
+ "https://dev.classmethod.jp/articles/1on1-design-with-ai/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-24"
+ },
  "https://dev.classmethod.jp/articles/2026-06-28-aws-summit-japan-2026-ai-dlc-upstream-transformation/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
@@ -4722,6 +4730,10 @@
  "https://dev.classmethod.jp/articles/aidlc-workflows-v2-ga-kiro-cli/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-23"
+ },
+ "https://dev.classmethod.jp/articles/aidlcv2-hook/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-24"
  },
  "https://dev.classmethod.jp/articles/alarm-mute/": {
   "blog": "DevelopersIO",
@@ -5314,6 +5326,10 @@
  "https://dev.classmethod.jp/articles/aws-interconnect-multicloud-oci-added-check/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-01"
+ },
+ "https://dev.classmethod.jp/articles/aws-iot-device-shadow-nodejs/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-24"
  },
  "https://dev.classmethod.jp/articles/aws-iot-nodejs-virtual-device/": {
   "blog": "DevelopersIO",
@@ -7535,6 +7551,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-24"
  },
+ "https://dev.classmethod.jp/articles/obsidian-claude-code-slack-permission-guardrails/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-24"
+ },
  "https://dev.classmethod.jp/articles/ohorig-aws-rnaseq-fastqc/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-16"
@@ -8155,6 +8175,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-25"
  },
+ "https://dev.classmethod.jp/articles/snowflake-feature-policy-rules-ga/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-24"
+ },
  "https://dev.classmethod.jp/articles/snowflake-latest-info-202607/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-03"
@@ -8374,6 +8398,10 @@
  "https://dev.classmethod.jp/articles/terraform-provider-plugin-cache-must-use/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-17"
+ },
+ "https://dev.classmethod.jp/articles/terraform-remote-backend-cloudflare-r2/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-24"
  },
  "https://dev.classmethod.jp/articles/timestream-for-influxdb3-with-explorer/": {
   "blog": "DevelopersIO",
@@ -13951,6 +13979,10 @@
   "blog": "CyberAgent",
   "first_seen": "2026-08-19"
  },
+ "https://developers.cyberagent.co.jp/blog/archives/65362/": {
+  "blog": "CyberAgent",
+  "first_seen": "2026-08-24"
+ },
  "https://developers.cyberagent.co.jp/blog/archives/65492/": {
   "blog": "CyberAgent",
   "first_seen": "2026-08-21"
@@ -16355,6 +16387,10 @@
   "blog": "窓の杜 脆弱性",
   "first_seen": "2026-08-22"
  },
+ "https://forest.watch.impress.co.jp/docs/news/2134815.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-08-24"
+ },
  "https://future-architect.github.io/articles/20260525a/": {
   "blog": "Future Tech Blog",
   "first_seen": "2026-07-07"
@@ -17487,6 +17523,10 @@
   "blog": "カミナシ",
   "first_seen": "2026-08-06"
  },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/08/24/reinvent": {
+  "blog": "カミナシ",
+  "first_seen": "2026-08-24"
+ },
  "https://kaminashi-developer.hatenablog.jp/entry/ai-driven-dev-event": {
   "blog": "カミナシ",
   "first_seen": "2026-07-08"
@@ -17662,6 +17702,10 @@
  "https://konifar-zatsu.hatenadiary.jp/entry/2026/07/11/091254": {
   "blog": "konifar-zatsu",
   "first_seen": "2026-07-12"
+ },
+ "https://konifar-zatsu.hatenadiary.jp/entry/2026/08/23/163351": {
+  "blog": "konifar-zatsu",
+  "first_seen": "2026-08-24"
  },
  "https://m3career-eng.hatenablog.com/entry/2024/10/16/174903": {
   "blog": "エムスリーキャリア",
@@ -20918,6 +20962,10 @@
  "https://songmu.jp/riji/entry/2026-08-14-voice-input-with-foot-pedal.html": {
   "blog": "songmu.jp",
   "first_seen": "2026-08-15"
+ },
+ "https://songmu.jp/riji/entry/2026-08-23-tagpr-documentation.html": {
+  "blog": "songmu.jp",
+  "first_seen": "2026-08-24"
  },
  "https://songmu.jp/riji/entry/2026-development-environment.html": {
   "blog": "songmu.jp",
@@ -25063,6 +25111,10 @@
   "blog": "Publickey",
   "first_seen": "2026-08-20"
  },
+ "https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-08-24"
+ },
  "https://www.publickey1.jp/blog/26/rustbunclaude_code.html": {
   "blog": "Publickey",
   "first_seen": "2026-07-21"
@@ -25078,6 +25130,10 @@
  "https://www.publickey1.jp/blog/26/saasuipr.html": {
   "blog": "Publickey",
   "first_seen": "2026-07-28"
+ },
+ "https://www.publickey1.jp/blog/26/slackaislack_code.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-08-24"
  },
  "https://www.publickey1.jp/blog/26/superlogical.html": {
   "blog": "Publickey",
