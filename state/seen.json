@@ -915,6 +915,10 @@
   "blog": "AWS Japan Blog",
   "first_seen": "2026-08-22"
  },
+ "https://aws.amazon.com/jp/blogs/news/monotaro-core-database-migration-to-amazon-aurora-global-database/": {
+  "blog": "AWS Japan Blog",
+  "first_seen": "2026-08-27"
+ },
  "https://aws.amazon.com/jp/blogs/news/monthly-manufacturing-202607/": {
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-16"
@@ -3479,6 +3483,10 @@
   "blog": "blog.inorinrinrin.com",
   "first_seen": "2026-08-21"
  },
+ "https://blog.inorinrinrin.com/entry/2026/08/26/145705?utm_source=feed": {
+  "blog": "blog.inorinrinrin.com",
+  "first_seen": "2026-08-27"
+ },
  "https://blog.inorinrinrin.com/entry/8372cef7-15e5-888f-88bb-1074cabf8305?utm_source=feed": {
   "blog": "blog.inorinrinrin.com",
   "first_seen": "2026-08-03"
@@ -4175,6 +4183,10 @@
   "blog": "coliss",
   "first_seen": "2026-08-04"
  },
+ "https://coliss.com/articles/build-websites/operation/work/make-your-screen-feel-like-paper.html": {
+  "blog": "coliss",
+  "first_seen": "2026-08-27"
+ },
  "https://coliss.com/articles/build-websites/operation/work/name-that-ui.html": {
   "blog": "coliss",
   "first_seen": "2026-07-31"
@@ -4663,6 +4675,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-26"
  },
+ "https://dev.classmethod.jp/articles/20260826-cc-updates-v2-1-246/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
+ },
  "https://dev.classmethod.jp/articles/26-external-training-takanami/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-09"
@@ -4714,6 +4730,10 @@
  "https://dev.classmethod.jp/articles/acm-email-to-dns-validation-switch/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-15"
+ },
+ "https://dev.classmethod.jp/articles/advantech-deviceon-ubx-110k-remote-management/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
  },
  "https://dev.classmethod.jp/articles/agent-report/": {
   "blog": "DevelopersIO",
@@ -4979,6 +4999,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-25"
  },
+ "https://dev.classmethod.jp/articles/amazon-connect-lambda-phone-number-polly/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
+ },
  "https://dev.classmethod.jp/articles/amazon-connect-missed-call-email-sfn/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-14"
@@ -5046,6 +5070,10 @@
  "https://dev.classmethod.jp/articles/amazon-elasticache-valkey-9-1-database-acl-verification/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-21"
+ },
+ "https://dev.classmethod.jp/articles/amazon-elasticache-valkey-9-1-memory-reduction-verification/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
  },
  "https://dev.classmethod.jp/articles/amazon-evs-vcf-9-1-support/": {
   "blog": "DevelopersIO",
@@ -5231,6 +5259,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
+ "https://dev.classmethod.jp/articles/aurora-mysql-blue-green-deployment-version-upgrade/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
+ },
  "https://dev.classmethod.jp/articles/aurora-mysql-secrets-manager-migration/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-23"
@@ -5246,6 +5278,10 @@
  "https://dev.classmethod.jp/articles/aurora-serverless-v2-initial-capacity-12acu-measurement/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-07"
+ },
+ "https://dev.classmethod.jp/articles/aws-account-deletion-automation-closure-org/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
  },
  "https://dev.classmethod.jp/articles/aws-appconfig-experimentation/": {
   "blog": "DevelopersIO",
@@ -5731,6 +5767,14 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-12"
  },
+ "https://dev.classmethod.jp/articles/bedrock-knowledge-base-web-crawler-url-log-query/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
+ },
+ "https://dev.classmethod.jp/articles/bedrock-managed-knowledge-base-web/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
+ },
  "https://dev.classmethod.jp/articles/bedrock-mantle-claude-fable-5/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
@@ -5978,6 +6022,10 @@
  "https://dev.classmethod.jp/articles/claude-code-ms-office-suite-skill/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-12"
+ },
+ "https://dev.classmethod.jp/articles/claude-code-notification-mac/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
  },
  "https://dev.classmethod.jp/articles/claude-code-otlp-token-pass-wsl-grafana-cloud/": {
   "blog": "DevelopersIO",
@@ -6427,6 +6475,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-06"
  },
+ "https://dev.classmethod.jp/articles/datadog-aws-integration-namespace-filters-include-only/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
+ },
  "https://dev.classmethod.jp/articles/daujii-hsp3-todo-api-aws-lambda-custom-runtime/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-15"
@@ -6446,6 +6498,10 @@
  "https://dev.classmethod.jp/articles/demo_tsukuru/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-09"
+ },
+ "https://dev.classmethod.jp/articles/dependabot-auto-triage-rules-sandbox-test/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
  },
  "https://dev.classmethod.jp/articles/dependabot-default-cooldown-3-days/": {
   "blog": "DevelopersIO",
@@ -6746,6 +6802,10 @@
  "https://dev.classmethod.jp/articles/field-guide-to-fable5/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-08"
+ },
+ "https://dev.classmethod.jp/articles/fivetran_activations_snowflake_sftp/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
  },
  "https://dev.classmethod.jp/articles/fix-iam-access-denied-via-cloudshell/": {
   "blog": "DevelopersIO",
@@ -7095,6 +7155,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-11"
  },
+ "https://dev.classmethod.jp/articles/investigate-config-cost-increase/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
+ },
  "https://dev.classmethod.jp/articles/investigating-compute-engine-shielded-vm/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-13"
@@ -7187,6 +7251,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-16"
  },
+ "https://dev.classmethod.jp/articles/jw-aws-pcs-auto-scaling/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
+ },
  "https://dev.classmethod.jp/articles/jw-rhel9-ec2-slurm-job-scheduler-validation/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-14"
@@ -7275,6 +7343,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-25"
  },
+ "https://dev.classmethod.jp/articles/kiro-ide-permissions-allallow/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
+ },
  "https://dev.classmethod.jp/articles/kiro-ide-subdirectry-agentsmd/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-17"
@@ -7354,6 +7426,10 @@
  "https://dev.classmethod.jp/articles/lambdadf-dotnet/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-27"
+ },
+ "https://dev.classmethod.jp/articles/learn-about-project-management/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
  },
  "https://dev.classmethod.jp/articles/legacy-modernization-ai-spec-gap/": {
   "blog": "DevelopersIO",
@@ -7919,6 +7995,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-13"
  },
+ "https://dev.classmethod.jp/articles/publish-claude-code-plugin-to-codex/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
+ },
  "https://dev.classmethod.jp/articles/publish-vscode-extension-ci-marketplace-openvsx-npm/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-15"
@@ -8167,6 +8247,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-30"
  },
+ "https://dev.classmethod.jp/articles/security-jaws-42-report/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
+ },
  "https://dev.classmethod.jp/articles/securityhub-fsbp-remediation-cloudfront-17/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-14"
@@ -8338,6 +8422,10 @@
  "https://dev.classmethod.jp/articles/snowflake-cowork-ios-mobile-app-ga/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-21"
+ },
+ "https://dev.classmethod.jp/articles/snowflake-data-movement-policies-ga/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
  },
  "https://dev.classmethod.jp/articles/snowflake-dcm-projects-ga/": {
   "blog": "DevelopersIO",
@@ -8622,6 +8710,10 @@
  "https://dev.classmethod.jp/articles/try-kaimei/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-05"
+ },
+ "https://dev.classmethod.jp/articles/try-out-iot-core-from-local-linux-container/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-08-27"
  },
  "https://dev.classmethod.jp/articles/trying-out-various-deidentification-methods-using-sensitive-data-protection/": {
   "blog": "DevelopersIO",
@@ -9255,6 +9347,10 @@
   "blog": "BASE",
   "first_seen": "2026-08-26"
  },
+ "https://devblog.thebase.in/entry/2026/08/26/110000": {
+  "blog": "BASE",
+  "first_seen": "2026-08-27"
+ },
  "https://devblog.thebase.in/entry/base-junior-developer": {
   "blog": "BASE",
   "first_seen": "2026-07-07"
@@ -9394,6 +9490,10 @@
  "https://developer.hatenastaff.com/entry/2026/08/21/173000": {
   "blog": "Hatena Developer Blog",
   "first_seen": "2026-08-22"
+ },
+ "https://developer.hatenastaff.com/entry/2026/08/26/110000": {
+  "blog": "Hatena Developer Blog",
+  "first_seen": "2026-08-27"
  },
  "https://developer.hatenastaff.com/entry/engineer-seminar-36-report": {
   "blog": "Hatena Developer Blog",
@@ -14043,6 +14143,14 @@
   "blog": "Cloudflare Changelog",
   "first_seen": "2026-08-25"
  },
+ "https://developers.cloudflare.com/changelog/post/2026-08-25-durable-object-alarm-abort-no-retry/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-08-27"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-08-25-larger-custom-metadata-values/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-08-27"
+ },
  "https://developers.cloudflare.com/changelog/post/2026-08-25-mcp-portals-mcp-2026-07-28/": {
   "blog": "Cloudflare Changelog",
   "first_seen": "2026-08-26"
@@ -14054,6 +14162,34 @@
  "https://developers.cloudflare.com/changelog/post/2026-08-25-service-token-status-controls/": {
   "blog": "Cloudflare Changelog",
   "first_seen": "2026-08-26"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-08-25-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-08-27"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-08-26-app-scoped-tokens/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-08-27"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-08-26-emergency-waf-release/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-08-27"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-08-26-glm-5.3-flash-workers-ai/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-08-27"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-08-26-new-workers-ai-models/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-08-27"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-08-26-radar-researcher-improvements/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-08-27"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-08-26-sentinel-functions-connector-deprecation/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-08-27"
  },
  "https://developers.cloudflare.com/changelog/post/2026-1-15-crowdstrike-score/": {
   "blog": "Cloudflare Changelog",
@@ -14238,6 +14374,10 @@
  "https://developers.cyberagent.co.jp/blog/archives/65492/": {
   "blog": "CyberAgent",
   "first_seen": "2026-08-21"
+ },
+ "https://developers.cyberagent.co.jp/blog/archives/65626/": {
+  "blog": "CyberAgent",
+  "first_seen": "2026-08-27"
  },
  "https://developers.cyberagent.co.jp/blog/archives/65675/": {
   "blog": "CyberAgent",
@@ -14486,6 +14626,10 @@
  "https://developers.googleblog.com/enhancing-android-checkout-with-dynamic-callbacks-in-google-pay/": {
   "blog": "Google Developers Blog (ja)",
   "first_seen": "2026-07-07"
+ },
+ "https://developers.googleblog.com/enterprise-grade-precision-for-long-context-multimodal-embedding-inference-on-cloud-tpu/": {
+  "blog": "Google Developers Blog (ja)",
+  "first_seen": "2026-08-27"
  },
  "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/": {
   "blog": "Google Developers Blog (ja)",
@@ -15339,6 +15483,10 @@
   "blog": "Google Cloud Release Notes",
   "first_seen": "2026-08-26"
  },
+ "https://docs.cloud.google.com/release-notes#August_26_2026": {
+  "blog": "Google Cloud Release Notes",
+  "first_seen": "2026-08-27"
+ },
  "https://docs.cloud.google.com/release-notes#July_01_2026": {
   "blog": "Google Cloud Release Notes",
   "first_seen": "2026-07-28"
@@ -15583,9 +15731,17 @@
   "blog": "DuckDB News",
   "first_seen": "2026-08-22"
  },
+ "https://duckdb.org/2026/08/25/how-duckdb-runs-recursive-ctes-faster.html": {
+  "blog": "DuckDB News",
+  "first_seen": "2026-08-27"
+ },
  "https://duckdb.org/2026/08/25/table-functions-in-java.html": {
   "blog": "DuckDB News",
   "first_seen": "2026-08-26"
+ },
+ "https://duckdb.org/2026/08/26/ducklabs-to-join-aws.html": {
+  "blog": "DuckDB News",
+  "first_seen": "2026-08-27"
  },
  "https://engineer.retty.me/entry/2023/12/25/133517?utm_source=feed": {
   "blog": "Retty",
@@ -15894,6 +16050,10 @@
  "https://engineering.dena.com/blog/2026/08/disaster-recovery-automation/": {
   "blog": "DeNA",
   "first_seen": "2026-08-07"
+ },
+ "https://engineering.dena.com/blog/2026/08/idp-migration-part3/": {
+  "blog": "DeNA",
+  "first_seen": "2026-08-27"
  },
  "https://engineering.dena.com/blog/2026/08/introduction-pca-with-peach/": {
   "blog": "DeNA",
@@ -16687,6 +16847,10 @@
   "blog": "窓の杜 脆弱性",
   "first_seen": "2026-08-26"
  },
+ "https://forest.watch.impress.co.jp/docs/news/2135836.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-08-27"
+ },
  "https://future-architect.github.io/articles/20260525a/": {
   "blog": "Future Tech Blog",
   "first_seen": "2026-07-07"
@@ -16895,6 +17059,10 @@
   "blog": "Future Tech Blog",
   "first_seen": "2026-08-26"
  },
+ "https://future-architect.github.io/articles/20260826a/": {
+  "blog": "Future Tech Blog",
+  "first_seen": "2026-08-27"
+ },
  "https://geoffreylitt.com/2023/12/17/seven-books-that-stuck-with-me-in-2023.html": {
   "blog": "Geoffrey Litt",
   "first_seen": "2026-07-08"
@@ -16958,6 +17126,10 @@
  "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/": {
   "blog": "GitHub Blog",
   "first_seen": "2026-07-08"
+ },
+ "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/": {
+  "blog": "GitHub Blog",
+  "first_seen": "2026-08-27"
  },
  "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/": {
   "blog": "GitHub Blog",
@@ -19294,6 +19466,10 @@
  "https://piyolog.hatenadiary.jp/entry/2026/08/23/033006": {
   "blog": "piyolog",
   "first_seen": "2026-08-23"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2026/08/26/090522": {
+  "blog": "piyolog",
+  "first_seen": "2026-08-27"
  },
  "https://product.st.inc/entry/2025/12/24/110535": {
   "blog": "STORES Product Blog",
@@ -22835,6 +23011,10 @@
   "blog": "LayerX",
   "first_seen": "2026-07-07"
  },
+ "https://tech.layerx.co.jp/entry/typespec-in-aiworkforce": {
+  "blog": "LayerX",
+  "first_seen": "2026-08-27"
+ },
  "https://tech.layerx.co.jp/entry/wake-career-report": {
   "blog": "LayerX",
   "first_seen": "2026-07-07"
@@ -23927,6 +24107,14 @@
   "blog": "LINEヤフー",
   "first_seen": "2026-08-21"
  },
+ "https://techblog.lycorp.co.jp/ja/20260826a": {
+  "blog": "LINEヤフー",
+  "first_seen": "2026-08-27"
+ },
+ "https://techblog.lycorp.co.jp/ja/20260826b": {
+  "blog": "LINEヤフー",
+  "first_seen": "2026-08-27"
+ },
  "https://techblog.lycorp.co.jp/ja/techverse2026-10": {
   "blog": "LINEヤフー",
   "first_seen": "2026-07-07"
@@ -24179,6 +24367,10 @@
   "blog": "ZOZO",
   "first_seen": "2026-07-22"
  },
+ "https://techblog.zozo.com/entry/istio-dataplane-rearchitecture": {
+  "blog": "ZOZO",
+  "first_seen": "2026-08-27"
+ },
  "https://techblog.zozo.com/entry/jjug-ccc-2026-spring": {
   "blog": "ZOZO",
   "first_seen": "2026-07-07"
@@ -24230,6 +24422,10 @@
  "https://techblog.zozo.com/entry/order-sqs-optimization": {
   "blog": "ZOZO",
   "first_seen": "2026-07-07"
+ },
+ "https://techblog.zozo.com/entry/personalized-delivery-load-reduction": {
+  "blog": "ZOZO",
+  "first_seen": "2026-08-27"
  },
  "https://techblog.zozo.com/entry/realtime-streaming-replace": {
   "blog": "ZOZO",
@@ -25467,6 +25663,10 @@
   "blog": "Publickey",
   "first_seen": "2026-07-27"
  },
+ "https://www.publickey1.jp/blog/26/mcpaihttp.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-08-27"
+ },
  "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html": {
   "blog": "Publickey",
   "first_seen": "2026-07-15"
@@ -26158,6 +26358,10 @@
  "https://zenn.dev/estie/articles/e14286e7746974": {
   "blog": "estie",
   "first_seen": "2026-08-11"
+ },
+ "https://zenn.dev/estie/articles/e58c1461aaec90": {
+  "blog": "estie",
+  "first_seen": "2026-08-27"
  },
  "https://zenn.dev/estie/articles/f0f114389662ba": {
   "blog": "estie",
