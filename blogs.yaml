@@ -392,3 +392,7 @@
 - name: Martin Fowler
   url: https://martinfowler.com/recent-changes.html
   feed: https://martinfowler.com/feed.atom
+
+- name: DX (Engineering Enablement)
+  url: https://newsletter.getdx.com/archive
+  feed: https://newsletter.getdx.com/feed
