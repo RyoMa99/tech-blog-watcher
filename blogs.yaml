@@ -388,3 +388,7 @@
 - name: manager.dev
   url: https://managerdotdev.beehiiv.com/archive
   adapter: manager_dev
+
+- name: Martin Fowler
+  url: https://martinfowler.com/recent-changes.html
+  feed: https://martinfowler.com/feed.atom
