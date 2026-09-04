@@ -396,3 +396,7 @@
 - name: DX (Engineering Enablement)
   url: https://newsletter.getdx.com/archive
   feed: https://newsletter.getdx.com/feed
+
+- name: kawarimidoll.com
+  url: https://kawarimidoll.com/posts/
+  feed: https://kawarimidoll.com/rss.xml
