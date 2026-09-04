@@ -163,6 +163,10 @@
   "blog": "Google Cloud What's New",
   "first_seen": "2026-07-28"
  },
+ "888f66d0c3e5dd6dc0bbd612ed17285e3510cc76": {
+  "blog": "Google Cloud What's New",
+  "first_seen": "2026-09-05"
+ },
  "9764e98145c6507b0dff24e2ed3026787e656247": {
   "blog": "Google Cloud What's New",
   "first_seen": "2026-07-28"
@@ -194,6 +198,10 @@
  "af3544d10118b4bb5da67883f093c7d728adc01e": {
   "blog": "Google Cloud What's New",
   "first_seen": "2026-07-28"
+ },
+ "b63103279ed4fb16334a01c6c7c54817913d534d": {
+  "blog": "Google Cloud What's New",
+  "first_seen": "2026-09-05"
  },
  "b7c0bea3e0bd8827812992f0f4e3a6560411911a": {
   "blog": "Google Cloud What's New",
@@ -250,6 +258,10 @@
  "de1a395b2a65ad22c19c80baf4b03a9078f706aa": {
   "blog": "Google Cloud What's New",
   "first_seen": "2026-07-28"
+ },
+ "e0f8cc0dfd853d20b1ad65499584e35ad7be8df7": {
+  "blog": "Google Cloud What's New",
+  "first_seen": "2026-09-05"
  },
  "e1262bc83b3e30950a19bb68c4ab6724da3cf2b9": {
   "blog": "Google Cloud What's New",
@@ -711,6 +723,10 @@
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-15"
  },
+ "https://aws.amazon.com/jp/blogs/news/blend-structured-business-logic-with-agentic-ai/": {
+  "blog": "AWS Japan Blog",
+  "first_seen": "2026-09-05"
+ },
  "https://aws.amazon.com/jp/blogs/news/build-semantic-search-with-native-vector-support-in-amazon-dynamodb/": {
   "blog": "AWS Japan Blog",
   "first_seen": "2026-08-07"
@@ -742,6 +758,10 @@
  "https://aws.amazon.com/jp/blogs/news/chronos-2-on-amazon-sagemaker-ai-with-autogluon-cloud/": {
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-18"
+ },
+ "https://aws.amazon.com/jp/blogs/news/claude-code-for-pharma-tokyo/": {
+  "blog": "AWS Japan Blog",
+  "first_seen": "2026-09-05"
  },
  "https://aws.amazon.com/jp/blogs/news/claude-mythos-workshop-report-resilience-workshop-upcoming/": {
   "blog": "AWS Japan Blog",
@@ -779,6 +799,10 @@
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-18"
  },
+ "https://aws.amazon.com/jp/blogs/news/deploying-aws-modular-data-center-from-ordering-to-delivery-and-installation-jp/": {
+  "blog": "AWS Japan Blog",
+  "first_seen": "2026-09-05"
+ },
  "https://aws.amazon.com/jp/blogs/news/deploying-vcf-9-1-on-amazon-evs-with-end-to-end-automation/": {
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-10"
@@ -790,6 +814,10 @@
  "https://aws.amazon.com/jp/blogs/news/diagnostics-over-time/": {
   "blog": "AWS Japan Blog",
   "first_seen": "2026-08-29"
+ },
+ "https://aws.amazon.com/jp/blogs/news/disaster-recovery-for-vmware-workloads-on-amazon-evs/": {
+  "blog": "AWS Japan Blog",
+  "first_seen": "2026-09-05"
  },
  "https://aws.amazon.com/jp/blogs/news/dspace-aws-mlops-autonomous-driving/": {
   "blog": "AWS Japan Blog",
@@ -898,6 +926,10 @@
  "https://aws.amazon.com/jp/blogs/news/how-gpu-acceleration-builds-billion-scale-vector-indexes-on-amazon-opensearch-service/": {
   "blog": "AWS Japan Blog",
   "first_seen": "2026-08-13"
+ },
+ "https://aws.amazon.com/jp/blogs/news/how-natwest-built-multi-region-resilience-with-amazon-connect-customer/": {
+  "blog": "AWS Japan Blog",
+  "first_seen": "2026-09-05"
  },
  "https://aws.amazon.com/jp/blogs/news/identify-java-nested-dependencies-with-amazon-inspector-sbom-generator/": {
   "blog": "AWS Japan Blog",
@@ -2287,6 +2319,10 @@
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
  },
+ "https://azukiazusa.dev/blog/pnpm-update-include-github-actions": {
+  "blog": "azukiazusa.dev",
+  "first_seen": "2026-09-05"
+ },
  "https://azukiazusa.dev/blog/poml-prompt-structured-document": {
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
@@ -3351,6 +3387,10 @@
   "blog": "The art of simplicity",
   "first_seen": "2026-08-04"
  },
+ "https://bartwullems.blogspot.com/2026/09/firelighting-vs-firefighting.html": {
+  "blog": "The art of simplicity",
+  "first_seen": "2026-09-05"
+ },
  "https://bartwullems.blogspot.com/2026/09/monitoring-claude-code-usage-with.html": {
   "blog": "The art of simplicity",
   "first_seen": "2026-09-04"
@@ -3686,6 +3726,10 @@
  "https://blog.inorinrinrin.com/entry/b80576e5-1efc-2c1a-bf81-ee838b66db06?utm_source=feed": {
   "blog": "blog.inorinrinrin.com",
   "first_seen": "2026-08-08"
+ },
+ "https://blog.inorinrinrin.com/entry/e81f0d18-3575-a486-8679-c1d7f025e28e?utm_source=feed": {
+  "blog": "blog.inorinrinrin.com",
+  "first_seen": "2026-09-05"
  },
  "https://blog.rust-lang.org/inside-rust/2026/06/03/maintainer-spotlight-tiffany-pek-yuan-tiif/": {
   "blog": "Inside Rust Blog",
@@ -4326,6 +4370,10 @@
  "https://coliss.com/articles/book-review/isbn-9784297157128.html": {
   "blog": "coliss",
   "first_seen": "2026-08-01"
+ },
+ "https://coliss.com/articles/book-review/isbn-9784297157470.html": {
+  "blog": "coliss",
+  "first_seen": "2026-09-05"
  },
  "https://coliss.com/articles/book-review/isbn-9784297157708.html": {
   "blog": "coliss",
@@ -4987,6 +5035,14 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-09-04"
  },
+ "https://dev.classmethod.jp/articles/20260903-redshift-rg-large-single-node/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
+ },
+ "https://dev.classmethod.jp/articles/20260904-cc-updates-v2-1-260/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
+ },
  "https://dev.classmethod.jp/articles/26-external-training-takanami/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-09"
@@ -5555,6 +5611,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-06"
  },
+ "https://dev.classmethod.jp/articles/amazon-ses-supports-smime-signing/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
+ },
  "https://dev.classmethod.jp/articles/amazon-workspaces-personal-supports-nested-virtualization/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-20"
@@ -5678,6 +5738,10 @@
  "https://dev.classmethod.jp/articles/aws-architecture-icon-raycast/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-09"
+ },
+ "https://dev.classmethod.jp/articles/aws-athena-cloudtrail-query-s3-dataevent/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
  },
  "https://dev.classmethod.jp/articles/aws-backup-s3-backup-access-point/": {
   "blog": "DevelopersIO",
@@ -6131,6 +6195,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-25"
  },
+ "https://dev.classmethod.jp/articles/backlog-add-issue-guardrail-by-hooks/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
+ },
  "https://dev.classmethod.jp/articles/backlog-autoreview/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-12"
@@ -6331,6 +6399,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-16"
  },
+ "https://dev.classmethod.jp/articles/call-github-actions-workflow/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
+ },
  "https://dev.classmethod.jp/articles/can-greengrass-iot-core-on-ec2/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-25"
@@ -6406,6 +6478,10 @@
  "https://dev.classmethod.jp/articles/chatgpt-voice-live-advanced-standard/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-10"
+ },
+ "https://dev.classmethod.jp/articles/check-when-migration-on-premises-vm-to-aws-kr/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
  },
  "https://dev.classmethod.jp/articles/classmethod-technologies-story-202607/": {
   "blog": "DevelopersIO",
@@ -6723,6 +6799,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-15"
  },
+ "https://dev.classmethod.jp/articles/cloudfront-functions-lowercase-header/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
+ },
  "https://dev.classmethod.jp/articles/cloudfront-functions-s3-url-rewrite-handson/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-04"
@@ -6734,6 +6814,10 @@
  "https://dev.classmethod.jp/articles/cloudfront-origin-group-members-swap-stepfunctions-lambda/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-24"
+ },
+ "https://dev.classmethod.jp/articles/cloudfront-plan-api-cli/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
  },
  "https://dev.classmethod.jp/articles/cloudfront-server-timing-sampling-zero-pragma-header/": {
   "blog": "DevelopersIO",
@@ -7019,6 +7103,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-15"
  },
+ "https://dev.classmethod.jp/articles/deadline-cloud-arnold-ubl-license-verification/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
+ },
  "https://dev.classmethod.jp/articles/deeprobotics-lite3-intro/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-28"
@@ -7110,6 +7198,10 @@
  "https://dev.classmethod.jp/articles/devops-agent-secondary-resource-status-transition/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-20"
+ },
+ "https://dev.classmethod.jp/articles/devops-agent-slack-bidirectional-communication/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
  },
  "https://dev.classmethod.jp/articles/devrev-knowledge-graph-event-live-demo-report/": {
   "blog": "DevelopersIO",
@@ -7227,9 +7319,17 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-09-01"
  },
+ "https://dev.classmethod.jp/articles/ec2-auto-recovery-stepfunctions-lambdaless/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
+ },
  "https://dev.classmethod.jp/articles/ec2-auto-scaling-batch-instance-termination/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-09-02"
+ },
+ "https://dev.classmethod.jp/articles/ec2-c9g-graviton5-tokyo-launch/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
  },
  "https://dev.classmethod.jp/articles/ec2-console-new-connect-ui-2026/": {
   "blog": "DevelopersIO",
@@ -7250,6 +7350,10 @@
  "https://dev.classmethod.jp/articles/ec2-launch-template-ssm-session-manager-guide/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-18"
+ },
+ "https://dev.classmethod.jp/articles/ec2-m9g-graviton5-tokyo-launch/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
  },
  "https://dev.classmethod.jp/articles/ec2-mac-m3ultra-metal-pricing-api/": {
   "blog": "DevelopersIO",
@@ -7298,6 +7402,10 @@
  "https://dev.classmethod.jp/articles/ecs-express-mode-high-resolution-autoscaling/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
+ },
+ "https://dev.classmethod.jp/articles/ecs-managed-daemons-support-non-critical/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
  },
  "https://dev.classmethod.jp/articles/ecs-managed-instances-gpu-management-fee-reduction-pricing-api/": {
   "blog": "DevelopersIO",
@@ -7586,6 +7694,10 @@
  "https://dev.classmethod.jp/articles/google-cloud-parameterManger-parameter-template/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-04"
+ },
+ "https://dev.classmethod.jp/articles/google-cloud-spot-vm-preempt/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
  },
  "https://dev.classmethod.jp/articles/google-drive-vertex-ai-rag-auto-sync/": {
   "blog": "DevelopersIO",
@@ -8131,6 +8243,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-14"
  },
+ "https://dev.classmethod.jp/articles/lambda-snapstart-container-benchmark/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
+ },
  "https://dev.classmethod.jp/articles/lambdadf-dotnet/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-27"
@@ -8623,6 +8739,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-20"
  },
+ "https://dev.classmethod.jp/articles/opsmethod-3-guardduty-with-devops-agent/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
+ },
  "https://dev.classmethod.jp/articles/opswtich_aws_ec2_autostop/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-08"
@@ -8746,6 +8866,10 @@
  "https://dev.classmethod.jp/articles/postgresql-per-connection-memory-usage/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-28"
+ },
+ "https://dev.classmethod.jp/articles/postgresql-shared-buffers-os-cache-disk-verification/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
  },
  "https://dev.classmethod.jp/articles/postgresql-superuser-reserved-connections-limit/": {
   "blog": "DevelopersIO",
@@ -8931,6 +9055,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-29"
  },
+ "https://dev.classmethod.jp/articles/reona-03-dgx-spark-backlog-skill/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
+ },
  "https://dev.classmethod.jp/articles/reona-herdr-remote-mac-mini/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-08"
@@ -8990,6 +9118,10 @@
  "https://dev.classmethod.jp/articles/running-slack-app-backend-on-cloudflare-workers/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-14"
+ },
+ "https://dev.classmethod.jp/articles/rust-bit-packing-packet-repr-packed/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
  },
  "https://dev.classmethod.jp/articles/s3-403-policy-arn-conditions/": {
   "blog": "DevelopersIO",
@@ -9327,6 +9459,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-03"
  },
+ "https://dev.classmethod.jp/articles/snowflake-latest-info-202608/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
+ },
  "https://dev.classmethod.jp/articles/snowflake-multi-party-approval-for-critical-operations/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-12"
@@ -9350,6 +9486,10 @@
  "https://dev.classmethod.jp/articles/snowflake-provided-tags-public-preview/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-09-03"
+ },
+ "https://dev.classmethod.jp/articles/snowflake-restricted-session-scope-coco-permission-limit/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
  },
  "https://dev.classmethod.jp/articles/snowflake-stream-consume-with-task/": {
   "blog": "DevelopersIO",
@@ -9426,6 +9566,10 @@
  "https://dev.classmethod.jp/articles/storage-browser-for-s3-amplify/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-09"
+ },
+ "https://dev.classmethod.jp/articles/storybook-pr-preview-github-actions-s3-cloudfront/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-05"
  },
  "https://dev.classmethod.jp/articles/strands-agents-cedar/": {
   "blog": "DevelopersIO",
@@ -10367,6 +10511,10 @@
   "blog": "BASE",
   "first_seen": "2026-09-04"
  },
+ "https://devblog.thebase.in/entry/2026/09/04/110000": {
+  "blog": "BASE",
+  "first_seen": "2026-09-05"
+ },
  "https://devblog.thebase.in/entry/base-junior-developer": {
   "blog": "BASE",
   "first_seen": "2026-07-07"
@@ -10530,6 +10678,10 @@
  "https://developer.hatenastaff.com/entry/intern2026-teaser": {
   "blog": "Hatena Developer Blog",
   "first_seen": "2026-07-07"
+ },
+ "https://developer.hatenastaff.com/entry/iosdc-japan-2026": {
+  "blog": "Hatena Developer Blog",
+  "first_seen": "2026-09-05"
  },
  "https://developer.hatenastaff.com/entry/software-design-202606-toitta": {
   "blog": "Hatena Developer Blog",
@@ -15295,6 +15447,10 @@
   "blog": "Cloudflare Changelog",
   "first_seen": "2026-09-03"
  },
+ "https://developers.cloudflare.com/changelog/post/2026-09-04-increased-worker-size-limit/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-09-05"
+ },
  "https://developers.cloudflare.com/changelog/post/2026-1-15-crowdstrike-score/": {
   "blog": "Cloudflare Changelog",
   "first_seen": "2026-07-28"
@@ -15738,6 +15894,10 @@
  "https://developers.googleblog.com/diffusiongemma-the-developer-guide/": {
   "blog": "Google Developers Blog (ja)",
   "first_seen": "2026-07-07"
+ },
+ "https://developers.googleblog.com/driving-developer-excellence-inside-the-program-sprints/": {
+  "blog": "Google Developers Blog (ja)",
+  "first_seen": "2026-09-05"
  },
  "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/": {
   "blog": "Google Developers Blog (ja)",
@@ -16782,6 +16942,10 @@
  "https://docs.cloud.google.com/release-notes#September_03_2026": {
   "blog": "Google Cloud Release Notes",
   "first_seen": "2026-09-04"
+ },
+ "https://docs.cloud.google.com/release-notes#September_04_2026": {
+  "blog": "Google Cloud Release Notes",
+  "first_seen": "2026-09-05"
  },
  "https://dropbox.tech/culture/beyond-code-generation-rethinking-engineering-productivity-in-the-age-of-ai-agents": {
   "blog": "Dropbox Tech",
@@ -18047,6 +18211,10 @@
   "blog": "窓の杜 脆弱性",
   "first_seen": "2026-09-03"
  },
+ "https://forest.watch.impress.co.jp/docs/news/2138364.html": {
+  "blog": "窓の杜 脆弱性",
+  "first_seen": "2026-09-05"
+ },
  "https://future-architect.github.io/articles/20260525a/": {
   "blog": "Future Tech Blog",
   "first_seen": "2026-07-07"
@@ -18287,6 +18455,10 @@
   "blog": "Future Tech Blog",
   "first_seen": "2026-09-04"
  },
+ "https://future-architect.github.io/articles/20260904a/": {
+  "blog": "Future Tech Blog",
+  "first_seen": "2026-09-05"
+ },
  "https://geoffreylitt.com/2023/12/17/seven-books-that-stuck-with-me-in-2023.html": {
   "blog": "Geoffrey Litt",
   "first_seen": "2026-07-08"
@@ -18394,6 +18566,10 @@
  "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/": {
   "blog": "GitHub Blog",
   "first_seen": "2026-09-03"
+ },
+ "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/": {
+  "blog": "GitHub Blog",
+  "first_seen": "2026-09-05"
  },
  "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/": {
   "blog": "GitHub Blog",
@@ -19335,6 +19511,1370 @@
   "blog": "カミナシ",
   "first_seen": "2026-07-08"
  },
+ "https://kawarimidoll.com/posts/202102211/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202102231/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202102271/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202103011/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202103031/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202103071/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202103121/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202104011/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202104021/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202104041/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202104051/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202104071/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202105021/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202105081/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202105171/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202105181/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202105221/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202105231/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202105251/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202106011/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202106021/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202106061/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202603261/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202603301/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202603302/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202603311/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202603312/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604011/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604012/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604021/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604022/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604031/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604032/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604041/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604042/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604051/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604052/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604061/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604062/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604071/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604072/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604081/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604082/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604091/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604092/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604101/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604102/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604111/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604112/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604121/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604122/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604131/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604132/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604141/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604142/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604151/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604152/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604161/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604162/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604171/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604172/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604181/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604182/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604191/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604192/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604201/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604202/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604211/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604212/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604221/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604222/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604231/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604232/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604241/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604242/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604251/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604252/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604261/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604262/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604271/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604272/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604281/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604282/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604291/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604292/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604301/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202604302/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605011/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605012/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605021/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605022/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605031/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605032/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605041/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605042/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605051/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605052/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605061/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605062/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605071/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605072/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605081/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605082/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605091/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605092/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605101/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605102/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605111/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605112/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605121/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605122/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605131/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605132/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605141/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605142/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605151/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605152/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605161/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605162/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605171/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605172/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605181/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605182/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605191/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605192/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605201/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605202/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605211/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605212/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605221/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605222/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605231/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605232/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605241/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605242/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605251/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605252/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605261/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605262/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605271/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605272/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605281/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605282/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605291/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605292/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605301/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605302/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605311/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202605312/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606011/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606012/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606021/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606022/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606031/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606032/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606041/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606042/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606051/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606052/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606061/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606062/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606071/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606072/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606081/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606082/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606091/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606092/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606101/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606102/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606111/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606112/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606121/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606122/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606131/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606132/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606141/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606142/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606151/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606152/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606161/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606162/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606171/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606172/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606181/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606182/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606191/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606192/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606201/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606202/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606211/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606212/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606221/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606222/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606231/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606232/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606241/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606242/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606251/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606252/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606261/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606262/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606271/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606272/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606281/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606282/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606291/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606292/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606301/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202606302/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607011/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607012/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607021/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607022/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607031/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607032/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607041/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607042/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607051/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607052/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607061/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607062/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607071/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607072/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607081/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607082/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607091/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607092/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607101/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607102/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607111/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607112/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607121/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607122/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607131/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607132/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607141/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607142/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607151/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607152/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607161/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607162/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607171/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607172/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607181/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607182/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607191/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607192/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607201/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607202/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607211/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607212/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607221/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607222/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607231/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607232/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607241/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607242/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607251/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607252/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607261/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607262/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607271/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607272/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607281/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607282/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607291/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607292/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607301/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607302/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607311/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202607312/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608011/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608012/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608021/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608022/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608031/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608032/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608041/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608042/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608051/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608052/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608061/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608062/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608071/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608072/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608081/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608082/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608091/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608092/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608101/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608102/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608111/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608112/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608121/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608122/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608131/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608132/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608141/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608142/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608151/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608152/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608161/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608162/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608171/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608172/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608181/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608182/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608191/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608192/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608201/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608202/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608211/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608212/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608221/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608222/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608231/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608232/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608241/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608242/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608251/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608252/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608261/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608262/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608271/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608272/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608281/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608282/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608291/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608292/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608301/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608302/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608311/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202608312/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202609011/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202609012/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202609021/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202609022/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202609031/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202609032/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202609041/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
+ "https://kawarimidoll.com/posts/202609042/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-05"
+ },
  "https://konifar-zatsu.hatenadiary.jp/entry/2025/09/28/104415": {
   "blog": "konifar-zatsu",
   "first_seen": "2026-07-07"
@@ -19871,6 +21411,1030 @@
   "blog": "HERP Tech Hub",
   "first_seen": "2026-07-08"
  },
+ "https://motherduck.com/blog/15-companies-duckdb-in-prod": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/AI-writes-the-semantic-layer": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/Agentic-SQL-for-Free-with-Qwen3.8-27B-and-DuckDB": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/DuckDB-1.5-features-I-am-excited-about": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/MotherDuck-Visualize-Embeddings-Marimo": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/agent-signup": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/agent-signup-cloud-data-warehouse": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/agents-dont-query-like-humans-do": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/ai-agent-analytics-with-vercel-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/analytics-agents": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/analyze-data-in-azure-with-duckdb": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/analyze-json-data-using-sql": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/analyze-sqlite-databases-duckdb": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/analyze-x-data-nodejs-duckdb": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/announcing-data-outpost-conference": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/announcing-duckdb-12-on-motherduck-cdw": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/announcing-duckdb-13-on-motherduck-cdw": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/announcing-duckdb-141-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/announcing-duckdb-snippet-sets-with-motherduck-sharing-databases": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/announcing-ducklake-1-0-on-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/announcing-ducklake-support-motherduck-preview": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/announcing-mega-giga-instance-sizes-huge-scale": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/announcing-motherduck-duckdb-in-the-cloud": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/announcing-motherduck-general-availability-data-warehousing-with-duckdb": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/announcing-series-seed-and-a": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/announcing-small-data-sf-2025": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/april-2026-product-roundup": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/big-data-is-dead": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/bigquery-to-duckdb-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/bird-bench-and-data-models": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/building-data-applications-with-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/building-motherduck-partner-ecosystem": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/cidr-paper-hybrid-query-processing-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/claude-code-plus-dives-equals-any-data-ui": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/claudeception-inside-the-mind-of-an-analytics-agent": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/consulting-the-oracle-claude-on-the-future-of-data": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/context-belongs-in-the-warehouse": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/context-layer-vs-semantic-layer-ontology": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/cost-as-tokens-substrait-llm-chris-riccomini": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/csv-files-persist-duckdb-solution": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/dashboards-as-code-dives": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/data-app-generator": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/data-engineer-highlights-PyConDE-2023": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/data-engineering-toolkit-essential-tools": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/data-engineering-toolkit-infrastructure-devops": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/data-engineers-answer-10-top-reddit-questions": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/data-warehouse-feature-roundup-dec-2024": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/data-warehouse-feature-roundup-nov-2024": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/data-warehouse-feature-roundup-oct-2024": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/dev-diary-building-mcp": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/developer-dad-does-disney": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/differential-storage-building-block-for-data-warehouse": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/dive-gallery-share-interactive-data-apps": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/divemaxxing-data-viz-contest": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/dont-fear-the-agents-ai-on-the-data-lakehouse": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/dosomething-motherduck-data-warehouse-ROI": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/dual-execution-dbt": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duck-dive-and-answer": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-110-hidden-gems": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-amazon": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-client-server": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-cognee-sql-analytics-graph-rag": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-dashboard-e2e-data-engineering-project-part-3": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-dbt-e2e-data-engineering-project-part-2": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-april-2024": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-april-2025": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-april-2026": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-august-2024": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-august-2025": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-august-2026": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-december-2023": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-december-2024": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-december-2025": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-eight": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-eleven": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-february-2024": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-february-2025": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-february-2026": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-five": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-four": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-january-2024": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-january-2025": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-january-2026": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-july-2024": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-july-2025": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-july-2026": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-june-2024": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-june-2025": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-june-2026": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-march-2024": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-march-2025": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-march-2026": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-may-2025": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-may-2026": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-nine": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-november-2023": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-november-2024": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-november-2025": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-october-2024": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-october-2025": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-one": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-september-2024": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-september-2025": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-seven": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-six": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-ten": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-three": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-ecosystem-newsletter-two": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-enterprise-5-key-categories": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-excel-extension": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-olap-caching": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-on-edge-raspberry-pi": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-puppygraph-graph-model-on-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-python-e2e-data-engineering-project-part-1": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-text2sql-llm": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-the-great-federator": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-tutorial-for-beginners": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-versus-pandas-versus-polars": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/duckdb-wasm-in-browser": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/ducklake-architecture-deep-dive": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/ducklake-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/effortless-etl-unstructured-data-unstructuredio-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/estuary-streaming-cdc-replication": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/exploring-stackoverflow-with-duckdb-on-motherduck-1": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/exploring-stackoverflow-with-duckdb-on-motherduck-2": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/fabi-ai-llm-prompt-analysis": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/fake-duck-game": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/fall-events-recap-2025": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/faster-data-pipelines-with-mcp-duckdb-ai": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/faster-ducks": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/figma-for-agents-airflow-creator-maxime-beauchemin": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/fix-outdated-llm-documentation-duckdb": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/flight-plans-templates-for-ai-native-data-pipelines": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/flight-sql-vs-rest-vs-jdbc": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/flights-agent-native-ingest": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/from-data-lake-to-lakehouse-duckdb-portable-catalog": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/full-data-pipeline-one-prompt": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/future-casting-the-modern-data-stack": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/galileo-world-geospatial": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/geospatial-for-beginner-duckdb-spatial-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/getting-started-ducklake-table-format": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/getting-started-gis-duckdb": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/git-for-data-part-1": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/git-for-data-part-2": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/give-your-agents-write-access": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/google-sheets-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/guide-to-coalesce-2024": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/hello-world": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/how-i-dive-claude-ai": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/how-to-extract-analytics-from-bluesky": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/in-the-news-podcasts-conferences": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/internal-vs-external-storage-whats-the-limit-of-external-tables": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/introducing-column-explorer": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/introducing-embedded-dives": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/introducing-fixit-ai-sql-error-fixer": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/introducing-humandb": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/introducing-instant-sql": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/introducing-motherduck-for-business-analytics": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/its-a-sql-golf-quackmas": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/json-log-analysis-duckdb-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/just-enough-sql-for-ai": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/langchain-sql-agent-duckdb-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/llm-data-pipelines-prompt-motherduck-dbt": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/local-duckdb-ui-visual-data-analysis": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/log-processing-savings-bacalhau-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/making-pyspark-code-faster-with-duckdb": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/microbatch-dbt-duckdb": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-acquires-tower": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-agent-skills": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-ai-sql-fixit-inline-editing-features": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-artie-integration": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-cli-announcement": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-congratulates-duckdb-1.0-release": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-data-warehouse": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-dbt-pipelines": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-duckdb-dbt": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-headquarters-seattle-opening": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-in-europe": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-kestra-etl-pipelines": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-now-speaks-postgres": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-on-cloudflare-workers": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-open-for-all-with-series-b": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-planetscale-integration": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-reflections-sigmod-pods-2024": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-union-orchestration": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-vercel-marketplace-native-integration": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-window-functions-in-sql": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/motherduck-wrapped-2025": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/new-collaboration-sharing-motherduck-data-warehouse-organization-auto-join": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/obsidian-rag-duckdb-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/obsidian-vault-duckdb-ai-agents": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/oops-maybe-we-do-need-semantic-layers": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/open-lakehouse-stack-duckdb-table-formats": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/openai-just-made-analytics-10x-cheaper": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/perf-is-not-enough": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/pg%20to%20motherduck%20at%20motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/pg-duckdb-release": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/pg_duckdb-postgresql-extension-for-duckdb-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/pgduckdb-beta-release-duckdb-postgres": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/point-in-time-restore": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/postgres-duckdb-options": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/preswald-health-data-analysis": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/pushing-geo-boundaries-with-motherduck-geobase": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/python-duckdb-vs-dataframe-libraries": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/python-faker-duckdb-exploration": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/quackmas2025": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/quacktosql": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/read-scaling-preview": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/redshift-files-hunt-for-big-data": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/replacing-our-bi-tool-with-dives": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/robust-data-pipelines-with-ai": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/scalable-data-apps-with-motherduck-and-replit": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/scaling-duckdb-with-ducklings": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/search-using-duckdb-part-1": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/search-using-duckdb-part-2": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/search-using-duckdb-part-3": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/secoda-motherduck-integration-modern-duck-stack": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/self-hosting-duckdb-road-to-production": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/semantic-layer-duckdb-tutorial": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/separating-storage-compute-duckdb": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/simplifying-iot-analytics-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/six-reasons-duckdb-slaps": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/small-data-manifesto": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/small-data-sf-recap": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/small-data-sf-recap-2025": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/small-data-sf-workshops-agenda": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/solving-advent-code-duckdb-dbt": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/spark-ducklake-getting-started": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/specs-over-vibes-consistent-ai-results": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/sql-embeddings-for-semantic-meaning-in-text-and-rag": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/sql-keyboard-shortcuts-for-joyful-querying": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/sql-llm-prompt-function-gpt-models": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/stop-paying-the-complexity-tax": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/streaming-data-to-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/streaming-oracle-to-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/streamkap-mysql-to-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/streamlining-ai-agents-duckdb-rag-solutions": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/summer-data-engineering-roadmap": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/tableau-cloud-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/taming-wild-csvs-with-duckdb-data-engineering": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/the-future-of-bi-bi-as-code-duckdb-impact": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/the-simple-joys-of-scaling-up": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/unstructured-analysis-tensorlake-motherduck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/vector-technologies-ai-data-stack": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/vibe-code-data-apps-with-vercel-v0-and-MotherDuck": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/vibe-coding-comes-for-bi": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/vibe-coding-dangerous-agentic-engineering-wes-mckinney": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/vibe-coding-sql-cursor": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/vibecoding-dashboards-best-practices": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/water-town-agent-swarm-data-stack": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/what-is-mcp-guide-agentic-analytics": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/what-makes-a-great-dive-divemaxxing": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/who-needs-a-semantic-layer-anyway": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/why-everybody-hates-databases": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/why-learn-sql-in-2024": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
+ "https://motherduck.com/blog/why-web-developers-should-care-about-analytical-databases": {
+  "blog": "MotherDuck",
+  "first_seen": "2026-09-05"
+ },
  "https://netflixtechblog.com/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af?source=rss----2615bd06b42e---4": {
   "blog": "Netflix TechBlog",
   "first_seen": "2026-07-07"
@@ -20202,6 +22766,10 @@
  "https://nulab.com/ja/blog/nulab/ai-devex-conference-report/": {
   "blog": "Nulab",
   "first_seen": "2026-08-21"
+ },
+ "https://nulab.com/ja/blog/nulab/ai-mockup-refinement/": {
+  "blog": "Nulab",
+  "first_seen": "2026-09-05"
  },
  "https://nulab.com/ja/blog/nulab/amazon-bedrock-claude-pdf-chart-recognition/": {
   "blog": "Nulab",
@@ -20959,6 +23527,22 @@
   "blog": "piyolog",
   "first_seen": "2026-09-02"
  },
+ "https://piyolog.hatenadiary.jp/entry/2026/09/04/104347": {
+  "blog": "piyolog",
+  "first_seen": "2026-09-05"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2026/09/04/115554": {
+  "blog": "piyolog",
+  "first_seen": "2026-09-05"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2026/09/04/134335": {
+  "blog": "piyolog",
+  "first_seen": "2026-09-05"
+ },
+ "https://piyolog.hatenadiary.jp/entry/2026/09/04/141128": {
+  "blog": "piyolog",
+  "first_seen": "2026-09-05"
+ },
  "https://product.st.inc/entry/2025/12/24/110535": {
   "blog": "STORES Product Blog",
   "first_seen": "2026-07-07"
@@ -21082,6 +23666,10 @@
  "https://product.st.inc/entry/2026/08/13/120000": {
   "blog": "STORES Product Blog",
   "first_seen": "2026-08-14"
+ },
+ "https://product.st.inc/entry/2026/09/04/121100": {
+  "blog": "STORES Product Blog",
+  "first_seen": "2026-09-05"
  },
  "https://product.st.inc/entry/fastlane-match-dashboard": {
   "blog": "STORES Product Blog",
@@ -21334,6 +23922,10 @@
  "https://seangoedecke.com/prompts-are-technical-debt-too/": {
   "blog": "seangoedecke.com",
   "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/radical-responsibility-means-treating-people-like-tools/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-09-05"
  },
  "https://seangoedecke.com/readers-cant-identify-watermarked-ai-text/": {
   "blog": "seangoedecke.com",
@@ -23391,6 +25983,10 @@
   "blog": "syu-m-5151",
   "first_seen": "2026-08-22"
  },
+ "https://syu-m-5151.hatenablog.com/entry/2026/09/04/113629": {
+  "blog": "syu-m-5151",
+  "first_seen": "2026-09-05"
+ },
  "https://taketo957.hatenablog.com/entry/2025/09/02/125043": {
   "blog": "HERP Tech Hub",
   "first_seen": "2026-07-08"
@@ -24815,6 +27411,10 @@
   "blog": "タイミー",
   "first_seen": "2026-09-04"
  },
+ "https://tech.timee.co.jp/entry/2026/09/04/161121": {
+  "blog": "タイミー",
+  "first_seen": "2026-09-05"
+ },
  "https://tech.timee.co.jp/entry/android-pkvm-university-hunachi_": {
   "blog": "タイミー",
   "first_seen": "2026-07-07"
@@ -25139,6 +27739,10 @@
   "blog": "YOUTRUST",
   "first_seen": "2026-07-07"
  },
+ "https://tech.youtrust.co.jp/entry/app-architecture-1": {
+  "blog": "YOUTRUST",
+  "first_seen": "2026-09-05"
+ },
  "https://tech.youtrust.co.jp/entry/app-team-scaling-foundation": {
   "blog": "YOUTRUST",
   "first_seen": "2026-08-11"
@@ -25299,6 +27903,10 @@
   "blog": "CARTA HOLDINGS",
   "first_seen": "2026-07-07"
  },
+ "https://techblog.cartaholdings.co.jp/entry/try-orca-ade": {
+  "blog": "CARTA HOLDINGS",
+  "first_seen": "2026-09-05"
+ },
  "https://techblog.cartaholdings.co.jp/entry/words-that-sound-explanatory": {
   "blog": "CARTA HOLDINGS",
   "first_seen": "2026-08-18"
@@ -25446,6 +28054,10 @@
  "https://techblog.hacomono.jp/entry/2026/09/01/110000": {
   "blog": "hacomono",
   "first_seen": "2026-09-02"
+ },
+ "https://techblog.hacomono.jp/entry/2026/09/04/110000": {
+  "blog": "hacomono",
+  "first_seen": "2026-09-05"
  },
  "https://techblog.hacomono.jp/entry/2026/8/11/110000": {
   "blog": "hacomono",
@@ -27646,6 +30258,10 @@
  "https://www.wantedly.com/companies/wantedly/post_articles/1089483": {
   "blog": "Wantedly stories",
   "first_seen": "2026-09-02"
+ },
+ "https://www.wantedly.com/companies/wantedly/post_articles/1090638": {
+  "blog": "Wantedly stories",
+  "first_seen": "2026-09-05"
  },
  "https://zenn.dev/0918nobita/articles/renovate-update-same-time": {
   "blog": "HERP Tech Hub",
