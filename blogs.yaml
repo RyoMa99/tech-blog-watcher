@@ -400,3 +400,7 @@
 - name: kawarimidoll.com
   url: https://kawarimidoll.com/posts/
   feed: https://kawarimidoll.com/rss.xml
+
+- name: MotherDuck
+  url: https://motherduck.com/blog/
+  feed: https://motherduck.com/rss.xml
