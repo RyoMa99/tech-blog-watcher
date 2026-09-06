@@ -431,6 +431,10 @@
   "blog": "AWS Japan Blog",
   "first_seen": "2026-08-28"
  },
+ "https://aws.amazon.com/jp/blogs/news/agentic-engineering-in-the-cloud/": {
+  "blog": "AWS Japan Blog",
+  "first_seen": "2026-09-07"
+ },
  "https://aws.amazon.com/jp/blogs/news/agones-on-eks-automode-practice/": {
   "blog": "AWS Japan Blog",
   "first_seen": "2026-08-15"
@@ -1978,6 +1982,10 @@
  "https://azukiazusa.dev/blog/html-in-canvas-component-library-canvasui": {
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-26"
+ },
+ "https://azukiazusa.dev/blog/ime-enter-submit": {
+  "blog": "azukiazusa.dev",
+  "first_seen": "2026-09-07"
  },
  "https://azukiazusa.dev/blog/implement-path-key-in-browser": {
   "blog": "azukiazusa.dev",
@@ -5047,6 +5055,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-09-05"
  },
+ "https://dev.classmethod.jp/articles/20260905-amazon-quick-adds-tool-settings-mcp-sync/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-07"
+ },
  "https://dev.classmethod.jp/articles/20260905-cc-updates-v2-1-261/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-09-06"
@@ -5711,9 +5723,17 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-30"
  },
+ "https://dev.classmethod.jp/articles/aurora-mysql-848-ga-diff-from-847/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-07"
+ },
  "https://dev.classmethod.jp/articles/aurora-mysql-blue-green-deployment-version-upgrade/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-27"
+ },
+ "https://dev.classmethod.jp/articles/aurora-mysql-delayed-replication/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-07"
  },
  "https://dev.classmethod.jp/articles/aurora-mysql-secrets-manager-migration/": {
   "blog": "DevelopersIO",
@@ -7283,6 +7303,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-07"
  },
+ "https://dev.classmethod.jp/articles/dgx-spark-single-node-flash-next-vs-glm-3bit-vs-27b/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-07"
+ },
  "https://dev.classmethod.jp/articles/dgx-spark-switchyard-prefill-router-vs-judge/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-23"
@@ -7502,6 +7526,10 @@
  "https://dev.classmethod.jp/articles/eu-digital-accessibility-laws/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-09-03"
+ },
+ "https://dev.classmethod.jp/articles/even-g2-amazon-transcribe-streaming-575/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-07"
  },
  "https://dev.classmethod.jp/articles/event-streaming-2years/": {
   "blog": "DevelopersIO",
@@ -7951,6 +7979,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-23"
  },
+ "https://dev.classmethod.jp/articles/ios27-reorderable-api/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-07"
+ },
  "https://dev.classmethod.jp/articles/iot-monitoring-temperature-and-humidity/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-09-01"
@@ -7982,6 +8014,10 @@
  "https://dev.classmethod.jp/articles/japanese-asr-l40s-fleurs-benchmark/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-09-02"
+ },
+ "https://dev.classmethod.jp/articles/jaws-sonic-2026-midnight-gameday-kiro/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-07"
  },
  "https://dev.classmethod.jp/articles/jawsug-hiroshima-27-cloudgirl-diversity/": {
   "blog": "DevelopersIO",
@@ -8183,6 +8219,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-14"
  },
+ "https://dev.classmethod.jp/articles/kiro-ide-agent-to-kirocrew/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-07"
+ },
  "https://dev.classmethod.jp/articles/kiro-ide-cli-claude-opus-5/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-25"
@@ -8218,6 +8258,10 @@
  "https://dev.classmethod.jp/articles/kiro-service-quotas-overage-decrease/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-29"
+ },
+ "https://dev.classmethod.jp/articles/kiro-web-role-chaining/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-07"
  },
  "https://dev.classmethod.jp/articles/knfsd-file-cache-on-aws-iac-analysis/": {
   "blog": "DevelopersIO",
@@ -8923,9 +8967,17 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-09-01"
  },
+ "https://dev.classmethod.jp/articles/presentation-step-functions-large-scale-parallelism-at-jaws-sonic-2026/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-07"
+ },
  "https://dev.classmethod.jp/articles/prisma-model-to-view-dual-write/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-25"
+ },
+ "https://dev.classmethod.jp/articles/privatelink-configuring-access-to-streamlit-in-snowflake-per-account-url/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-07"
  },
  "https://dev.classmethod.jp/articles/project-valhalla-value-class-java/": {
   "blog": "DevelopersIO",
@@ -9222,6 +9274,10 @@
  "https://dev.classmethod.jp/articles/security-hub-ai-inventory-auto-detection/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-15"
+ },
+ "https://dev.classmethod.jp/articles/security-hub-automation-rules-suppress-unused-access-findings/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-07"
  },
  "https://dev.classmethod.jp/articles/security-hub-cspm-cis-benchmark-version-change-001/": {
   "blog": "DevelopersIO",
@@ -10067,6 +10123,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-17"
  },
+ "https://dev.classmethod.jp/articles/visual-inspection-bedrock-multimodal-embeddings-vs-dinov2/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-07"
+ },
  "https://dev.classmethod.jp/articles/visualize-claude-code-settings/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-26"
@@ -10562,6 +10622,10 @@
  "https://devblog.thebase.in/entry/2026/09/05/110000": {
   "blog": "BASE",
   "first_seen": "2026-09-06"
+ },
+ "https://devblog.thebase.in/entry/2026/09/06/120000": {
+  "blog": "BASE",
+  "first_seen": "2026-09-07"
  },
  "https://devblog.thebase.in/entry/base-junior-developer": {
   "blog": "BASE",
@@ -16999,6 +17063,14 @@
   "blog": "Google Cloud Release Notes",
   "first_seen": "2026-09-05"
  },
+ "https://docs.cloud.google.com/release-notes#September_05_2026": {
+  "blog": "Google Cloud Release Notes",
+  "first_seen": "2026-09-07"
+ },
+ "https://docs.cloud.google.com/release-notes#September_06_2026": {
+  "blog": "Google Cloud Release Notes",
+  "first_seen": "2026-09-07"
+ },
  "https://dropbox.tech/culture/beyond-code-generation-rethinking-engineering-productivity-in-the-age-of-ai-agents": {
   "blog": "Dropbox Tech",
   "first_seen": "2026-07-08"
@@ -19511,6 +19583,10 @@
   "blog": "カミナシ",
   "first_seen": "2026-08-25"
  },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/09/07/ai-era-engineer-interviews": {
+  "blog": "カミナシ",
+  "first_seen": "2026-09-07"
+ },
  "https://kaminashi-developer.hatenablog.jp/entry/ai-driven-dev-event": {
   "blog": "カミナシ",
   "first_seen": "2026-07-08"
@@ -20934,6 +21010,14 @@
  "https://kawarimidoll.com/posts/202609052/": {
   "blog": "kawarimidoll.com",
   "first_seen": "2026-09-06"
+ },
+ "https://kawarimidoll.com/posts/202609061/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-07"
+ },
+ "https://kawarimidoll.com/posts/202609062/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-07"
  },
  "https://konifar-zatsu.hatenadiary.jp/entry/2025/09/28/104415": {
   "blog": "konifar-zatsu",
@@ -25643,6 +25727,10 @@
   "blog": "songmu.jp",
   "first_seen": "2026-08-24"
  },
+ "https://songmu.jp/riji/entry/2026-09-06-mdhq.html": {
+  "blog": "songmu.jp",
+  "first_seen": "2026-09-07"
+ },
  "https://songmu.jp/riji/entry/2026-development-environment.html": {
   "blog": "songmu.jp",
   "first_seen": "2026-07-07"
@@ -29991,6 +30079,10 @@
   "blog": "Publickey",
   "first_seen": "2026-07-15"
  },
+ "https://www.publickey1.jp/blog/26/javascriptcporfforwasm.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-09-07"
+ },
  "https://www.publickey1.jp/blog/26/javascriptspreadjs.html": {
   "blog": "Publickey",
   "first_seen": "2026-07-16"
@@ -30122,6 +30214,10 @@
  "https://www.publickey1.jp/blog/26/vs_codeairubber_duck.html": {
   "blog": "Publickey",
   "first_seen": "2026-09-02"
+ },
+ "https://www.publickey1.jp/blog/26/vs_codethe_story_of_vs_codeyoutubeibmmsvs_code.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-09-07"
  },
  "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html": {
   "blog": "Publickey",
@@ -31122,6 +31218,10 @@
  "https://zenn.dev/smartcamp/articles/06696b8bf6b9dc": {
   "blog": "SMARTCAMP",
   "first_seen": "2026-07-07"
+ },
+ "https://zenn.dev/smartcamp/articles/07b6485eb7bfc8": {
+  "blog": "SMARTCAMP",
+  "first_seen": "2026-09-07"
  },
  "https://zenn.dev/smartcamp/articles/10ddf0d04ee402": {
   "blog": "SMARTCAMP",
