@@ -404,3 +404,7 @@
 - name: MotherDuck
   url: https://motherduck.com/blog/
   feed: https://motherduck.com/rss.xml
+
+- name: JSer.info
+  url: https://jser.info/
+  feed: https://jser.info/rss/
