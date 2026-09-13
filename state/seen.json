@@ -2519,6 +2519,10 @@
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
  },
+ "https://azukiazusa.dev/blog/react-fragment-refs": {
+  "blog": "azukiazusa.dev",
+  "first_seen": "2026-09-14"
+ },
  "https://azukiazusa.dev/blog/react-hook-form-zod-5-patterns": {
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
@@ -3886,6 +3890,10 @@
  "https://blog.inorinrinrin.com/entry/b80576e5-1efc-2c1a-bf81-ee838b66db06?utm_source=feed": {
   "blog": "blog.inorinrinrin.com",
   "first_seen": "2026-08-08"
+ },
+ "https://blog.inorinrinrin.com/entry/c88f7714-055b-ddca-a3ae-e5a6f4aa04cc?utm_source=feed": {
+  "blog": "blog.inorinrinrin.com",
+  "first_seen": "2026-09-14"
  },
  "https://blog.inorinrinrin.com/entry/e81f0d18-3575-a486-8679-c1d7f025e28e?utm_source=feed": {
   "blog": "blog.inorinrinrin.com",
@@ -5287,6 +5295,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-09-11"
  },
+ "https://dev.classmethod.jp/articles/20260911-amazon-quick-s3-acl/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-14"
+ },
  "https://dev.classmethod.jp/articles/20260911-cc-updates-v2-1-268/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-09-12"
@@ -5530,6 +5542,10 @@
  "https://dev.classmethod.jp/articles/amazon-bedrock-agentcore-unified-observability-single-log-group/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-25"
+ },
+ "https://dev.classmethod.jp/articles/amazon-bedrock-knowledge-base-document-acl-debugging/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-14"
  },
  "https://dev.classmethod.jp/articles/amazon-bedrock-mantle-project-cost-attribution/": {
   "blog": "DevelopersIO",
@@ -5799,6 +5815,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-26"
  },
+ "https://dev.classmethod.jp/articles/amazon-quick-activity-feed-mobile/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-14"
+ },
  "https://dev.classmethod.jp/articles/amazon-quick-ai-data-utilization-business-automation/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-23"
@@ -5962,6 +5982,10 @@
  "https://dev.classmethod.jp/articles/android-cli-skill-xml-to-compose/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-22"
+ },
+ "https://dev.classmethod.jp/articles/apigateway-execution-logs-vended-delivery/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-14"
  },
  "https://dev.classmethod.jp/articles/apple-business-api-device-info-get/": {
   "blog": "DevelopersIO",
@@ -6462,6 +6486,10 @@
  "https://dev.classmethod.jp/articles/aws-transform-dotnet-cli/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-09-12"
+ },
+ "https://dev.classmethod.jp/articles/aws-transform-net-unit-tests/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-14"
  },
  "https://dev.classmethod.jp/articles/aws-trendcheck-202607/": {
   "blog": "DevelopersIO",
@@ -7743,6 +7771,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-02"
  },
+ "https://dev.classmethod.jp/articles/dynamodb-vector-s3vectors-diff/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-14"
+ },
  "https://dev.classmethod.jp/articles/ebs-snapshot-scorer-organizations-cur/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-31"
@@ -8395,6 +8427,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-27"
  },
+ "https://dev.classmethod.jp/articles/investigate-cost-anomaly-with-finops-agent/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-14"
+ },
  "https://dev.classmethod.jp/articles/investigating-compute-engine-shielded-vm/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-13"
@@ -8759,9 +8795,17 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-09-11"
  },
+ "https://dev.classmethod.jp/articles/lambda-network-bandwidth-3000mbps/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-14"
+ },
  "https://dev.classmethod.jp/articles/lambda-preview-python315-node26/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-02"
+ },
+ "https://dev.classmethod.jp/articles/lambda-s3files-direct-read/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-14"
  },
  "https://dev.classmethod.jp/articles/lambda-secrets-manager-db-connection/": {
   "blog": "DevelopersIO",
@@ -9054,6 +9098,10 @@
  "https://dev.classmethod.jp/articles/myan-ecs-fargate-php-verify/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-22"
+ },
+ "https://dev.classmethod.jp/articles/myan-google-cloud-run-sql-private-20260911/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-14"
  },
  "https://dev.classmethod.jp/articles/myan-morning-routine-claudecode-obsidian-01/": {
   "blog": "DevelopersIO",
@@ -20391,6 +20439,10 @@
   "blog": "カミナシ",
   "first_seen": "2026-09-07"
  },
+ "https://kaminashi-developer.hatenablog.jp/entry/2026/09/14/frontend-beyond-vibe-coding": {
+  "blog": "カミナシ",
+  "first_seen": "2026-09-14"
+ },
  "https://kaminashi-developer.hatenablog.jp/entry/ai-driven-dev-event": {
   "blog": "カミナシ",
   "first_seen": "2026-07-08"
@@ -21870,6 +21922,14 @@
  "https://kawarimidoll.com/posts/202609122/": {
   "blog": "kawarimidoll.com",
   "first_seen": "2026-09-13"
+ },
+ "https://kawarimidoll.com/posts/202609131/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-14"
+ },
+ "https://kawarimidoll.com/posts/202609132/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-14"
  },
  "https://konifar-zatsu.hatenadiary.jp/entry/2025/09/28/104415": {
   "blog": "konifar-zatsu",
@@ -24859,6 +24919,10 @@
   "blog": "seangoedecke.com",
   "first_seen": "2026-07-07"
  },
+ "https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-09-14"
+ },
  "https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/": {
   "blog": "seangoedecke.com",
   "first_seen": "2026-07-07"
@@ -25002,6 +25066,10 @@
  "https://seangoedecke.com/simple-work-gets-rewarded/": {
   "blog": "seangoedecke.com",
   "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-09-14"
  },
  "https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/": {
   "blog": "seangoedecke.com",
@@ -28043,6 +28111,10 @@
   "blog": "Findy",
   "first_seen": "2026-09-08"
  },
+ "https://tech.findy.co.jp/entry/2026/09/14/070000": {
+  "blog": "Findy",
+  "first_seen": "2026-09-14"
+ },
  "https://tech.findy.co.jp/entry/20260526070000": {
   "blog": "Findy",
   "first_seen": "2026-07-07"
@@ -30983,6 +31055,10 @@
   "blog": "Publickey",
   "first_seen": "2026-08-10"
  },
+ "https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-09-14"
+ },
  "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html": {
   "blog": "Publickey",
   "first_seen": "2026-07-22"
@@ -31215,6 +31291,10 @@
   "blog": "Publickey",
   "first_seen": "2026-07-21"
  },
+ "https://www.publickey1.jp/blog/26/rustcctstier_1.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-09-14"
+ },
  "https://www.publickey1.jp/blog/26/rustwebtopcoattokio.html": {
   "blog": "Publickey",
   "first_seen": "2026-08-04"
@@ -31234,6 +31314,10 @@
  "https://www.publickey1.jp/blog/26/superlogical.html": {
   "blog": "Publickey",
   "first_seen": "2026-08-07"
+ },
+ "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html": {
+  "blog": "Publickey",
+  "first_seen": "2026-09-14"
  },
  "https://www.publickey1.jp/blog/26/unity_7mononet_coreclr.html": {
   "blog": "Publickey",
