@@ -1255,6 +1255,10 @@
   "blog": "AWS Japan Blog",
   "first_seen": "2026-08-18"
  },
+ "https://aws.amazon.com/jp/blogs/news/monthly-manufacturing-202609/": {
+  "blog": "AWS Japan Blog",
+  "first_seen": "2026-09-20"
+ },
  "https://aws.amazon.com/jp/blogs/news/multitenant-ai-agent-saas-architecture-aws-summit-japan-2026/": {
   "blog": "AWS Japan Blog",
   "first_seen": "2026-07-28"
@@ -1422,6 +1426,10 @@
  "https://aws.amazon.com/jp/blogs/news/smart-products-ai-sdlc-operation/": {
   "blog": "AWS Japan Blog",
   "first_seen": "2026-08-20"
+ },
+ "https://aws.amazon.com/jp/blogs/news/software-factory-1000-prs/": {
+  "blog": "AWS Japan Blog",
+  "first_seen": "2026-09-20"
  },
  "https://aws.amazon.com/jp/blogs/news/sonic-rumble-party-dynamodb-elasticache/": {
   "blog": "AWS Japan Blog",
@@ -2314,6 +2322,10 @@
  "https://azukiazusa.dev/blog/jest-timer-test": {
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
+ },
+ "https://azukiazusa.dev/blog/jev-support-routing": {
+  "blog": "azukiazusa.dev",
+  "first_seen": "2026-09-20"
  },
  "https://azukiazusa.dev/blog/jsdoc-typescript": {
   "blog": "azukiazusa.dev",
@@ -5523,6 +5535,14 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-09-19"
  },
+ "https://dev.classmethod.jp/articles/20260919-amazon-quick-generate-sheets-and-analysis-from-an-image/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-20"
+ },
+ "https://dev.classmethod.jp/articles/20260919-cc-updates-v2-1-278/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-20"
+ },
  "https://dev.classmethod.jp/articles/26-external-training-takanami/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-09"
@@ -5802,6 +5822,10 @@
  "https://dev.classmethod.jp/articles/amazon-bedrock-agentcore-gateway-3lo-github-slack-google-calendar/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-30"
+ },
+ "https://dev.classmethod.jp/articles/amazon-bedrock-agentcore-runtime-v2-memory-usage-logs/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-20"
  },
  "https://dev.classmethod.jp/articles/amazon-bedrock-agentcore-runtime-v2-tried/": {
   "blog": "DevelopersIO",
@@ -6226,6 +6250,10 @@
  "https://dev.classmethod.jp/articles/amazon-ses-supports-smime-signing/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-09-05"
+ },
+ "https://dev.classmethod.jp/articles/amazon-sns-1mib-support/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-20"
  },
  "https://dev.classmethod.jp/articles/amazon-workspaces-personal-supports-nested-virtualization/": {
   "blog": "DevelopersIO",
@@ -6711,6 +6739,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-19"
  },
+ "https://dev.classmethod.jp/articles/aws-privatelink-tunnel-endpoint-cross-account/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-20"
+ },
  "https://dev.classmethod.jp/articles/aws-savings-plans-overcommit-warning-check/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-29"
@@ -7054,6 +7086,10 @@
  "https://dev.classmethod.jp/articles/broadcast-event-20260710/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-10"
+ },
+ "https://dev.classmethod.jp/articles/bs1170-cortex-sense-swttokyo26/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-20"
  },
  "https://dev.classmethod.jp/articles/budgets-gui-cli/": {
   "blog": "DevelopersIO",
@@ -8927,6 +8963,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-18"
  },
+ "https://dev.classmethod.jp/articles/jawsug-yokohama-sre-lt-20260918/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-20"
+ },
  "https://dev.classmethod.jp/articles/jest-open-handles-localstack-floci/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-13"
@@ -10195,6 +10235,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-09-15"
  },
+ "https://dev.classmethod.jp/articles/reona-dgx-spark-switchyard-jev-classifier/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-20"
+ },
  "https://dev.classmethod.jp/articles/reona-herdr-remote-mac-mini/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-08"
@@ -10722,6 +10766,10 @@
  "https://dev.classmethod.jp/articles/snowflake-tag-based-policies-aggregation-row-access-projection-join/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-07"
+ },
+ "https://dev.classmethod.jp/articles/snowflake-trusted-semantic-layer-swttokyo26/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-20"
  },
  "https://dev.classmethod.jp/articles/snowflake-try-appruntime-with-elementary-report/": {
   "blog": "DevelopersIO",
@@ -11290,6 +11338,10 @@
  "https://dev.classmethod.jp/articles/twilio-verify-email-otp/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-14"
+ },
+ "https://dev.classmethod.jp/articles/typesafe-jev-base64-pdf/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-20"
  },
  "https://dev.classmethod.jp/articles/typescript-module-level-singleton-tradeoffs/": {
   "blog": "DevelopersIO",
@@ -16966,6 +17018,10 @@
  "https://developers.cloudflare.com/changelog/post/2026-09-18-cloudflared-architecture-deprecation/": {
   "blog": "Cloudflare Changelog",
   "first_seen": "2026-09-19"
+ },
+ "https://developers.cloudflare.com/changelog/post/2026-09-18-unified-routing-ga/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-09-20"
  },
  "https://developers.cloudflare.com/changelog/post/2026-1-15-crowdstrike-score/": {
   "blog": "Cloudflare Changelog",
@@ -22819,6 +22875,14 @@
   "blog": "kawarimidoll.com",
   "first_seen": "2026-09-19"
  },
+ "https://kawarimidoll.com/posts/202609191/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-20"
+ },
+ "https://kawarimidoll.com/posts/202609192/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-20"
+ },
  "https://konifar-zatsu.hatenadiary.jp/entry/2025/09/28/104415": {
   "blog": "konifar-zatsu",
   "first_seen": "2026-07-07"
@@ -28151,6 +28215,10 @@
   "blog": "syu-m-5151",
   "first_seen": "2026-09-19"
  },
+ "https://syu-m-5151.hatenablog.com/entry/2026/09/19/112330": {
+  "blog": "syu-m-5151",
+  "first_seen": "2026-09-20"
+ },
  "https://taketo957.hatenablog.com/entry/2025/09/02/125043": {
   "blog": "HERP Tech Hub",
   "first_seen": "2026-07-08"
@@ -29362,6 +29430,10 @@
  "https://tech.layerx.co.jp/entry/snowflake-summit-2026": {
   "blog": "LayerX",
   "first_seen": "2026-07-07"
+ },
+ "https://tech.layerx.co.jp/entry/snowflake-world-tour-tokyo-2026": {
+  "blog": "LayerX",
+  "first_seen": "2026-09-20"
  },
  "https://tech.layerx.co.jp/entry/sponsorship-sre-next-2026": {
   "blog": "LayerX",
