@@ -2339,6 +2339,10 @@
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
  },
+ "https://azukiazusa.dev/blog/json-render-jev": {
+  "blog": "azukiazusa.dev",
+  "first_seen": "2026-09-21"
+ },
  "https://azukiazusa.dev/blog/kiro-agent-ide": {
   "blog": "azukiazusa.dev",
   "first_seen": "2026-07-07"
@@ -6059,6 +6063,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-09-01"
  },
+ "https://dev.classmethod.jp/articles/amazon-ec2-memory-metrics-management-console/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-21"
+ },
  "https://dev.classmethod.jp/articles/amazon-ecr-200gb-image-layer/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-06"
@@ -6747,6 +6755,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-08-29"
  },
+ "https://dev.classmethod.jp/articles/aws-security-agent-credential-test-domain/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-21"
+ },
  "https://dev.classmethod.jp/articles/aws-security-enhancement-program-guide/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-01"
@@ -7142,6 +7154,10 @@
  "https://dev.classmethod.jp/articles/ccoe-kansai-9-arap/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-18"
+ },
+ "https://dev.classmethod.jp/articles/cdk-chatbot-loggroup-retention/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-21"
  },
  "https://dev.classmethod.jp/articles/cdk-import-loggroup-retention/": {
   "blog": "DevelopersIO",
@@ -7942,6 +7958,10 @@
  "https://dev.classmethod.jp/articles/daujii-hsp3-todo-api-aws-lambda-custom-runtime/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-15"
+ },
+ "https://dev.classmethod.jp/articles/dbt-charts-snowflake-dbt-model-yaml-dashboard/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-21"
  },
  "https://dev.classmethod.jp/articles/dbt-projects-on-snowflake-run-one-project-concurrently/": {
   "blog": "DevelopersIO",
@@ -8983,6 +9003,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-09-18"
  },
+ "https://dev.classmethod.jp/articles/jev-guide-with-examples/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-21"
+ },
  "https://dev.classmethod.jp/articles/jev-support-for-nemo-switchyard/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-09-19"
@@ -9431,6 +9455,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-07-13"
  },
+ "https://dev.classmethod.jp/articles/m365-e5-sandbox-purview/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-21"
+ },
  "https://dev.classmethod.jp/articles/m5sticks3-aws-iot-core-mqtt/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-30"
@@ -9599,6 +9627,10 @@
   "blog": "DevelopersIO",
   "first_seen": "2026-09-03"
  },
+ "https://dev.classmethod.jp/articles/muscle-engineer-buildup-organizer-retrospective/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-21"
+ },
  "https://dev.classmethod.jp/articles/myan-aws-canary-crossaccount/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-07-17"
@@ -9686,6 +9718,10 @@
  "https://dev.classmethod.jp/articles/nocobase-docker-compose-local/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-09-10"
+ },
+ "https://dev.classmethod.jp/articles/nocobase-first-app/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-21"
  },
  "https://dev.classmethod.jp/articles/nocobase-sticky-header/": {
   "blog": "DevelopersIO",
@@ -10054,6 +10090,10 @@
  "https://dev.classmethod.jp/articles/privatelink-configuring-access-to-streamlit-in-snowflake-per-account-url/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-09-07"
+ },
+ "https://dev.classmethod.jp/articles/privatelink-tunnel-endpoint-cidr-overlap/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-21"
  },
  "https://dev.classmethod.jp/articles/project-valhalla-value-class-java/": {
   "blog": "DevelopersIO",
@@ -10626,6 +10666,10 @@
  "https://dev.classmethod.jp/articles/sleep-data-statistics/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-08-04"
+ },
+ "https://dev.classmethod.jp/articles/sliding-with-claude-cowork-and-slack/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-21"
  },
  "https://dev.classmethod.jp/articles/slug-YmNuuDtIupOf/": {
   "blog": "DevelopersIO",
@@ -11342,6 +11386,10 @@
  "https://dev.classmethod.jp/articles/typesafe-jev-base64-pdf/": {
   "blog": "DevelopersIO",
   "first_seen": "2026-09-20"
+ },
+ "https://dev.classmethod.jp/articles/typesafe-jev-cross-match/": {
+  "blog": "DevelopersIO",
+  "first_seen": "2026-09-21"
  },
  "https://dev.classmethod.jp/articles/typescript-module-level-singleton-tradeoffs/": {
   "blog": "DevelopersIO",
@@ -16895,6 +16943,10 @@
   "blog": "Cloudflare Changelog",
   "first_seen": "2026-09-10"
  },
+ "https://developers.cloudflare.com/changelog/post/2026-09-07-application-profiles/": {
+  "blog": "Cloudflare Changelog",
+  "first_seen": "2026-09-21"
+ },
  "https://developers.cloudflare.com/changelog/post/2026-09-08-miniflare-v5/": {
   "blog": "Cloudflare Changelog",
   "first_seen": "2026-09-09"
@@ -21071,6 +21123,10 @@
   "blog": "kakakakakku blog",
   "first_seen": "2026-09-17"
  },
+ "https://kakakakakku.hatenablog.com/entry/2026/09/20/191852": {
+  "blog": "kakakakakku blog",
+  "first_seen": "2026-09-21"
+ },
  "https://kakehashi-dev.hatenablog.com/entry/2026/03/09/090000": {
   "blog": "カケハシ",
   "first_seen": "2026-07-08"
@@ -22882,6 +22938,14 @@
  "https://kawarimidoll.com/posts/202609192/": {
   "blog": "kawarimidoll.com",
   "first_seen": "2026-09-20"
+ },
+ "https://kawarimidoll.com/posts/202609201/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-21"
+ },
+ "https://kawarimidoll.com/posts/202609202/": {
+  "blog": "kawarimidoll.com",
+  "first_seen": "2026-09-21"
  },
  "https://konifar-zatsu.hatenadiary.jp/entry/2025/09/28/104415": {
   "blog": "konifar-zatsu",
@@ -26007,6 +26071,10 @@
   "blog": "seangoedecke.com",
   "first_seen": "2026-08-21"
  },
+ "https://seangoedecke.com/grit-your-teeth-and-ship-it/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-09-21"
+ },
  "https://seangoedecke.com/help-peer/": {
   "blog": "seangoedecke.com",
   "first_seen": "2026-08-19"
@@ -26122,6 +26190,10 @@
  "https://seangoedecke.com/steering-vectors/": {
   "blog": "seangoedecke.com",
   "first_seen": "2026-07-07"
+ },
+ "https://seangoedecke.com/system-one-models-can-train-their-own-replacements/": {
+  "blog": "seangoedecke.com",
+  "first_seen": "2026-09-21"
  },
  "https://seangoedecke.com/tell-agents-the-why/": {
   "blog": "seangoedecke.com",
@@ -28218,6 +28290,10 @@
  "https://syu-m-5151.hatenablog.com/entry/2026/09/19/112330": {
   "blog": "syu-m-5151",
   "first_seen": "2026-09-20"
+ },
+ "https://syu-m-5151.hatenablog.com/entry/2026/09/20/120746": {
+  "blog": "syu-m-5151",
+  "first_seen": "2026-09-21"
  },
  "https://taketo957.hatenablog.com/entry/2025/09/02/125043": {
   "blog": "HERP Tech Hub",
